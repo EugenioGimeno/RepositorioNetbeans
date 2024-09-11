@@ -1,0 +1,4756 @@
+1	Escalera_Real	AS	K	Q	J	10	TRUE
+2	Escalera_Color	K	Q	J	10	9	TRUE
+3	Escalera_Color	Q	J	10	9	8	TRUE
+4	Escalera_Color	J	10	9	8	7	TRUE
+5	Escalera_Color	10	9	8	7	6	TRUE
+6	Escalera_Color	9	8	7	6	5	TRUE
+7	Escalera_Color	8	7	6	5	4	TRUE
+8	Escalera_Color	7	6	5	4	3	TRUE
+9	Escalera_Color	6	5	4	3	2	TRUE
+10	Póker	Ases	As	As	As	As	
+11	Póker	KS	K	K	K	K	
+12	Póker	QS	Q	Q	Q	Q	
+13	Póker	Jotas	J	J	J	J	
+14	Póker	Dieces	10	10	10	10	
+15	Póker	Nueves	9	9	9	9	
+16	Póker	Ochos	8	8	8	8	
+17	Póker	Sietes	7	7	7	7	
+18	Póker	Seises	6	6	6	6	
+19	Póker	Cincos	5	5	5	5	
+20	Póker	Cuatros	4	4	4	4	
+21	Póker	Treses	3	3	3	3	
+22	Póker	Doses	2	2	2	2	
+23	Full	As	As	As	K	K	
+24	Full	As	As	As	Q	Q	
+25	Full	As	As	As	J	J	
+26	Full	As	As	As	10	10	
+27	Full	As	As	As	9	9	
+28	Full	As	As	As	8	8	
+29	Full	As	As	As	7	7	
+30	Full	As	As	As	6	6	
+31	Full	As	As	As	5	5	
+32	Full	As	As	As	4	4	
+33	Full	As	As	As	3	3	
+34	Full	As	As	As	2	2	
+35	Full	K	K	K	As	As	
+36	Full	K	K	K	Q	Q	
+37	Full	K	K	K	J	J	
+38	Full	K	K	K	10	10	
+39	Full	K	K	K	9	9	
+40	Full	K	K	K	8	8	
+41	Full	K	K	K	7	7	
+42	Full	K	K	K	6	6	
+43	Full	K	K	K	5	5	
+44	Full	K	K	K	4	4	
+45	Full	K	K	K	3	3	
+46	Full	K	K	K	2	2	
+47	Full	Q	Q	Q	As	As	
+48	Full	Q	Q	Q	K	K	
+49	Full	Q	Q	Q	J	J	
+50	Full	Q	Q	Q	10	10	
+51	Full	Q	Q	Q	9	9	
+52	Full	Q	Q	Q	8	8	
+53	Full	Q	Q	Q	7	7	
+54	Full	Q	Q	Q	6	6	
+55	Full	Q	Q	Q	5	5	
+56	Full	Q	Q	Q	4	4	
+57	Full	Q	Q	Q	3	3	
+58	Full	Q	Q	Q	2	2	
+59	Full	J	J	J	As	As	
+60	Full	J	J	J	K	K	
+61	Full	J	J	J	Q	Q	
+62	Full	J	J	J	10	10	
+63	Full	J	J	J	9	9	
+64	Full	J	J	J	8	8	
+65	Full	J	J	J	7	7	
+66	Full	J	J	J	6	6	
+67	Full	J	J	J	5	5	
+68	Full	J	J	J	4	4	
+69	Full	J	J	J	3	3	
+70	Full	J	J	J	2	2	
+71	Full	10	10	10	As	As	
+72	Full	10	10	10	K	K	
+73	Full	10	10	10	Q	Q	
+74	Full	10	10	10	J	J	
+75	Full	10	10	10	9	9	
+76	Full	10	10	10	8	8	
+77	Full	10	10	10	7	7	
+78	Full	10	10	10	6	6	
+79	Full	10	10	10	5	5	
+80	Full	10	10	10	4	4	
+81	Full	10	10	10	3	3	
+82	Full	10	10	10	2	2	
+83	Full	9	9	9	As	As	
+84	Full	9	9	9	K	K	
+85	Full	9	9	9	Q	Q	
+86	Full	9	9	9	J	J	
+87	Full	9	9	9	10	10	
+88	Full	9	9	9	8	8	
+89	Full	9	9	9	7	7	
+90	Full	9	9	9	6	6	
+91	Full	9	9	9	5	5	
+92	Full	9	9	9	4	4	
+93	Full	9	9	9	3	3	
+94	Full	9	9	9	2	2	
+95	Full	8	8	8	As	As	
+96	Full	8	8	8	K	K	
+97	Full	8	8	8	Q	Q	
+98	Full	8	8	8	J	J	
+99	Full	8	8	8	10	10	
+100	Full	8	8	8	9	9	
+101	Full	8	8	8	7	7	
+102	Full	8	8	8	6	6	
+103	Full	8	8	8	5	5	
+104	Full	8	8	8	4	4	
+105	Full	8	8	8	3	3	
+106	Full	8	8	8	2	2	
+107	Full	7	7	7	As	As	
+108	Full	7	7	7	K	K	
+109	Full	7	7	7	Q	Q	
+110	Full	7	7	7	J	J	
+111	Full	7	7	7	10	10	
+112	Full	7	7	7	9	9	
+113	Full	7	7	7	8	8	
+114	Full	7	7	7	6	6	
+115	Full	7	7	7	5	5	
+116	Full	7	7	7	4	4	
+117	Full	7	7	7	3	3	
+118	Full	7	7	7	2	2	
+119	Full	6	6	6	As	As	
+120	Full	6	6	6	K	K	
+121	Full	6	6	6	Q	Q	
+122	Full	6	6	6	J	J	
+123	Full	6	6	6	10	10	
+124	Full	6	6	6	9	9	
+125	Full	6	6	6	8	8	
+126	Full	6	6	6	7	7	
+127	Full	6	6	6	5	5	
+128	Full	6	6	6	4	4	
+129	Full	6	6	6	3	3	
+130	Full	6	6	6	2	2	
+131	Full	5	5	5	As	As	
+132	Full	5	5	5	K	K	
+133	Full	5	5	5	Q	Q	
+134	Full	5	5	5	J	J	
+135	Full	5	5	5	10	10	
+136	Full	5	5	5	9	9	
+137	Full	5	5	5	8	8	
+138	Full	5	5	5	7	7	
+139	Full	5	5	5	6	6	
+140	Full	5	5	5	4	4	
+141	Full	5	5	5	3	3	
+142	Full	5	5	5	2	2	
+143	Full	4	4	4	As	As	
+144	Full	4	4	4	K	K	
+145	Full	4	4	4	Q	Q	
+146	Full	4	4	4	J	J	
+147	Full	4	4	4	10	10	
+148	Full	4	4	4	9	9	
+149	Full	4	4	4	8	8	
+150	Full	4	4	4	7	7	
+151	Full	4	4	4	6	6	
+152	Full	4	4	4	5	5	
+153	Full	4	4	4	3	3	
+154	Full	4	4	4	2	2	
+155	Full	3	3	3	As	As	
+156	Full	3	3	3	K	K	
+157	Full	3	3	3	Q	Q	
+158	Full	3	3	3	J	J	
+159	Full	3	3	3	10	10	
+160	Full	3	3	3	9	9	
+161	Full	3	3	3	8	8	
+162	Full	3	3	3	7	7	
+163	Full	3	3	3	6	6	
+164	Full	3	3	3	5	5	
+165	Full	3	3	3	4	4	
+166	Full	3	3	3	2	2	
+167	Full	2	2	2	As	As	
+168	Full	2	2	2	K	K	
+169	Full	2	2	2	Q	Q	
+170	Full	2	2	2	J	J	
+171	Full	2	2	2	10	10	
+172	Full	2	2	2	9	9	
+173	Full	2	2	2	8	8	
+174	Full	2	2	2	7	7	
+175	Full	2	2	2	6	6	
+176	Full	2	2	2	5	5	
+177	Full	2	2	2	4	4	
+178	Full	2	2	2	3	3	
+179	Color	As	K	Q	J	9	TRUE
+180	Color	As	K	Q	J	8	TRUE
+181	Color	As	K	Q	J	7	TRUE
+182	Color	As	K	Q	J	6	TRUE
+183	Color	As	K	Q	J	5	TRUE
+184	Color	As	K	Q	J	4	TRUE
+185	Color	As	K	Q	J	3	TRUE
+186	Color	As	K	Q	J	2	TRUE
+187	Color	As	K	Q	10	9	TRUE
+188	Color	As	K	Q	10	8	TRUE
+189	Color	As	K	Q	10	7	TRUE
+190	Color	As	K	Q	10	6	TRUE
+191	Color	As	K	Q	10	5	TRUE
+192	Color	As	K	Q	10	4	TRUE
+193	Color	As	K	Q	10	3	TRUE
+194	Color	As	K	Q	10	2	TRUE
+195	Color	As	K	J	10	9	TRUE
+196	Color	As	K	J	10	8	TRUE
+197	Color	As	K	J	10	7	TRUE
+198	Color	As	K	J	10	6	TRUE
+199	Color	As	K	J	10	5	TRUE
+200	Color	As	K	J	10	4	TRUE
+201	Color	As	K	J	10	3	TRUE
+202	Color	As	K	J	10	2	TRUE
+203	Color	As	K	10	9	8	TRUE
+204	Color	As	K	10	9	7	TRUE
+205	Color	As	K	10	9	6	TRUE
+206	Color	As	K	10	9	5	TRUE
+207	Color	As	K	10	9	4	TRUE
+208	Color	As	K	10	9	3	TRUE
+209	Color	As	K	10	9	2	TRUE
+210	Color	As	K	9	8	7	TRUE
+211	Color	As	K	9	8	6	TRUE
+212	Color	As	K	9	8	5	TRUE
+213	Color	As	K	9	8	4	TRUE
+214	Color	As	K	9	8	3	TRUE
+215	Color	As	K	9	8	2	TRUE
+216	Color	As	K	8	7	6	TRUE
+217	Color	As	K	8	7	5	TRUE
+218	Color	As	K	8	7	4	TRUE
+219	Color	As	K	8	7	3	TRUE
+220	Color	As	K	8	7	2	TRUE
+221	Color	As	K	7	6	5	TRUE
+222	Color	As	K	7	6	4	TRUE
+223	Color	As	K	7	6	3	TRUE
+224	Color	As	K	7	6	2	TRUE
+225	Color	As	K	6	5	4	TRUE
+226	Color	As	K	6	5	3	TRUE
+227	Color	As	K	6	5	2	TRUE
+228	Color	As	K	5	4	3	TRUE
+229	Color	As	K	5	4	2	TRUE
+230	Color	As	K	4	3	2	TRUE
+231	Color	As	Q	J	10	9	TRUE
+232	Color	As	Q	J	10	8	TRUE
+233	Color	As	Q	J	10	7	TRUE
+234	Color	As	Q	J	10	6	TRUE
+235	Color	As	Q	J	10	5	TRUE
+236	Color	As	Q	J	10	4	TRUE
+237	Color	As	Q	J	10	3	TRUE
+238	Color	As	Q	J	10	2	TRUE
+239	Color	As	Q	10	9	8	TRUE
+240	Color	As	Q	10	9	7	TRUE
+241	Color	As	Q	10	9	6	TRUE
+242	Color	As	Q	10	9	5	TRUE
+243	Color	As	Q	10	9	4	TRUE
+244	Color	As	Q	10	9	3	TRUE
+245	Color	As	Q	10	9	2	TRUE
+246	Color	As	Q	9	8	7	TRUE
+247	Color	As	Q	9	8	6	TRUE
+248	Color	As	Q	9	8	5	TRUE
+249	Color	As	Q	9	8	4	TRUE
+250	Color	As	Q	9	8	3	TRUE
+251	Color	As	Q	9	8	2	TRUE
+252	Color	As	Q	8	7	6	TRUE
+253	Color	As	Q	8	7	5	TRUE
+254	Color	As	Q	8	7	4	TRUE
+255	Color	As	Q	8	7	3	TRUE
+256	Color	As	Q	8	7	2	TRUE
+257	Color	As	Q	7	6	5	TRUE
+258	Color	As	Q	7	6	4	TRUE
+259	Color	As	Q	7	6	3	TRUE
+260	Color	As	Q	7	6	2	TRUE
+261	Color	As	Q	6	5	4	TRUE
+262	Color	As	Q	6	5	3	TRUE
+263	Color	As	Q	6	5	2	TRUE
+264	Color	As	Q	5	4	3	TRUE
+265	Color	As	Q	5	4	2	TRUE
+266	Color	As	Q	4	3	2	TRUE
+267	Color	As	J	10	9	8	TRUE
+268	Color	As	J	10	9	7	TRUE
+269	Color	As	J	10	9	6	TRUE
+270	Color	As	J	10	9	5	TRUE
+271	Color	As	J	10	9	4	TRUE
+272	Color	As	J	10	9	3	TRUE
+273	Color	As	J	10	9	2	TRUE
+274	Color	As	J	9	8	7	TRUE
+275	Color	As	J	9	8	6	TRUE
+276	Color	As	J	9	8	5	TRUE
+277	Color	As	J	9	8	4	TRUE
+278	Color	As	J	9	8	3	TRUE
+279	Color	As	J	9	8	2	TRUE
+280	Color	As	J	8	7	6	TRUE
+281	Color	As	J	8	7	5	TRUE
+282	Color	As	J	8	7	4	TRUE
+283	Color	As	J	8	7	3	TRUE
+284	Color	As	J	8	7	2	TRUE
+285	Color	As	J	7	6	5	TRUE
+286	Color	As	J	7	6	4	TRUE
+287	Color	As	J	7	6	3	TRUE
+288	Color	As	J	7	6	2	TRUE
+289	Color	As	J	6	5	4	TRUE
+290	Color	As	J	6	5	3	TRUE
+291	Color	As	J	6	5	2	TRUE
+292	Color	As	J	5	4	3	TRUE
+293	Color	As	J	5	4	2	TRUE
+294	Color	As	J	4	3	2	TRUE
+295	Color	As	10	9	8	7	TRUE
+296	Color	As	10	9	8	6	TRUE
+297	Color	As	10	9	8	5	TRUE
+298	Color	As	10	9	8	4	TRUE
+299	Color	As	10	9	8	3	TRUE
+300	Color	As	10	9	8	2	TRUE
+301	Color	As	10	8	7	6	TRUE
+302	Color	As	10	8	7	5	TRUE
+303	Color	As	10	8	7	4	TRUE
+304	Color	As	10	8	7	3	TRUE
+305	Color	As	10	8	7	2	TRUE
+306	Color	As	10	7	6	5	TRUE
+307	Color	As	10	7	6	4	TRUE
+308	Color	As	10	7	6	3	TRUE
+309	Color	As	10	7	6	2	TRUE
+310	Color	As	10	6	5	4	TRUE
+311	Color	As	10	6	5	3	TRUE
+312	Color	As	10	6	5	2	TRUE
+313	Color	As	10	5	4	3	TRUE
+314	Color	As	10	5	4	2	TRUE
+315	Color	As	10	4	3	2	TRUE
+316	Color	As	9	8	7	6	TRUE
+317	Color	As	9	8	7	5	TRUE
+318	Color	As	9	8	7	4	TRUE
+319	Color	As	9	8	7	3	TRUE
+320	Color	As	9	8	7	2	TRUE
+321	Color	As	9	7	6	5	TRUE
+322	Color	As	9	7	6	4	TRUE
+323	Color	As	9	7	6	3	TRUE
+324	Color	As	9	7	6	2	TRUE
+325	Color	As	9	6	5	4	TRUE
+326	Color	As	9	6	5	3	TRUE
+327	Color	As	9	6	5	2	TRUE
+328	Color	As	9	5	4	3	TRUE
+329	Color	As	9	5	4	2	TRUE
+330	Color	As	9	4	3	2	TRUE
+331	Color	As	8	7	6	5	TRUE
+332	Color	As	8	7	6	4	TRUE
+333	Color	As	8	7	6	3	TRUE
+334	Color	As	8	7	6	2	TRUE
+335	Color	As	8	6	5	4	TRUE
+336	Color	As	8	6	5	3	TRUE
+337	Color	As	8	6	5	2	TRUE
+338	Color	As	8	5	4	3	TRUE
+339	Color	As	8	5	4	2	TRUE
+340	Color	As	8	4	3	2	TRUE
+341	Color	As	7	6	5	4	TRUE
+342	Color	As	7	6	5	3	TRUE
+343	Color	As	7	6	5	2	TRUE
+344	Color	As	7	5	4	3	TRUE
+345	Color	As	7	5	4	2	TRUE
+346	Color	As	7	4	3	2	TRUE
+347	Color	As	6	5	4	3	TRUE
+348	Color	As	6	5	4	2	TRUE
+349	Color	As	6	4	3	2	TRUE
+350	Color	K	Q	J	10	8	TRUE
+351	Color	K	Q	J	10	7	TRUE
+352	Color	K	Q	J	10	6	TRUE
+353	Color	K	Q	J	10	5	TRUE
+354	Color	K	Q	J	10	4	TRUE
+355	Color	K	Q	J	10	3	TRUE
+356	Color	K	Q	J	10	2	TRUE
+357	Color	K	Q	10	9	8	TRUE
+358	Color	K	Q	10	9	7	TRUE
+359	Color	K	Q	10	9	6	TRUE
+360	Color	K	Q	10	9	5	TRUE
+361	Color	K	Q	10	9	4	TRUE
+362	Color	K	Q	10	9	3	TRUE
+363	Color	K	Q	10	9	2	TRUE
+364	Color	K	Q	9	8	7	TRUE
+365	Color	K	Q	9	8	6	TRUE
+366	Color	K	Q	9	8	5	TRUE
+367	Color	K	Q	9	8	4	TRUE
+368	Color	K	Q	9	8	3	TRUE
+369	Color	K	Q	9	8	2	TRUE
+370	Color	K	Q	8	7	6	TRUE
+371	Color	K	Q	8	7	5	TRUE
+372	Color	K	Q	8	7	4	TRUE
+373	Color	K	Q	8	7	3	TRUE
+374	Color	K	Q	8	7	2	TRUE
+375	Color	K	Q	7	6	5	TRUE
+376	Color	K	Q	7	6	4	TRUE
+377	Color	K	Q	7	6	3	TRUE
+378	Color	K	Q	7	6	2	TRUE
+379	Color	K	Q	6	5	4	TRUE
+380	Color	K	Q	6	5	3	TRUE
+381	Color	K	Q	6	5	2	TRUE
+382	Color	K	Q	5	4	3	TRUE
+383	Color	K	Q	5	4	2	TRUE
+384	Color	K	Q	4	3	2	TRUE
+385	Color	K	J	10	9	8	TRUE
+386	Color	K	J	10	9	7	TRUE
+387	Color	K	J	10	9	6	TRUE
+388	Color	K	J	10	9	5	TRUE
+389	Color	K	J	10	9	4	TRUE
+390	Color	K	J	10	9	3	TRUE
+391	Color	K	J	10	9	2	TRUE
+392	Color	K	J	9	8	7	TRUE
+393	Color	K	J	9	8	6	TRUE
+394	Color	K	J	9	8	5	TRUE
+395	Color	K	J	9	8	4	TRUE
+396	Color	K	J	9	8	3	TRUE
+397	Color	K	J	9	8	2	TRUE
+398	Color	K	J	8	7	6	TRUE
+399	Color	K	J	8	7	5	TRUE
+400	Color	K	J	8	7	4	TRUE
+401	Color	K	J	8	7	3	TRUE
+402	Color	K	J	8	7	2	TRUE
+403	Color	K	J	7	6	5	TRUE
+404	Color	K	J	7	6	4	TRUE
+405	Color	K	J	7	6	3	TRUE
+406	Color	K	J	7	6	2	TRUE
+407	Color	K	J	6	5	4	TRUE
+408	Color	K	J	6	5	3	TRUE
+409	Color	K	J	6	5	2	TRUE
+410	Color	K	J	5	4	3	TRUE
+411	Color	K	J	5	4	2	TRUE
+412	Color	K	J	4	3	2	TRUE
+413	Color	K	10	9	8	7	TRUE
+414	Color	K	10	9	8	6	TRUE
+415	Color	K	10	9	8	5	TRUE
+416	Color	K	10	9	8	4	TRUE
+417	Color	K	10	9	8	3	TRUE
+418	Color	K	10	9	8	2	TRUE
+419	Color	K	10	8	7	6	TRUE
+420	Color	K	10	8	7	5	TRUE
+421	Color	K	10	8	7	4	TRUE
+422	Color	K	10	8	7	3	TRUE
+423	Color	K	10	8	7	2	TRUE
+424	Color	K	10	7	6	5	TRUE
+425	Color	K	10	7	6	4	TRUE
+426	Color	K	10	7	6	3	TRUE
+427	Color	K	10	7	6	2	TRUE
+428	Color	K	10	6	5	4	TRUE
+429	Color	K	10	6	5	3	TRUE
+430	Color	K	10	6	5	2	TRUE
+431	Color	K	10	5	4	3	TRUE
+432	Color	K	10	5	4	2	TRUE
+433	Color	K	10	4	3	2	TRUE
+434	Color	K	9	8	7	6	TRUE
+435	Color	K	9	8	7	5	TRUE
+436	Color	K	9	8	7	4	TRUE
+437	Color	K	9	8	7	3	TRUE
+438	Color	K	9	8	7	2	TRUE
+439	Color	K	9	7	6	5	TRUE
+440	Color	K	9	7	6	4	TRUE
+441	Color	K	9	7	6	3	TRUE
+442	Color	K	9	7	6	2	TRUE
+443	Color	K	9	6	5	4	TRUE
+444	Color	K	9	6	5	3	TRUE
+445	Color	K	9	6	5	2	TRUE
+446	Color	K	9	5	4	3	TRUE
+447	Color	K	9	5	4	2	TRUE
+448	Color	K	9	4	3	2	TRUE
+449	Color	K	8	7	6	5	TRUE
+450	Color	K	8	7	6	4	TRUE
+451	Color	K	8	7	6	3	TRUE
+452	Color	K	8	7	6	2	TRUE
+453	Color	K	8	6	5	4	TRUE
+454	Color	K	8	6	5	3	TRUE
+455	Color	K	8	6	5	2	TRUE
+456	Color	K	8	5	4	3	TRUE
+457	Color	K	8	5	4	2	TRUE
+458	Color	K	8	4	3	2	TRUE
+459	Color	K	7	6	5	4	TRUE
+460	Color	K	7	6	5	3	TRUE
+461	Color	K	7	6	5	2	TRUE
+462	Color	K	7	5	4	3	TRUE
+463	Color	K	7	5	4	2	TRUE
+464	Color	K	7	4	3	2	TRUE
+465	Color	K	6	5	4	3	TRUE
+466	Color	K	6	5	4	2	TRUE
+467	Color	K	6	4	3	2	TRUE
+468	Color	Q	J	10	9	7	TRUE
+469	Color	Q	J	10	9	6	TRUE
+470	Color	Q	J	10	9	5	TRUE
+471	Color	Q	J	10	9	4	TRUE
+472	Color	Q	J	10	9	3	TRUE
+473	Color	Q	J	10	9	2	TRUE
+474	Color	Q	J	9	8	7	TRUE
+475	Color	Q	J	9	8	6	TRUE
+476	Color	Q	J	9	8	5	TRUE
+477	Color	Q	J	9	8	4	TRUE
+478	Color	Q	J	9	8	3	TRUE
+479	Color	Q	J	9	8	2	TRUE
+480	Color	Q	J	8	7	6	TRUE
+481	Color	Q	J	8	7	5	TRUE
+482	Color	Q	J	8	7	4	TRUE
+483	Color	Q	J	8	7	3	TRUE
+484	Color	Q	J	8	7	2	TRUE
+485	Color	Q	J	7	6	5	TRUE
+486	Color	Q	J	7	6	4	TRUE
+487	Color	Q	J	7	6	3	TRUE
+488	Color	Q	J	7	6	2	TRUE
+489	Color	Q	J	6	5	4	TRUE
+490	Color	Q	J	6	5	3	TRUE
+491	Color	Q	J	6	5	2	TRUE
+492	Color	Q	J	5	4	3	TRUE
+493	Color	Q	J	5	4	2	TRUE
+494	Color	Q	J	4	3	2	TRUE
+495	Color	Q	10	9	8	7	TRUE
+496	Color	Q	10	9	8	6	TRUE
+497	Color	Q	10	9	8	5	TRUE
+498	Color	Q	10	9	8	4	TRUE
+499	Color	Q	10	9	8	3	TRUE
+500	Color	Q	10	9	8	2	TRUE
+501	Color	Q	10	8	7	6	TRUE
+502	Color	Q	10	8	7	5	TRUE
+503	Color	Q	10	8	7	4	TRUE
+504	Color	Q	10	8	7	3	TRUE
+505	Color	Q	10	8	7	2	TRUE
+506	Color	Q	10	7	6	5	TRUE
+507	Color	Q	10	7	6	4	TRUE
+508	Color	Q	10	7	6	3	TRUE
+509	Color	Q	10	7	6	2	TRUE
+510	Color	Q	10	6	5	4	TRUE
+511	Color	Q	10	6	5	3	TRUE
+512	Color	Q	10	6	5	2	TRUE
+513	Color	Q	10	5	4	3	TRUE
+514	Color	Q	10	5	4	2	TRUE
+515	Color	Q	10	4	3	2	TRUE
+516	Color	Q	9	8	7	6	TRUE
+517	Color	Q	9	8	7	5	TRUE
+518	Color	Q	9	8	7	4	TRUE
+519	Color	Q	9	8	7	3	TRUE
+520	Color	Q	9	8	7	2	TRUE
+521	Color	Q	9	7	6	5	TRUE
+522	Color	Q	9	7	6	4	TRUE
+523	Color	Q	9	7	6	3	TRUE
+524	Color	Q	9	7	6	2	TRUE
+525	Color	Q	9	6	5	4	TRUE
+526	Color	Q	9	6	5	3	TRUE
+527	Color	Q	9	6	5	2	TRUE
+528	Color	Q	9	5	4	3	TRUE
+529	Color	Q	9	5	4	2	TRUE
+530	Color	Q	9	4	3	2	TRUE
+531	Color	Q	8	7	6	5	TRUE
+532	Color	Q	8	7	6	4	TRUE
+533	Color	Q	8	7	6	3	TRUE
+534	Color	Q	8	7	6	2	TRUE
+535	Color	Q	8	6	5	4	TRUE
+536	Color	Q	8	6	5	3	TRUE
+537	Color	Q	8	6	5	2	TRUE
+538	Color	Q	8	5	4	3	TRUE
+539	Color	Q	8	5	4	2	TRUE
+540	Color	Q	8	4	3	2	TRUE
+541	Color	Q	7	6	5	4	TRUE
+542	Color	Q	7	6	5	3	TRUE
+543	Color	Q	7	6	5	2	TRUE
+544	Color	Q	7	5	4	3	TRUE
+545	Color	Q	7	5	4	2	TRUE
+546	Color	Q	7	4	3	2	TRUE
+547	Color	Q	6	5	4	3	TRUE
+548	Color	Q	6	5	4	2	TRUE
+549	Color	Q	6	4	3	2	TRUE
+550	Color	J	10	9	8	6	TRUE
+551	Color	J	10	9	8	5	TRUE
+552	Color	J	10	9	8	4	TRUE
+553	Color	J	10	9	8	3	TRUE
+554	Color	J	10	9	8	2	TRUE
+555	Color	J	10	8	7	6	TRUE
+556	Color	J	10	8	7	5	TRUE
+557	Color	J	10	8	7	4	TRUE
+558	Color	J	10	8	7	3	TRUE
+559	Color	J	10	8	7	2	TRUE
+560	Color	J	10	7	6	5	TRUE
+561	Color	J	10	7	6	4	TRUE
+562	Color	J	10	7	6	3	TRUE
+563	Color	J	10	7	6	2	TRUE
+564	Color	J	10	6	5	4	TRUE
+565	Color	J	10	6	5	3	TRUE
+566	Color	J	10	6	5	2	TRUE
+567	Color	J	10	5	4	3	TRUE
+568	Color	J	10	5	4	2	TRUE
+569	Color	J	10	4	3	2	TRUE
+570	Color	J	9	8	7	6	TRUE
+571	Color	J	9	8	7	5	TRUE
+572	Color	J	9	8	7	4	TRUE
+573	Color	J	9	8	7	3	TRUE
+574	Color	J	9	8	7	2	TRUE
+575	Color	J	9	7	6	5	TRUE
+576	Color	J	9	7	6	4	TRUE
+577	Color	J	9	7	6	3	TRUE
+578	Color	J	9	7	6	2	TRUE
+579	Color	J	9	6	5	4	TRUE
+580	Color	J	9	6	5	3	TRUE
+581	Color	J	9	6	5	2	TRUE
+582	Color	J	9	5	4	3	TRUE
+583	Color	J	9	5	4	2	TRUE
+584	Color	J	9	4	3	2	TRUE
+585	Color	J	8	7	6	5	TRUE
+586	Color	J	8	7	6	4	TRUE
+587	Color	J	8	7	6	3	TRUE
+588	Color	J	8	7	6	2	TRUE
+589	Color	J	8	6	5	4	TRUE
+590	Color	J	8	6	5	3	TRUE
+591	Color	J	8	6	5	2	TRUE
+592	Color	J	8	5	4	3	TRUE
+593	Color	J	8	5	4	2	TRUE
+594	Color	J	8	4	3	2	TRUE
+595	Color	J	7	6	5	4	TRUE
+596	Color	J	7	6	5	3	TRUE
+597	Color	J	7	6	5	2	TRUE
+598	Color	J	7	5	4	3	TRUE
+599	Color	J	7	5	4	2	TRUE
+600	Color	J	7	4	3	2	TRUE
+601	Color	J	6	5	4	3	TRUE
+602	Color	J	6	5	4	2	TRUE
+603	Color	J	6	4	3	2	TRUE
+604	Color	10	9	8	7	5	TRUE
+605	Color	10	9	8	7	4	TRUE
+606	Color	10	9	8	7	3	TRUE
+607	Color	10	9	8	7	2	TRUE
+608	Color	10	9	7	6	5	TRUE
+609	Color	10	9	7	6	4	TRUE
+610	Color	10	9	7	6	3	TRUE
+611	Color	10	9	7	6	2	TRUE
+612	Color	10	9	6	5	4	TRUE
+613	Color	10	9	6	5	3	TRUE
+614	Color	10	9	6	5	2	TRUE
+615	Color	10	9	5	4	3	TRUE
+616	Color	10	9	5	4	2	TRUE
+617	Color	10	9	4	3	2	TRUE
+618	Color	10	8	7	6	5	TRUE
+619	Color	10	8	7	6	4	TRUE
+620	Color	10	8	7	6	3	TRUE
+621	Color	10	8	7	6	2	TRUE
+622	Color	10	8	6	5	4	TRUE
+623	Color	10	8	6	5	3	TRUE
+624	Color	10	8	6	5	2	TRUE
+625	Color	10	8	5	4	3	TRUE
+626	Color	10	8	5	4	2	TRUE
+627	Color	10	8	4	3	2	TRUE
+628	Color	10	7	6	5	4	TRUE
+629	Color	10	7	6	5	3	TRUE
+630	Color	10	7	6	5	2	TRUE
+631	Color	10	7	5	4	3	TRUE
+632	Color	10	7	5	4	2	TRUE
+633	Color	10	7	4	3	2	TRUE
+634	Color	10	6	5	4	3	TRUE
+635	Color	10	6	5	4	2	TRUE
+636	Color	10	6	4	3	2	TRUE
+637	Color	9	8	7	6	4	TRUE
+638	Color	9	8	7	6	3	TRUE
+639	Color	9	8	7	6	2	TRUE
+640	Color	9	8	6	5	4	TRUE
+641	Color	9	8	6	5	3	TRUE
+642	Color	9	8	6	5	2	TRUE
+643	Color	9	8	5	4	3	TRUE
+644	Color	9	8	5	4	2	TRUE
+645	Color	9	8	4	3	2	TRUE
+646	Color	9	7	6	5	4	TRUE
+647	Color	9	7	6	5	3	TRUE
+648	Color	9	7	6	5	2	TRUE
+649	Color	9	7	5	4	3	TRUE
+650	Color	9	7	5	4	2	TRUE
+651	Color	9	7	4	3	2	TRUE
+652	Color	9	6	5	4	3	TRUE
+653	Color	9	6	5	4	2	TRUE
+654	Color	9	6	4	3	2	TRUE
+655	Color	8	7	6	5	3	TRUE
+656	Color	8	7	6	5	2	TRUE
+657	Color	8	7	5	4	3	TRUE
+658	Color	8	7	5	4	2	TRUE
+659	Color	8	7	4	3	2	TRUE
+660	Color	8	6	5	4	3	TRUE
+661	Color	8	6	5	4	2	TRUE
+662	Color	8	6	4	3	2	TRUE
+663	Color	7	6	5	4	2	TRUE
+664	Color	7	6	4	3	2	TRUE
+665	Escalera	K	Q	J	10	9	FALSE
+666	Escalera	Q	J	10	9	8	FALSE
+667	Escalera	J	10	9	8	7	FALSE
+668	Escalera	10	9	8	7	6	FALSE
+669	Escalera	9	8	7	6	5	FALSE
+670	Escalera	8	7	6	5	4	FALSE
+671	Escalera	7	6	5	4	3	FALSE
+672	Escalera	6	5	4	3	2	FALSE
+673	Trio	AS	AS	AS	2	3	
+674	Trio	AS	AS	AS	2	4	
+675	Trio	AS	AS	AS	2	5	
+676	Trio	AS	AS	AS	2	6	
+677	Trio	AS	AS	AS	2	7	
+678	Trio	AS	AS	AS	2	8	
+679	Trio	AS	AS	AS	2	9	
+680	Trio	AS	AS	AS	2	10	
+681	Trio	AS	AS	AS	2	J	
+682	Trio	AS	AS	AS	2	Q	
+683	Trio	AS	AS	AS	2	K	
+684	Trio	AS	AS	AS	3	4	
+685	Trio	AS	AS	AS	3	5	
+686	Trio	AS	AS	AS	3	6	
+687	Trio	AS	AS	AS	3	7	
+688	Trio	AS	AS	AS	3	8	
+689	Trio	AS	AS	AS	3	9	
+690	Trio	AS	AS	AS	3	10	
+691	Trio	AS	AS	AS	3	J	
+692	Trio	AS	AS	AS	3	Q	
+693	Trio	AS	AS	AS	3	K	
+694	Trio	AS	AS	AS	4	5	
+695	Trio	AS	AS	AS	4	6	
+696	Trio	AS	AS	AS	4	7	
+697	Trio	AS	AS	AS	4	8	
+698	Trio	AS	AS	AS	4	9	
+699	Trio	AS	AS	AS	4	10	
+700	Trio	AS	AS	AS	4	J	
+701	Trio	AS	AS	AS	4	Q	
+702	Trio	AS	AS	AS	4	K	
+703	Trio	AS	AS	AS	5	6	
+704	Trio	AS	AS	AS	5	7	
+705	Trio	AS	AS	AS	5	8	
+706	Trio	AS	AS	AS	5	9	
+707	Trio	AS	AS	AS	5	10	
+708	Trio	AS	AS	AS	5	J	
+709	Trio	AS	AS	AS	5	Q	
+710	Trio	AS	AS	AS	5	K	
+711	Trio	AS	AS	AS	6	7	
+712	Trio	AS	AS	AS	6	8	
+713	Trio	AS	AS	AS	6	9	
+714	Trio	AS	AS	AS	6	10	
+715	Trio	AS	AS	AS	6	J	
+716	Trio	AS	AS	AS	6	Q	
+717	Trio	AS	AS	AS	6	K	
+718	Trio	AS	AS	AS	7	8	
+719	Trio	AS	AS	AS	7	9	
+720	Trio	AS	AS	AS	7	10	
+721	Trio	AS	AS	AS	7	J	
+722	Trio	AS	AS	AS	7	Q	
+723	Trio	AS	AS	AS	7	K	
+724	Trio	AS	AS	AS	8	9	
+725	Trio	AS	AS	AS	8	10	
+726	Trio	AS	AS	AS	8	J	
+727	Trio	AS	AS	AS	8	Q	
+728	Trio	AS	AS	AS	8	K	
+729	Trio	AS	AS	AS	9	10	
+730	Trio	AS	AS	AS	9	J	
+731	Trio	AS	AS	AS	9	Q	
+732	Trio	AS	AS	AS	9	K	
+733	Trio	AS	AS	AS	10	J	
+734	Trio	AS	AS	AS	10	Q	
+735	Trio	AS	AS	AS	10	K	
+736	Trio	AS	AS	AS	J	Q	
+737	Trio	AS	AS	AS	J	K	
+738	Trio	AS	AS	AS	Q	K	
+739	Trio	K	K	K	2	3	
+740	Trio	K	K	K	2	4	
+741	Trio	K	K	K	2	5	
+742	Trio	K	K	K	2	6	
+743	Trio	K	K	K	2	7	
+744	Trio	K	K	K	2	8	
+745	Trio	K	K	K	2	9	
+746	Trio	K	K	K	2	10	
+747	Trio	K	K	K	2	J	
+748	Trio	K	K	K	2	Q	
+749	Trio	K	K	K	2	AS	
+750	Trio	K	K	K	3	4	
+751	Trio	K	K	K	3	5	
+752	Trio	K	K	K	3	6	
+753	Trio	K	K	K	3	7	
+754	Trio	K	K	K	3	8	
+755	Trio	K	K	K	3	9	
+756	Trio	K	K	K	3	10	
+757	Trio	K	K	K	3	J	
+758	Trio	K	K	K	3	Q	
+759	Trio	K	K	K	3	AS	
+760	Trio	K	K	K	4	5	
+761	Trio	K	K	K	4	6	
+762	Trio	K	K	K	4	7	
+763	Trio	K	K	K	4	8	
+764	Trio	K	K	K	4	9	
+765	Trio	K	K	K	4	10	
+766	Trio	K	K	K	4	J	
+767	Trio	K	K	K	4	Q	
+768	Trio	K	K	K	4	AS	
+769	Trio	K	K	K	5	6	
+770	Trio	K	K	K	5	7	
+771	Trio	K	K	K	5	8	
+772	Trio	K	K	K	5	9	
+773	Trio	K	K	K	5	10	
+774	Trio	K	K	K	5	J	
+775	Trio	K	K	K	5	Q	
+776	Trio	K	K	K	5	AS	
+777	Trio	K	K	K	6	7	
+778	Trio	K	K	K	6	8	
+779	Trio	K	K	K	6	9	
+780	Trio	K	K	K	6	10	
+781	Trio	K	K	K	6	J	
+782	Trio	K	K	K	6	Q	
+783	Trio	K	K	K	6	AS	
+784	Trio	K	K	K	7	8	
+785	Trio	K	K	K	7	9	
+786	Trio	K	K	K	7	10	
+787	Trio	K	K	K	7	J	
+788	Trio	K	K	K	7	Q	
+789	Trio	K	K	K	7	AS	
+790	Trio	K	K	K	8	9	
+791	Trio	K	K	K	8	10	
+792	Trio	K	K	K	8	J	
+793	Trio	K	K	K	8	Q	
+794	Trio	K	K	K	8	AS	
+795	Trio	K	K	K	9	10	
+796	Trio	K	K	K	9	J	
+797	Trio	K	K	K	9	Q	
+798	Trio	K	K	K	9	AS	
+799	Trio	K	K	K	10	J	
+800	Trio	K	K	K	10	Q	
+801	Trio	K	K	K	10	AS	
+802	Trio	K	K	K	J	Q	
+803	Trio	K	K	K	J	AS	
+804	Trio	K	K	K	Q	AS	
+805	Trio	Q	Q	Q	2	3	
+806	Trio	Q	Q	Q	2	4	
+807	Trio	Q	Q	Q	2	5	
+808	Trio	Q	Q	Q	2	6	
+809	Trio	Q	Q	Q	2	7	
+810	Trio	Q	Q	Q	2	8	
+811	Trio	Q	Q	Q	2	9	
+812	Trio	Q	Q	Q	2	10	
+813	Trio	Q	Q	Q	2	J	
+814	Trio	Q	Q	Q	2	K	
+815	Trio	Q	Q	Q	2	AS	
+816	Trio	Q	Q	Q	3	4	
+817	Trio	Q	Q	Q	3	5	
+818	Trio	Q	Q	Q	3	6	
+819	Trio	Q	Q	Q	3	7	
+820	Trio	Q	Q	Q	3	8	
+821	Trio	Q	Q	Q	3	9	
+822	Trio	Q	Q	Q	3	10	
+823	Trio	Q	Q	Q	3	J	
+824	Trio	Q	Q	Q	3	K	
+825	Trio	Q	Q	Q	3	AS	
+826	Trio	Q	Q	Q	4	5	
+827	Trio	Q	Q	Q	4	6	
+828	Trio	Q	Q	Q	4	7	
+829	Trio	Q	Q	Q	4	8	
+830	Trio	Q	Q	Q	4	9	
+831	Trio	Q	Q	Q	4	10	
+832	Trio	Q	Q	Q	4	J	
+833	Trio	Q	Q	Q	4	K	
+834	Trio	Q	Q	Q	4	AS	
+835	Trio	Q	Q	Q	5	6	
+836	Trio	Q	Q	Q	5	7	
+837	Trio	Q	Q	Q	5	8	
+838	Trio	Q	Q	Q	5	9	
+839	Trio	Q	Q	Q	5	10	
+840	Trio	Q	Q	Q	5	J	
+841	Trio	Q	Q	Q	5	K	
+842	Trio	Q	Q	Q	5	AS	
+843	Trio	Q	Q	Q	6	7	
+844	Trio	Q	Q	Q	6	8	
+845	Trio	Q	Q	Q	6	9	
+846	Trio	Q	Q	Q	6	10	
+847	Trio	Q	Q	Q	6	J	
+848	Trio	Q	Q	Q	6	K	
+849	Trio	Q	Q	Q	6	AS	
+850	Trio	Q	Q	Q	7	8	
+851	Trio	Q	Q	Q	7	9	
+852	Trio	Q	Q	Q	7	10	
+853	Trio	Q	Q	Q	7	J	
+854	Trio	Q	Q	Q	7	K	
+855	Trio	Q	Q	Q	7	AS	
+856	Trio	Q	Q	Q	8	9	
+857	Trio	Q	Q	Q	8	10	
+858	Trio	Q	Q	Q	8	J	
+859	Trio	Q	Q	Q	8	K	
+860	Trio	Q	Q	Q	8	AS	
+861	Trio	Q	Q	Q	9	10	
+862	Trio	Q	Q	Q	9	J	
+863	Trio	Q	Q	Q	9	K	
+864	Trio	Q	Q	Q	9	AS	
+865	Trio	Q	Q	Q	10	J	
+866	Trio	Q	Q	Q	10	K	
+867	Trio	Q	Q	Q	10	AS	
+868	Trio	Q	Q	Q	J	K	
+869	Trio	Q	Q	Q	J	AS	
+870	Trio	Q	Q	Q	K	AS	
+871	Trio	J	J	J	2	3	
+872	Trio	J	J	J	2	4	
+873	Trio	J	J	J	2	5	
+874	Trio	J	J	J	2	6	
+875	Trio	J	J	J	2	7	
+876	Trio	J	J	J	2	8	
+877	Trio	J	J	J	2	9	
+878	Trio	J	J	J	2	10	
+879	Trio	J	J	J	2	Q	
+880	Trio	J	J	J	2	K	
+881	Trio	J	J	J	2	AS	
+882	Trio	J	J	J	3	4	
+883	Trio	J	J	J	3	5	
+884	Trio	J	J	J	3	6	
+885	Trio	J	J	J	3	7	
+886	Trio	J	J	J	3	8	
+887	Trio	J	J	J	3	9	
+888	Trio	J	J	J	3	10	
+889	Trio	J	J	J	3	Q	
+890	Trio	J	J	J	3	K	
+891	Trio	J	J	J	3	AS	
+892	Trio	J	J	J	4	5	
+893	Trio	J	J	J	4	6	
+894	Trio	J	J	J	4	7	
+895	Trio	J	J	J	4	8	
+896	Trio	J	J	J	4	9	
+897	Trio	J	J	J	4	10	
+898	Trio	J	J	J	4	Q	
+899	Trio	J	J	J	4	K	
+900	Trio	J	J	J	4	AS	
+901	Trio	J	J	J	5	6	
+902	Trio	J	J	J	5	7	
+903	Trio	J	J	J	5	8	
+904	Trio	J	J	J	5	9	
+905	Trio	J	J	J	5	10	
+906	Trio	J	J	J	5	Q	
+907	Trio	J	J	J	5	K	
+908	Trio	J	J	J	5	AS	
+909	Trio	J	J	J	6	7	
+910	Trio	J	J	J	6	8	
+911	Trio	J	J	J	6	9	
+912	Trio	J	J	J	6	10	
+913	Trio	J	J	J	6	Q	
+914	Trio	J	J	J	6	K	
+915	Trio	J	J	J	6	AS	
+916	Trio	J	J	J	7	8	
+917	Trio	J	J	J	7	9	
+918	Trio	J	J	J	7	10	
+919	Trio	J	J	J	7	Q	
+920	Trio	J	J	J	7	K	
+921	Trio	J	J	J	7	AS	
+922	Trio	J	J	J	8	9	
+923	Trio	J	J	J	8	10	
+924	Trio	J	J	J	8	Q	
+925	Trio	J	J	J	8	K	
+926	Trio	J	J	J	8	AS	
+927	Trio	J	J	J	9	10	
+928	Trio	J	J	J	9	Q	
+929	Trio	J	J	J	9	K	
+930	Trio	J	J	J	9	AS	
+931	Trio	J	J	J	10	Q	
+932	Trio	J	J	J	10	K	
+933	Trio	J	J	J	10	AS	
+934	Trio	J	J	J	Q	K	
+935	Trio	J	J	J	Q	AS	
+936	Trio	J	J	J	K	AS	
+937	Trio	10	10	10	2	3	
+938	Trio	10	10	10	2	4	
+939	Trio	10	10	10	2	5	
+940	Trio	10	10	10	2	6	
+941	Trio	10	10	10	2	7	
+942	Trio	10	10	10	2	8	
+943	Trio	10	10	10	2	9	
+944	Trio	10	10	10	2	Q	
+945	Trio	10	10	10	2	K	
+946	Trio	10	10	10	2	AS	
+947	Trio	10	10	10	3	4	
+948	Trio	10	10	10	3	5	
+949	Trio	10	10	10	3	6	
+950	Trio	10	10	10	3	7	
+951	Trio	10	10	10	3	8	
+952	Trio	10	10	10	3	9	
+953	Trio	10	10	10	3	Q	
+954	Trio	10	10	10	3	K	
+955	Trio	10	10	10	3	AS	
+956	Trio	10	10	10	4	5	
+957	Trio	10	10	10	4	6	
+958	Trio	10	10	10	4	7	
+959	Trio	10	10	10	4	8	
+960	Trio	10	10	10	4	9	
+961	Trio	10	10	10	4	Q	
+962	Trio	10	10	10	4	K	
+963	Trio	10	10	10	4	AS	
+964	Trio	10	10	10	5	6	
+965	Trio	10	10	10	5	7	
+966	Trio	10	10	10	5	8	
+967	Trio	10	10	10	5	9	
+968	Trio	10	10	10	5	Q	
+969	Trio	10	10	10	5	K	
+970	Trio	10	10	10	5	AS	
+971	Trio	10	10	10	6	7	
+972	Trio	10	10	10	6	8	
+973	Trio	10	10	10	6	9	
+974	Trio	10	10	10	6	Q	
+975	Trio	10	10	10	6	K	
+976	Trio	10	10	10	6	AS	
+977	Trio	10	10	10	7	8	
+978	Trio	10	10	10	7	9	
+979	Trio	10	10	10	7	Q	
+980	Trio	10	10	10	7	K	
+981	Trio	10	10	10	7	AS	
+982	Trio	10	10	10	8	9	
+983	Trio	10	10	10	8	Q	
+984	Trio	10	10	10	8	K	
+985	Trio	10	10	10	8	AS	
+986	Trio	10	10	10	9	Q	
+987	Trio	10	10	10	9	K	
+988	Trio	10	10	10	9	AS	
+989	Trio	10	10	10	Q	K	
+990	Trio	10	10	10	Q	AS	
+991	Trio	10	10	10	K	AS	
+992	Trio	9	9	9	2	3	
+993	Trio	9	9	9	2	4	
+994	Trio	9	9	9	2	5	
+995	Trio	9	9	9	2	6	
+996	Trio	9	9	9	2	7	
+997	Trio	9	9	9	2	8	
+998	Trio	9	9	9	2	10	
+999	Trio	9	9	9	2	Q	
+1000	Trio	9	9	9	2	K	
+1001	Trio	9	9	9	2	AS	
+1002	Trio	9	9	9	3	4	
+1003	Trio	9	9	9	3	5	
+1004	Trio	9	9	9	3	6	
+1005	Trio	9	9	9	3	7	
+1006	Trio	9	9	9	3	8	
+1007	Trio	9	9	9	3	10	
+1008	Trio	9	9	9	3	Q	
+1009	Trio	9	9	9	3	K	
+1010	Trio	9	9	9	3	AS	
+1011	Trio	9	9	9	4	5	
+1012	Trio	9	9	9	4	6	
+1013	Trio	9	9	9	4	7	
+1014	Trio	9	9	9	4	8	
+1015	Trio	9	9	9	4	10	
+1016	Trio	9	9	9	4	Q	
+1017	Trio	9	9	9	4	K	
+1018	Trio	9	9	9	4	AS	
+1019	Trio	9	9	9	5	6	
+1020	Trio	9	9	9	5	7	
+1021	Trio	9	9	9	5	8	
+1022	Trio	9	9	9	5	10	
+1023	Trio	9	9	9	5	Q	
+1024	Trio	9	9	9	5	K	
+1025	Trio	9	9	9	5	AS	
+1026	Trio	9	9	9	6	7	
+1027	Trio	9	9	9	6	8	
+1028	Trio	9	9	9	6	10	
+1029	Trio	9	9	9	6	Q	
+1030	Trio	9	9	9	6	K	
+1031	Trio	9	9	9	6	AS	
+1032	Trio	9	9	9	7	8	
+1033	Trio	9	9	9	7	10	
+1034	Trio	9	9	9	7	Q	
+1035	Trio	9	9	9	7	K	
+1036	Trio	9	9	9	7	AS	
+1037	Trio	9	9	9	8	10	
+1038	Trio	9	9	9	8	Q	
+1039	Trio	9	9	9	8	K	
+1040	Trio	9	9	9	8	AS	
+1041	Trio	9	9	9	10	Q	
+1042	Trio	9	9	9	10	K	
+1043	Trio	9	9	9	10	AS	
+1044	Trio	9	9	9	Q	K	
+1045	Trio	9	9	9	Q	AS	
+1046	Trio	9	9	9	K	AS	
+1047	Trio	8	8	8	2	3	
+1048	Trio	8	8	8	2	4	
+1049	Trio	8	8	8	2	5	
+1050	Trio	8	8	8	2	6	
+1051	Trio	8	8	8	2	7	
+1052	Trio	8	8	8	2	9	
+1053	Trio	8	8	8	2	10	
+1054	Trio	8	8	8	2	Q	
+1055	Trio	8	8	8	2	K	
+1056	Trio	8	8	8	2	AS	
+1057	Trio	8	8	8	3	4	
+1058	Trio	8	8	8	3	5	
+1059	Trio	8	8	8	3	6	
+1060	Trio	8	8	8	3	7	
+1061	Trio	8	8	8	3	9	
+1062	Trio	8	8	8	3	10	
+1063	Trio	8	8	8	3	Q	
+1064	Trio	8	8	8	3	K	
+1065	Trio	8	8	8	3	AS	
+1066	Trio	8	8	8	4	5	
+1067	Trio	8	8	8	4	6	
+1068	Trio	8	8	8	4	7	
+1069	Trio	8	8	8	4	9	
+1070	Trio	8	8	8	4	10	
+1071	Trio	8	8	8	4	Q	
+1072	Trio	8	8	8	4	K	
+1073	Trio	8	8	8	4	AS	
+1074	Trio	8	8	8	5	6	
+1075	Trio	8	8	8	5	7	
+1076	Trio	8	8	8	5	9	
+1077	Trio	8	8	8	5	10	
+1078	Trio	8	8	8	5	Q	
+1079	Trio	8	8	8	5	K	
+1080	Trio	8	8	8	5	AS	
+1081	Trio	8	8	8	6	7	
+1082	Trio	8	8	8	6	9	
+1083	Trio	8	8	8	6	10	
+1084	Trio	8	8	8	6	Q	
+1085	Trio	8	8	8	6	K	
+1086	Trio	8	8	8	6	AS	
+1087	Trio	8	8	8	7	9	
+1088	Trio	8	8	8	7	10	
+1089	Trio	8	8	8	7	Q	
+1090	Trio	8	8	8	7	K	
+1091	Trio	8	8	8	7	AS	
+1092	Trio	8	8	8	9	10	
+1093	Trio	8	8	8	9	Q	
+1094	Trio	8	8	8	9	K	
+1095	Trio	8	8	8	9	AS	
+1096	Trio	8	8	8	10	Q	
+1097	Trio	8	8	8	10	K	
+1098	Trio	8	8	8	10	AS	
+1099	Trio	8	8	8	Q	K	
+1100	Trio	8	8	8	Q	AS	
+1101	Trio	8	8	8	K	AS	
+1102	Trio	7	7	7	2	3	
+1103	Trio	7	7	7	2	4	
+1104	Trio	7	7	7	2	5	
+1105	Trio	7	7	7	2	6	
+1106	Trio	7	7	7	2	8	
+1107	Trio	7	7	7	2	9	
+1108	Trio	7	7	7	2	10	
+1109	Trio	7	7	7	2	Q	
+1110	Trio	7	7	7	2	K	
+1111	Trio	7	7	7	2	AS	
+1112	Trio	7	7	7	3	4	
+1113	Trio	7	7	7	3	5	
+1114	Trio	7	7	7	3	6	
+1115	Trio	7	7	7	3	8	
+1116	Trio	7	7	7	3	9	
+1117	Trio	7	7	7	3	10	
+1118	Trio	7	7	7	3	Q	
+1119	Trio	7	7	7	3	K	
+1120	Trio	7	7	7	3	AS	
+1121	Trio	7	7	7	4	5	
+1122	Trio	7	7	7	4	6	
+1123	Trio	7	7	7	4	8	
+1124	Trio	7	7	7	4	9	
+1125	Trio	7	7	7	4	10	
+1126	Trio	7	7	7	4	Q	
+1127	Trio	7	7	7	4	K	
+1128	Trio	7	7	7	4	AS	
+1129	Trio	7	7	7	5	6	
+1130	Trio	7	7	7	5	7	
+1131	Trio	7	7	7	5	9	
+1132	Trio	7	7	7	5	10	
+1133	Trio	7	7	7	5	Q	
+1134	Trio	7	7	7	5	K	
+1135	Trio	7	7	7	5	AS	
+1136	Trio	7	7	7	6	7	
+1137	Trio	7	7	7	6	8	
+1138	Trio	7	7	7	6	9	
+1139	Trio	7	7	7	6	10	
+1140	Trio	7	7	7	6	Q	
+1141	Trio	7	7	7	6	K	
+1142	Trio	7	7	7	6	AS	
+1143	Trio	7	7	7	8	9	
+1144	Trio	7	7	7	8	10	
+1145	Trio	7	7	7	8	Q	
+1146	Trio	7	7	7	8	K	
+1147	Trio	7	7	7	8	AS	
+1148	Trio	7	7	7	9	10	
+1149	Trio	7	7	7	9	Q	
+1150	Trio	7	7	7	9	K	
+1151	Trio	7	7	7	9	AS	
+1152	Trio	7	7	7	10	Q	
+1153	Trio	7	7	7	10	K	
+1154	Trio	7	7	7	10	AS	
+1155	Trio	7	7	7	Q	K	
+1156	Trio	7	7	7	Q	AS	
+1157	Trio	7	7	7	K	AS	
+1158	Trio	6	6	6	2	3	
+1159	Trio	6	6	6	2	4	
+1160	Trio	6	6	6	2	5	
+1161	Trio	6	6	6	2	7	
+1162	Trio	6	6	6	2	8	
+1163	Trio	6	6	6	2	9	
+1164	Trio	6	6	6	2	10	
+1165	Trio	6	6	6	2	Q	
+1166	Trio	6	6	6	2	K	
+1167	Trio	6	6	6	2	AS	
+1168	Trio	6	6	6	3	4	
+1169	Trio	6	6	6	3	5	
+1170	Trio	6	6	6	3	7	
+1171	Trio	6	6	6	3	8	
+1172	Trio	6	6	6	3	9	
+1173	Trio	6	6	6	3	10	
+1174	Trio	6	6	6	3	Q	
+1175	Trio	6	6	6	3	K	
+1176	Trio	6	6	6	3	AS	
+1177	Trio	6	6	6	4	5	
+1178	Trio	6	6	6	4	7	
+1179	Trio	6	6	6	4	8	
+1180	Trio	6	6	6	4	9	
+1181	Trio	6	6	6	4	10	
+1182	Trio	6	6	6	4	Q	
+1183	Trio	6	6	6	4	K	
+1184	Trio	6	6	6	4	AS	
+1185	Trio	6	6	6	5	7	
+1186	Trio	6	6	6	5	8	
+1187	Trio	6	6	6	5	9	
+1188	Trio	6	6	6	5	10	
+1189	Trio	6	6	6	5	Q	
+1190	Trio	6	6	6	5	K	
+1191	Trio	6	6	6	5	AS	
+1192	Trio	6	6	6	7	8	
+1193	Trio	6	6	6	7	9	
+1194	Trio	6	6	6	7	10	
+1195	Trio	6	6	6	7	Q	
+1196	Trio	6	6	6	7	K	
+1197	Trio	6	6	6	7	AS	
+1198	Trio	6	6	6	8	9	
+1199	Trio	6	6	6	8	10	
+1200	Trio	6	6	6	8	Q	
+1201	Trio	6	6	6	8	K	
+1202	Trio	6	6	6	8	AS	
+1203	Trio	6	6	6	9	10	
+1204	Trio	6	6	6	9	Q	
+1205	Trio	6	6	6	9	K	
+1206	Trio	6	6	6	9	AS	
+1207	Trio	6	6	6	10	Q	
+1208	Trio	6	6	6	10	K	
+1209	Trio	6	6	6	10	AS	
+1210	Trio	6	6	6	Q	K	
+1211	Trio	6	6	6	Q	AS	
+1212	Trio	6	6	6	K	AS	
+1213	Trio	5	5	5	2	3	
+1214	Trio	5	5	5	2	4	
+1215	Trio	5	5	5	2	6	
+1216	Trio	5	5	5	2	7	
+1217	Trio	5	5	5	2	8	
+1218	Trio	5	5	5	2	9	
+1219	Trio	5	5	5	2	10	
+1220	Trio	5	5	5	2	Q	
+1221	Trio	5	5	5	2	K	
+1222	Trio	5	5	5	2	AS	
+1223	Trio	5	5	5	3	4	
+1224	Trio	5	5	5	3	6	
+1225	Trio	5	5	5	3	7	
+1226	Trio	5	5	5	3	8	
+1227	Trio	5	5	5	3	9	
+1228	Trio	5	5	5	3	10	
+1229	Trio	5	5	5	3	Q	
+1230	Trio	5	5	5	3	K	
+1231	Trio	5	5	5	3	AS	
+1232	Trio	5	5	5	4	6	
+1233	Trio	5	5	5	4	7	
+1234	Trio	5	5	5	4	8	
+1235	Trio	5	5	5	4	9	
+1236	Trio	5	5	5	4	10	
+1237	Trio	5	5	5	4	Q	
+1238	Trio	5	5	5	4	K	
+1239	Trio	5	5	5	4	AS	
+1240	Trio	5	5	5	6	7	
+1241	Trio	5	5	5	6	8	
+1242	Trio	5	5	5	6	9	
+1243	Trio	5	5	5	6	10	
+1244	Trio	5	5	5	6	Q	
+1245	Trio	5	5	5	6	K	
+1246	Trio	5	5	5	6	AS	
+1247	Trio	5	5	5	7	8	
+1248	Trio	5	5	5	7	9	
+1249	Trio	5	5	5	7	10	
+1250	Trio	5	5	5	7	Q	
+1251	Trio	5	5	5	7	K	
+1252	Trio	5	5	5	7	AS	
+1253	Trio	5	5	5	8	9	
+1254	Trio	5	5	5	8	10	
+1255	Trio	5	5	5	8	Q	
+1256	Trio	5	5	5	8	K	
+1257	Trio	5	5	5	8	AS	
+1258	Trio	5	5	5	9	10	
+1259	Trio	5	5	5	9	Q	
+1260	Trio	5	5	5	9	K	
+1261	Trio	5	5	5	9	AS	
+1262	Trio	5	5	5	10	Q	
+1263	Trio	5	5	5	10	K	
+1264	Trio	5	5	5	10	AS	
+1265	Trio	5	5	5	Q	K	
+1266	Trio	5	5	5	Q	AS	
+1267	Trio	5	5	5	K	AS	
+1268	Trio	4	4	4	2	3	
+1269	Trio	4	4	4	2	5	
+1270	Trio	4	4	4	2	6	
+1271	Trio	4	4	4	2	7	
+1272	Trio	4	4	4	2	8	
+1273	Trio	4	4	4	2	9	
+1274	Trio	4	4	4	2	10	
+1275	Trio	4	4	4	2	Q	
+1276	Trio	4	4	4	2	K	
+1277	Trio	4	4	4	2	AS	
+1278	Trio	4	4	4	3	5	
+1279	Trio	4	4	4	3	6	
+1280	Trio	4	4	4	3	7	
+1281	Trio	4	4	4	3	8	
+1282	Trio	4	4	4	3	9	
+1283	Trio	4	4	4	3	10	
+1284	Trio	4	4	4	3	Q	
+1285	Trio	4	4	4	3	K	
+1286	Trio	4	4	4	3	AS	
+1287	Trio	4	4	4	5	6	
+1288	Trio	4	4	4	5	7	
+1289	Trio	4	4	4	5	8	
+1290	Trio	4	4	4	5	9	
+1291	Trio	4	4	4	5	10	
+1292	Trio	4	4	4	5	Q	
+1293	Trio	4	4	4	5	K	
+1294	Trio	4	4	4	5	AS	
+1295	Trio	4	4	4	6	7	
+1296	Trio	4	4	4	6	8	
+1297	Trio	4	4	4	6	9	
+1298	Trio	4	4	4	6	10	
+1299	Trio	4	4	4	6	Q	
+1300	Trio	4	4	4	6	K	
+1301	Trio	4	4	4	6	AS	
+1302	Trio	4	4	4	7	8	
+1303	Trio	4	4	4	7	9	
+1304	Trio	4	4	4	7	10	
+1305	Trio	4	4	4	7	Q	
+1306	Trio	4	4	4	7	K	
+1307	Trio	4	4	4	7	AS	
+1308	Trio	4	4	4	8	9	
+1309	Trio	4	4	4	8	10	
+1310	Trio	4	4	4	8	Q	
+1311	Trio	4	4	4	8	K	
+1312	Trio	4	4	4	8	AS	
+1313	Trio	4	4	4	9	10	
+1314	Trio	4	4	4	9	Q	
+1315	Trio	4	4	4	9	K	
+1316	Trio	4	4	4	9	AS	
+1317	Trio	4	4	4	10	Q	
+1318	Trio	4	4	4	10	K	
+1319	Trio	4	4	4	10	AS	
+1320	Trio	4	4	4	Q	K	
+1321	Trio	4	4	4	Q	AS	
+1322	Trio	4	4	4	K	AS	
+1323	Trio	3	3	3	2	4	
+1324	Trio	3	3	3	2	5	
+1325	Trio	3	3	3	2	6	
+1326	Trio	3	3	3	2	7	
+1327	Trio	3	3	3	2	8	
+1328	Trio	3	3	3	2	9	
+1329	Trio	3	3	3	2	10	
+1330	Trio	3	3	3	2	Q	
+1331	Trio	3	3	3	2	K	
+1332	Trio	3	3	3	2	AS	
+1333	Trio	3	3	3	4	5	
+1334	Trio	3	3	3	4	6	
+1335	Trio	3	3	3	4	7	
+1336	Trio	3	3	3	4	8	
+1337	Trio	3	3	3	4	9	
+1338	Trio	3	3	3	4	10	
+1339	Trio	3	3	3	4	Q	
+1340	Trio	3	3	3	4	K	
+1341	Trio	3	3	3	4	AS	
+1342	Trio	3	3	3	5	6	
+1343	Trio	3	3	3	5	7	
+1344	Trio	3	3	3	5	8	
+1345	Trio	3	3	3	5	9	
+1346	Trio	3	3	3	5	10	
+1347	Trio	3	3	3	5	Q	
+1348	Trio	3	3	3	5	K	
+1349	Trio	3	3	3	5	AS	
+1350	Trio	3	3	3	6	7	
+1351	Trio	3	3	3	6	8	
+1352	Trio	3	3	3	6	9	
+1353	Trio	3	3	3	6	10	
+1354	Trio	3	3	3	6	Q	
+1355	Trio	3	3	3	6	K	
+1356	Trio	3	3	3	6	AS	
+1357	Trio	3	3	3	7	8	
+1358	Trio	3	3	3	7	9	
+1359	Trio	3	3	3	7	10	
+1360	Trio	3	3	3	7	Q	
+1361	Trio	3	3	3	7	K	
+1362	Trio	3	3	3	7	AS	
+1363	Trio	3	3	3	8	9	
+1364	Trio	3	3	3	8	10	
+1365	Trio	3	3	3	8	Q	
+1366	Trio	3	3	3	8	K	
+1367	Trio	3	3	3	8	AS	
+1368	Trio	3	3	3	9	10	
+1369	Trio	3	3	3	9	Q	
+1370	Trio	3	3	3	9	K	
+1371	Trio	3	3	3	9	AS	
+1372	Trio	3	3	3	10	Q	
+1373	Trio	3	3	3	10	K	
+1374	Trio	3	3	3	10	AS	
+1375	Trio	3	3	3	Q	K	
+1376	Trio	3	3	3	Q	AS	
+1377	Trio	3	3	3	K	AS	
+1378	Trio	2	2	2	4	5	
+1379	Trio	2	2	2	4	6	
+1380	Trio	2	2	2	4	7	
+1381	Trio	2	2	2	4	8	
+1382	Trio	2	2	2	4	9	
+1383	Trio	2	2	2	4	10	
+1384	Trio	2	2	2	4	Q	
+1385	Trio	2	2	2	4	K	
+1386	Trio	2	2	2	4	AS	
+1387	Trio	2	2	2	5	6	
+1388	Trio	2	2	2	5	7	
+1389	Trio	2	2	2	5	8	
+1390	Trio	2	2	2	5	9	
+1391	Trio	2	2	2	5	10	
+1392	Trio	2	2	2	5	Q	
+1393	Trio	2	2	2	5	K	
+1394	Trio	2	2	2	5	AS	
+1395	Trio	2	2	2	6	7	
+1396	Trio	2	2	2	6	8	
+1397	Trio	2	2	2	6	9	
+1398	Trio	2	2	2	6	10	
+1399	Trio	2	2	2	6	Q	
+1400	Trio	2	2	2	6	K	
+1401	Trio	2	2	2	6	AS	
+1402	Trio	2	2	2	7	8	
+1403	Trio	2	2	2	7	9	
+1404	Trio	2	2	2	7	10	
+1405	Trio	2	2	2	7	Q	
+1406	Trio	2	2	2	7	K	
+1407	Trio	2	2	2	7	AS	
+1408	Trio	2	2	2	8	9	
+1409	Trio	2	2	2	8	10	
+1410	Trio	2	2	2	8	Q	
+1411	Trio	2	2	2	8	K	
+1412	Trio	2	2	2	8	AS	
+1413	Trio	2	2	2	9	10	
+1414	Trio	2	2	2	9	Q	
+1415	Trio	2	2	2	9	K	
+1416	Trio	2	2	2	9	AS	
+1417	Trio	2	2	2	10	Q	
+1418	Trio	2	2	2	10	K	
+1419	Trio	2	2	2	10	AS	
+1420	Trio	2	2	2	Q	K	
+1421	Trio	2	2	2	Q	AS	
+1422	Trio	2	2	2	K	AS	
+1423	Dobles_Parejas	AS	AS	K	K	Q	
+1424	Dobles_Parejas	AS	AS	K	K	J	
+1425	Dobles_Parejas	AS	AS	K	K	10	
+1426	Dobles_Parejas	AS	AS	K	K	9	
+1427	Dobles_Parejas	AS	AS	K	K	8	
+1428	Dobles_Parejas	AS	AS	K	K	7	
+1429	Dobles_Parejas	AS	AS	K	K	6	
+1430	Dobles_Parejas	AS	AS	K	K	5	
+1431	Dobles_Parejas	AS	AS	K	K	4	
+1432	Dobles_Parejas	AS	AS	K	K	3	
+1433	Dobles_Parejas	AS	AS	K	K	2	
+1434	Dobles_Parejas	AS	AS	Q	Q	K	
+1435	Dobles_Parejas	AS	AS	Q	Q	J	
+1436	Dobles_Parejas	AS	AS	Q	Q	10	
+1437	Dobles_Parejas	AS	AS	Q	Q	9	
+1438	Dobles_Parejas	AS	AS	Q	Q	8	
+1439	Dobles_Parejas	AS	AS	Q	Q	7	
+1440	Dobles_Parejas	AS	AS	Q	Q	6	
+1441	Dobles_Parejas	AS	AS	Q	Q	5	
+1442	Dobles_Parejas	AS	AS	Q	Q	4	
+1443	Dobles_Parejas	AS	AS	Q	Q	3	
+1444	Dobles_Parejas	AS	AS	Q	Q	2	
+1445	Dobles_Parejas	AS	AS	J	J	K	
+1446	Dobles_Parejas	AS	AS	J	J	Q	
+1447	Dobles_Parejas	AS	AS	J	J	10	
+1448	Dobles_Parejas	AS	AS	J	J	9	
+1449	Dobles_Parejas	AS	AS	J	J	8	
+1450	Dobles_Parejas	AS	AS	J	J	7	
+1451	Dobles_Parejas	AS	AS	J	J	6	
+1452	Dobles_Parejas	AS	AS	J	J	5	
+1453	Dobles_Parejas	AS	AS	J	J	4	
+1454	Dobles_Parejas	AS	AS	J	J	3	
+1455	Dobles_Parejas	AS	AS	J	J	2	
+1456	Dobles_Parejas	AS	AS	10	10	K	
+1457	Dobles_Parejas	AS	AS	10	10	Q	
+1458	Dobles_Parejas	AS	AS	10	10	J	
+1459	Dobles_Parejas	AS	AS	10	10	9	
+1460	Dobles_Parejas	AS	AS	10	10	8	
+1461	Dobles_Parejas	AS	AS	10	10	7	
+1462	Dobles_Parejas	AS	AS	10	10	6	
+1463	Dobles_Parejas	AS	AS	10	10	5	
+1464	Dobles_Parejas	AS	AS	10	10	4	
+1465	Dobles_Parejas	AS	AS	10	10	3	
+1466	Dobles_Parejas	AS	AS	10	10	2	
+1467	Dobles_Parejas	AS	AS	9	9	K	
+1468	Dobles_Parejas	AS	AS	9	9	Q	
+1469	Dobles_Parejas	AS	AS	9	9	J	
+1470	Dobles_Parejas	AS	AS	9	9	10	
+1471	Dobles_Parejas	AS	AS	9	9	8	
+1472	Dobles_Parejas	AS	AS	9	9	7	
+1473	Dobles_Parejas	AS	AS	9	9	6	
+1474	Dobles_Parejas	AS	AS	9	9	5	
+1475	Dobles_Parejas	AS	AS	9	9	4	
+1476	Dobles_Parejas	AS	AS	9	9	3	
+1477	Dobles_Parejas	AS	AS	9	9	2	
+1478	Dobles_Parejas	AS	AS	8	8	K	
+1479	Dobles_Parejas	AS	AS	8	8	Q	
+1480	Dobles_Parejas	AS	AS	8	8	J	
+1481	Dobles_Parejas	AS	AS	8	8	10	
+1482	Dobles_Parejas	AS	AS	8	8	9	
+1483	Dobles_Parejas	AS	AS	8	8	7	
+1484	Dobles_Parejas	AS	AS	8	8	6	
+1485	Dobles_Parejas	AS	AS	8	8	5	
+1486	Dobles_Parejas	AS	AS	8	8	4	
+1487	Dobles_Parejas	AS	AS	8	8	3	
+1488	Dobles_Parejas	AS	AS	8	8	2	
+1489	Dobles_Parejas	AS	AS	7	7	K	
+1490	Dobles_Parejas	AS	AS	7	7	Q	
+1491	Dobles_Parejas	AS	AS	7	7	J	
+1492	Dobles_Parejas	AS	AS	7	7	10	
+1493	Dobles_Parejas	AS	AS	7	7	9	
+1494	Dobles_Parejas	AS	AS	7	7	8	
+1495	Dobles_Parejas	AS	AS	7	7	6	
+1496	Dobles_Parejas	AS	AS	7	7	5	
+1497	Dobles_Parejas	AS	AS	7	7	4	
+1498	Dobles_Parejas	AS	AS	7	7	3	
+1499	Dobles_Parejas	AS	AS	7	7	2	
+1500	Dobles_Parejas	AS	AS	6	6	K	
+1501	Dobles_Parejas	AS	AS	6	6	Q	
+1502	Dobles_Parejas	AS	AS	6	6	J	
+1503	Dobles_Parejas	AS	AS	6	6	10	
+1504	Dobles_Parejas	AS	AS	6	6	9	
+1505	Dobles_Parejas	AS	AS	6	6	8	
+1506	Dobles_Parejas	AS	AS	6	6	7	
+1507	Dobles_Parejas	AS	AS	6	6	5	
+1508	Dobles_Parejas	AS	AS	6	6	4	
+1509	Dobles_Parejas	AS	AS	6	6	3	
+1510	Dobles_Parejas	AS	AS	6	6	2	
+1511	Dobles_Parejas	AS	AS	5	5	K	
+1512	Dobles_Parejas	AS	AS	5	5	Q	
+1513	Dobles_Parejas	AS	AS	5	5	J	
+1514	Dobles_Parejas	AS	AS	5	5	10	
+1515	Dobles_Parejas	AS	AS	5	5	9	
+1516	Dobles_Parejas	AS	AS	5	5	8	
+1517	Dobles_Parejas	AS	AS	5	5	7	
+1518	Dobles_Parejas	AS	AS	5	5	6	
+1519	Dobles_Parejas	AS	AS	5	5	4	
+1520	Dobles_Parejas	AS	AS	5	5	3	
+1521	Dobles_Parejas	AS	AS	5	5	2	
+1522	Dobles_Parejas	AS	AS	4	4	K	
+1523	Dobles_Parejas	AS	AS	4	4	Q	
+1524	Dobles_Parejas	AS	AS	4	4	J	
+1525	Dobles_Parejas	AS	AS	4	4	10	
+1526	Dobles_Parejas	AS	AS	4	4	9	
+1527	Dobles_Parejas	AS	AS	4	4	8	
+1528	Dobles_Parejas	AS	AS	4	4	7	
+1529	Dobles_Parejas	AS	AS	4	4	6	
+1530	Dobles_Parejas	AS	AS	4	4	5	
+1531	Dobles_Parejas	AS	AS	4	4	3	
+1532	Dobles_Parejas	AS	AS	4	4	2	
+1533	Dobles_Parejas	AS	AS	3	3	K	
+1534	Dobles_Parejas	AS	AS	3	3	Q	
+1535	Dobles_Parejas	AS	AS	3	3	J	
+1536	Dobles_Parejas	AS	AS	3	3	10	
+1537	Dobles_Parejas	AS	AS	3	3	9	
+1538	Dobles_Parejas	AS	AS	3	3	8	
+1539	Dobles_Parejas	AS	AS	3	3	7	
+1540	Dobles_Parejas	AS	AS	3	3	6	
+1541	Dobles_Parejas	AS	AS	3	3	5	
+1542	Dobles_Parejas	AS	AS	3	3	4	
+1543	Dobles_Parejas	AS	AS	3	3	2	
+1544	Dobles_Parejas	AS	AS	2	2	K	
+1545	Dobles_Parejas	AS	AS	2	2	Q	
+1546	Dobles_Parejas	AS	AS	2	2	J	
+1547	Dobles_Parejas	AS	AS	2	2	10	
+1548	Dobles_Parejas	AS	AS	2	2	9	
+1549	Dobles_Parejas	AS	AS	2	2	8	
+1550	Dobles_Parejas	AS	AS	2	2	7	
+1551	Dobles_Parejas	AS	AS	2	2	6	
+1552	Dobles_Parejas	AS	AS	2	2	5	
+1553	Dobles_Parejas	AS	AS	2	2	4	
+1554	Dobles_Parejas	AS	AS	2	2	3	
+1555	Dobles_Parejas	K	K	Q	Q	AS	
+1556	Dobles_Parejas	K	K	Q	Q	J	
+1557	Dobles_Parejas	K	K	Q	Q	10	
+1558	Dobles_Parejas	K	K	Q	Q	9	
+1559	Dobles_Parejas	K	K	Q	Q	8	
+1560	Dobles_Parejas	K	K	Q	Q	7	
+1561	Dobles_Parejas	K	K	Q	Q	6	
+1562	Dobles_Parejas	K	K	Q	Q	5	
+1563	Dobles_Parejas	K	K	Q	Q	4	
+1564	Dobles_Parejas	K	K	Q	Q	3	
+1565	Dobles_Parejas	K	K	Q	Q	2	
+1566	Dobles_Parejas	K	K	J	J	AS	
+1567	Dobles_Parejas	K	K	J	J	Q	
+1568	Dobles_Parejas	K	K	J	J	10	
+1569	Dobles_Parejas	K	K	J	J	9	
+1570	Dobles_Parejas	K	K	J	J	8	
+1571	Dobles_Parejas	K	K	J	J	7	
+1572	Dobles_Parejas	K	K	J	J	6	
+1573	Dobles_Parejas	K	K	J	J	5	
+1574	Dobles_Parejas	K	K	J	J	4	
+1575	Dobles_Parejas	K	K	J	J	3	
+1576	Dobles_Parejas	K	K	J	J	2	
+1577	Dobles_Parejas	K	K	10	10	AS	
+1578	Dobles_Parejas	K	K	10	10	Q	
+1579	Dobles_Parejas	K	K	10	10	J	
+1580	Dobles_Parejas	K	K	10	10	9	
+1581	Dobles_Parejas	K	K	10	10	8	
+1582	Dobles_Parejas	K	K	10	10	7	
+1583	Dobles_Parejas	K	K	10	10	6	
+1584	Dobles_Parejas	K	K	10	10	5	
+1585	Dobles_Parejas	K	K	10	10	4	
+1586	Dobles_Parejas	K	K	10	10	3	
+1587	Dobles_Parejas	K	K	10	10	2	
+1588	Dobles_Parejas	K	K	9	9	AS	
+1589	Dobles_Parejas	K	K	9	9	Q	
+1590	Dobles_Parejas	K	K	9	9	J	
+1591	Dobles_Parejas	K	K	9	9	10	
+1592	Dobles_Parejas	K	K	9	9	8	
+1593	Dobles_Parejas	K	K	9	9	7	
+1594	Dobles_Parejas	K	K	9	9	6	
+1595	Dobles_Parejas	K	K	9	9	5	
+1596	Dobles_Parejas	K	K	9	9	4	
+1597	Dobles_Parejas	K	K	9	9	3	
+1598	Dobles_Parejas	K	K	9	9	2	
+1599	Dobles_Parejas	K	K	8	8	AS	
+1600	Dobles_Parejas	K	K	8	8	Q	
+1601	Dobles_Parejas	K	K	8	8	J	
+1602	Dobles_Parejas	K	K	8	8	10	
+1603	Dobles_Parejas	K	K	8	8	9	
+1604	Dobles_Parejas	K	K	8	8	7	
+1605	Dobles_Parejas	K	K	8	8	6	
+1606	Dobles_Parejas	K	K	8	8	5	
+1607	Dobles_Parejas	K	K	8	8	4	
+1608	Dobles_Parejas	K	K	8	8	3	
+1609	Dobles_Parejas	K	K	8	8	2	
+1610	Dobles_Parejas	K	K	7	7	AS	
+1611	Dobles_Parejas	K	K	7	7	Q	
+1612	Dobles_Parejas	K	K	7	7	J	
+1613	Dobles_Parejas	K	K	7	7	10	
+1614	Dobles_Parejas	K	K	7	7	9	
+1615	Dobles_Parejas	K	K	7	7	8	
+1616	Dobles_Parejas	K	K	7	7	6	
+1617	Dobles_Parejas	K	K	7	7	5	
+1618	Dobles_Parejas	K	K	7	7	4	
+1619	Dobles_Parejas	K	K	7	7	3	
+1620	Dobles_Parejas	K	K	7	7	2	
+1621	Dobles_Parejas	K	K	6	6	AS	
+1622	Dobles_Parejas	K	K	6	6	Q	
+1623	Dobles_Parejas	K	K	6	6	J	
+1624	Dobles_Parejas	K	K	6	6	10	
+1625	Dobles_Parejas	K	K	6	6	9	
+1626	Dobles_Parejas	K	K	6	6	8	
+1627	Dobles_Parejas	K	K	6	6	7	
+1628	Dobles_Parejas	K	K	6	6	5	
+1629	Dobles_Parejas	K	K	6	6	4	
+1630	Dobles_Parejas	K	K	6	6	3	
+1631	Dobles_Parejas	K	K	6	6	2	
+1632	Dobles_Parejas	K	K	5	5	AS	
+1633	Dobles_Parejas	K	K	5	5	Q	
+1634	Dobles_Parejas	K	K	5	5	J	
+1635	Dobles_Parejas	K	K	5	5	10	
+1636	Dobles_Parejas	K	K	5	5	9	
+1637	Dobles_Parejas	K	K	5	5	8	
+1638	Dobles_Parejas	K	K	5	5	7	
+1639	Dobles_Parejas	K	K	5	5	6	
+1640	Dobles_Parejas	K	K	5	5	4	
+1641	Dobles_Parejas	K	K	5	5	3	
+1642	Dobles_Parejas	K	K	5	5	2	
+1643	Dobles_Parejas	K	K	4	4	AS	
+1644	Dobles_Parejas	K	K	4	4	Q	
+1645	Dobles_Parejas	K	K	4	4	J	
+1646	Dobles_Parejas	K	K	4	4	10	
+1647	Dobles_Parejas	K	K	4	4	9	
+1648	Dobles_Parejas	K	K	4	4	8	
+1649	Dobles_Parejas	K	K	4	4	7	
+1650	Dobles_Parejas	K	K	4	4	6	
+1651	Dobles_Parejas	K	K	4	4	5	
+1652	Dobles_Parejas	K	K	4	4	3	
+1653	Dobles_Parejas	K	K	4	4	2	
+1654	Dobles_Parejas	K	K	3	3	AS	
+1655	Dobles_Parejas	K	K	3	3	Q	
+1656	Dobles_Parejas	K	K	3	3	J	
+1657	Dobles_Parejas	K	K	3	3	10	
+1658	Dobles_Parejas	K	K	3	3	9	
+1659	Dobles_Parejas	K	K	3	3	8	
+1660	Dobles_Parejas	K	K	3	3	7	
+1661	Dobles_Parejas	K	K	3	3	6	
+1662	Dobles_Parejas	K	K	3	3	5	
+1663	Dobles_Parejas	K	K	3	3	4	
+1664	Dobles_Parejas	K	K	3	3	2	
+1665	Dobles_Parejas	K	K	2	2	AS	
+1666	Dobles_Parejas	K	K	2	2	Q	
+1667	Dobles_Parejas	K	K	2	2	J	
+1668	Dobles_Parejas	K	K	2	2	10	
+1669	Dobles_Parejas	K	K	2	2	9	
+1670	Dobles_Parejas	K	K	2	2	8	
+1671	Dobles_Parejas	K	K	2	2	7	
+1672	Dobles_Parejas	K	K	2	2	6	
+1673	Dobles_Parejas	K	K	2	2	5	
+1674	Dobles_Parejas	K	K	2	2	4	
+1675	Dobles_Parejas	K	K	2	2	3	
+1676	Dobles_Parejas	Q	Q	J	J	AS	
+1677	Dobles_Parejas	Q	Q	J	J	K	
+1678	Dobles_Parejas	Q	Q	J	J	10	
+1679	Dobles_Parejas	Q	Q	J	J	9	
+1680	Dobles_Parejas	Q	Q	J	J	8	
+1681	Dobles_Parejas	Q	Q	J	J	7	
+1682	Dobles_Parejas	Q	Q	J	J	6	
+1683	Dobles_Parejas	Q	Q	J	J	5	
+1684	Dobles_Parejas	Q	Q	J	J	4	
+1685	Dobles_Parejas	Q	Q	J	J	3	
+1686	Dobles_Parejas	Q	Q	J	J	2	
+1687	Dobles_Parejas	Q	Q	10	10	AS	
+1688	Dobles_Parejas	Q	Q	10	10	K	
+1689	Dobles_Parejas	Q	Q	10	10	J	
+1690	Dobles_Parejas	Q	Q	10	10	9	
+1691	Dobles_Parejas	Q	Q	10	10	8	
+1692	Dobles_Parejas	Q	Q	10	10	7	
+1693	Dobles_Parejas	Q	Q	10	10	6	
+1694	Dobles_Parejas	Q	Q	10	10	5	
+1695	Dobles_Parejas	Q	Q	10	10	4	
+1696	Dobles_Parejas	Q	Q	10	10	3	
+1697	Dobles_Parejas	Q	Q	10	10	2	
+1698	Dobles_Parejas	Q	Q	9	9	AS	
+1699	Dobles_Parejas	Q	Q	9	9	K	
+1700	Dobles_Parejas	Q	Q	9	9	J	
+1701	Dobles_Parejas	Q	Q	9	9	10	
+1702	Dobles_Parejas	Q	Q	9	9	8	
+1703	Dobles_Parejas	Q	Q	9	9	7	
+1704	Dobles_Parejas	Q	Q	9	9	6	
+1705	Dobles_Parejas	Q	Q	9	9	5	
+1706	Dobles_Parejas	Q	Q	9	9	4	
+1707	Dobles_Parejas	Q	Q	9	9	3	
+1708	Dobles_Parejas	Q	Q	9	9	2	
+1709	Dobles_Parejas	Q	Q	8	8	AS	
+1710	Dobles_Parejas	Q	Q	8	8	K	
+1711	Dobles_Parejas	Q	Q	8	8	J	
+1712	Dobles_Parejas	Q	Q	8	8	10	
+1713	Dobles_Parejas	Q	Q	8	8	9	
+1714	Dobles_Parejas	Q	Q	8	8	7	
+1715	Dobles_Parejas	Q	Q	8	8	6	
+1716	Dobles_Parejas	Q	Q	8	8	5	
+1717	Dobles_Parejas	Q	Q	8	8	4	
+1718	Dobles_Parejas	Q	Q	8	8	3	
+1719	Dobles_Parejas	Q	Q	8	8	2	
+1720	Dobles_Parejas	Q	Q	7	7	AS	
+1721	Dobles_Parejas	Q	Q	7	7	K	
+1722	Dobles_Parejas	Q	Q	7	7	J	
+1723	Dobles_Parejas	Q	Q	7	7	10	
+1724	Dobles_Parejas	Q	Q	7	7	9	
+1725	Dobles_Parejas	Q	Q	7	7	8	
+1726	Dobles_Parejas	Q	Q	7	7	6	
+1727	Dobles_Parejas	Q	Q	7	7	5	
+1728	Dobles_Parejas	Q	Q	7	7	4	
+1729	Dobles_Parejas	Q	Q	7	7	3	
+1730	Dobles_Parejas	Q	Q	7	7	2	
+1731	Dobles_Parejas	Q	Q	6	6	AS	
+1732	Dobles_Parejas	Q	Q	6	6	K	
+1733	Dobles_Parejas	Q	Q	6	6	J	
+1734	Dobles_Parejas	Q	Q	6	6	10	
+1735	Dobles_Parejas	Q	Q	6	6	9	
+1736	Dobles_Parejas	Q	Q	6	6	8	
+1737	Dobles_Parejas	Q	Q	6	6	7	
+1738	Dobles_Parejas	Q	Q	6	6	5	
+1739	Dobles_Parejas	Q	Q	6	6	4	
+1740	Dobles_Parejas	Q	Q	6	6	3	
+1741	Dobles_Parejas	Q	Q	6	6	2	
+1742	Dobles_Parejas	Q	Q	5	5	AS	
+1743	Dobles_Parejas	Q	Q	5	5	K	
+1744	Dobles_Parejas	Q	Q	5	5	J	
+1745	Dobles_Parejas	Q	Q	5	5	10	
+1746	Dobles_Parejas	Q	Q	5	5	9	
+1747	Dobles_Parejas	Q	Q	5	5	8	
+1748	Dobles_Parejas	Q	Q	5	5	7	
+1749	Dobles_Parejas	Q	Q	5	5	6	
+1750	Dobles_Parejas	Q	Q	5	5	4	
+1751	Dobles_Parejas	Q	Q	5	5	3	
+1752	Dobles_Parejas	Q	Q	5	5	2	
+1753	Dobles_Parejas	Q	Q	4	4	AS	
+1754	Dobles_Parejas	Q	Q	4	4	K	
+1755	Dobles_Parejas	Q	Q	4	4	J	
+1756	Dobles_Parejas	Q	Q	4	4	10	
+1757	Dobles_Parejas	Q	Q	4	4	9	
+1758	Dobles_Parejas	Q	Q	4	4	8	
+1759	Dobles_Parejas	Q	Q	4	4	7	
+1760	Dobles_Parejas	Q	Q	4	4	6	
+1761	Dobles_Parejas	Q	Q	4	4	5	
+1762	Dobles_Parejas	Q	Q	4	4	3	
+1763	Dobles_Parejas	Q	Q	4	4	2	
+1764	Dobles_Parejas	Q	Q	3	3	AS	
+1765	Dobles_Parejas	Q	Q	3	3	K	
+1766	Dobles_Parejas	Q	Q	3	3	J	
+1767	Dobles_Parejas	Q	Q	3	3	10	
+1768	Dobles_Parejas	Q	Q	3	3	9	
+1769	Dobles_Parejas	Q	Q	3	3	8	
+1770	Dobles_Parejas	Q	Q	3	3	7	
+1771	Dobles_Parejas	Q	Q	3	3	6	
+1772	Dobles_Parejas	Q	Q	3	3	5	
+1773	Dobles_Parejas	Q	Q	3	3	4	
+1774	Dobles_Parejas	Q	Q	3	3	2	
+1775	Dobles_Parejas	Q	Q	2	2	AS	
+1776	Dobles_Parejas	Q	Q	2	2	K	
+1777	Dobles_Parejas	Q	Q	2	2	J	
+1778	Dobles_Parejas	Q	Q	2	2	10	
+1779	Dobles_Parejas	Q	Q	2	2	9	
+1780	Dobles_Parejas	Q	Q	2	2	8	
+1781	Dobles_Parejas	Q	Q	2	2	7	
+1782	Dobles_Parejas	Q	Q	2	2	6	
+1783	Dobles_Parejas	Q	Q	2	2	5	
+1784	Dobles_Parejas	Q	Q	2	2	4	
+1785	Dobles_Parejas	Q	Q	2	2	3	
+1786	Dobles_Parejas	J	J	10	10	AS	
+1787	Dobles_Parejas	J	J	10	10	K	
+1788	Dobles_Parejas	J	J	10	10	Q	
+1789	Dobles_Parejas	J	J	10	10	9	
+1790	Dobles_Parejas	J	J	10	10	8	
+1791	Dobles_Parejas	J	J	10	10	7	
+1792	Dobles_Parejas	J	J	10	10	6	
+1793	Dobles_Parejas	J	J	10	10	5	
+1794	Dobles_Parejas	J	J	10	10	4	
+1795	Dobles_Parejas	J	J	10	10	3	
+1796	Dobles_Parejas	J	J	10	10	2	
+1797	Dobles_Parejas	J	J	9	9	AS	
+1798	Dobles_Parejas	J	J	9	9	K	
+1799	Dobles_Parejas	J	J	9	9	Q	
+1800	Dobles_Parejas	J	J	9	9	10	
+1801	Dobles_Parejas	J	J	9	9	8	
+1802	Dobles_Parejas	J	J	9	9	7	
+1803	Dobles_Parejas	J	J	9	9	6	
+1804	Dobles_Parejas	J	J	9	9	5	
+1805	Dobles_Parejas	J	J	9	9	4	
+1806	Dobles_Parejas	J	J	9	9	3	
+1807	Dobles_Parejas	J	J	9	9	2	
+1808	Dobles_Parejas	J	J	8	8	AS	
+1809	Dobles_Parejas	J	J	8	8	K	
+1810	Dobles_Parejas	J	J	8	8	Q	
+1811	Dobles_Parejas	J	J	8	8	10	
+1812	Dobles_Parejas	J	J	8	8	9	
+1813	Dobles_Parejas	J	J	8	8	7	
+1814	Dobles_Parejas	J	J	8	8	6	
+1815	Dobles_Parejas	J	J	8	8	5	
+1816	Dobles_Parejas	J	J	8	8	4	
+1817	Dobles_Parejas	J	J	8	8	3	
+1818	Dobles_Parejas	J	J	8	8	2	
+1819	Dobles_Parejas	J	J	7	7	AS	
+1820	Dobles_Parejas	J	J	7	7	K	
+1821	Dobles_Parejas	J	J	7	7	Q	
+1822	Dobles_Parejas	J	J	7	7	10	
+1823	Dobles_Parejas	J	J	7	7	9	
+1824	Dobles_Parejas	J	J	7	7	8	
+1825	Dobles_Parejas	J	J	7	7	6	
+1826	Dobles_Parejas	J	J	7	7	5	
+1827	Dobles_Parejas	J	J	7	7	4	
+1828	Dobles_Parejas	J	J	7	7	3	
+1829	Dobles_Parejas	J	J	7	7	2	
+1830	Dobles_Parejas	J	J	6	6	AS	
+1831	Dobles_Parejas	J	J	6	6	K	
+1832	Dobles_Parejas	J	J	6	6	Q	
+1833	Dobles_Parejas	J	J	6	6	10	
+1834	Dobles_Parejas	J	J	6	6	9	
+1835	Dobles_Parejas	J	J	6	6	8	
+1836	Dobles_Parejas	J	J	6	6	7	
+1837	Dobles_Parejas	J	J	6	6	5	
+1838	Dobles_Parejas	J	J	6	6	4	
+1839	Dobles_Parejas	J	J	6	6	3	
+1840	Dobles_Parejas	J	J	6	6	2	
+1841	Dobles_Parejas	J	J	5	5	AS	
+1842	Dobles_Parejas	J	J	5	5	K	
+1843	Dobles_Parejas	J	J	5	5	Q	
+1844	Dobles_Parejas	J	J	5	5	10	
+1845	Dobles_Parejas	J	J	5	5	9	
+1846	Dobles_Parejas	J	J	5	5	8	
+1847	Dobles_Parejas	J	J	5	5	7	
+1848	Dobles_Parejas	J	J	5	5	6	
+1849	Dobles_Parejas	J	J	5	5	4	
+1850	Dobles_Parejas	J	J	5	5	3	
+1851	Dobles_Parejas	J	J	5	5	2	
+1852	Dobles_Parejas	J	J	4	4	AS	
+1853	Dobles_Parejas	J	J	4	4	K	
+1854	Dobles_Parejas	J	J	4	4	Q	
+1855	Dobles_Parejas	J	J	4	4	10	
+1856	Dobles_Parejas	J	J	4	4	9	
+1857	Dobles_Parejas	J	J	4	4	8	
+1858	Dobles_Parejas	J	J	4	4	7	
+1859	Dobles_Parejas	J	J	4	4	6	
+1860	Dobles_Parejas	J	J	4	4	5	
+1861	Dobles_Parejas	J	J	4	4	3	
+1862	Dobles_Parejas	J	J	4	4	2	
+1863	Dobles_Parejas	J	J	3	3	AS	
+1864	Dobles_Parejas	J	J	3	3	K	
+1865	Dobles_Parejas	J	J	3	3	Q	
+1866	Dobles_Parejas	J	J	3	3	10	
+1867	Dobles_Parejas	J	J	3	3	9	
+1868	Dobles_Parejas	J	J	3	3	8	
+1869	Dobles_Parejas	J	J	3	3	7	
+1870	Dobles_Parejas	J	J	3	3	6	
+1871	Dobles_Parejas	J	J	3	3	5	
+1872	Dobles_Parejas	J	J	3	3	4	
+1873	Dobles_Parejas	J	J	3	3	2	
+1874	Dobles_Parejas	J	J	2	2	AS	
+1875	Dobles_Parejas	J	J	2	2	K	
+1876	Dobles_Parejas	J	J	2	2	Q	
+1877	Dobles_Parejas	J	J	2	2	10	
+1878	Dobles_Parejas	J	J	2	2	9	
+1879	Dobles_Parejas	J	J	2	2	8	
+1880	Dobles_Parejas	J	J	2	2	7	
+1881	Dobles_Parejas	J	J	2	2	6	
+1882	Dobles_Parejas	J	J	2	2	5	
+1883	Dobles_Parejas	J	J	2	2	4	
+1884	Dobles_Parejas	J	J	2	2	3	
+1885	Dobles_Parejas	10	10	9	9	AS	
+1886	Dobles_Parejas	10	10	9	9	K	
+1887	Dobles_Parejas	10	10	9	9	Q	
+1888	Dobles_Parejas	10	10	9	9	J	
+1889	Dobles_Parejas	10	10	9	9	8	
+1890	Dobles_Parejas	10	10	9	9	7	
+1891	Dobles_Parejas	10	10	9	9	6	
+1892	Dobles_Parejas	10	10	9	9	5	
+1893	Dobles_Parejas	10	10	9	9	4	
+1894	Dobles_Parejas	10	10	9	9	3	
+1895	Dobles_Parejas	10	10	9	9	2	
+1896	Dobles_Parejas	10	10	8	8	AS	
+1897	Dobles_Parejas	10	10	8	8	K	
+1898	Dobles_Parejas	10	10	8	8	Q	
+1899	Dobles_Parejas	10	10	8	8	J	
+1900	Dobles_Parejas	10	10	8	8	9	
+1901	Dobles_Parejas	10	10	8	8	7	
+1902	Dobles_Parejas	10	10	8	8	6	
+1903	Dobles_Parejas	10	10	8	8	5	
+1904	Dobles_Parejas	10	10	8	8	4	
+1905	Dobles_Parejas	10	10	8	8	3	
+1906	Dobles_Parejas	10	10	8	8	2	
+1907	Dobles_Parejas	10	10	7	7	AS	
+1908	Dobles_Parejas	10	10	7	7	K	
+1909	Dobles_Parejas	10	10	7	7	Q	
+1910	Dobles_Parejas	10	10	7	7	J	
+1911	Dobles_Parejas	10	10	7	7	9	
+1912	Dobles_Parejas	10	10	7	7	8	
+1913	Dobles_Parejas	10	10	7	7	6	
+1914	Dobles_Parejas	10	10	7	7	5	
+1915	Dobles_Parejas	10	10	7	7	4	
+1916	Dobles_Parejas	10	10	7	7	3	
+1917	Dobles_Parejas	10	10	7	7	2	
+1918	Dobles_Parejas	10	10	6	6	AS	
+1919	Dobles_Parejas	10	10	6	6	K	
+1920	Dobles_Parejas	10	10	6	6	Q	
+1921	Dobles_Parejas	10	10	6	6	J	
+1922	Dobles_Parejas	10	10	6	6	9	
+1923	Dobles_Parejas	10	10	6	6	8	
+1924	Dobles_Parejas	10	10	6	6	7	
+1925	Dobles_Parejas	10	10	6	6	5	
+1926	Dobles_Parejas	10	10	6	6	4	
+1927	Dobles_Parejas	10	10	6	6	3	
+1928	Dobles_Parejas	10	10	6	6	2	
+1929	Dobles_Parejas	10	10	5	5	AS	
+1930	Dobles_Parejas	10	10	5	5	K	
+1931	Dobles_Parejas	10	10	5	5	Q	
+1932	Dobles_Parejas	10	10	5	5	J	
+1933	Dobles_Parejas	10	10	5	5	9	
+1934	Dobles_Parejas	10	10	5	5	8	
+1935	Dobles_Parejas	10	10	5	5	7	
+1936	Dobles_Parejas	10	10	5	5	6	
+1937	Dobles_Parejas	10	10	5	5	4	
+1938	Dobles_Parejas	10	10	5	5	3	
+1939	Dobles_Parejas	10	10	5	5	2	
+1940	Dobles_Parejas	10	10	4	4	AS	
+1941	Dobles_Parejas	10	10	4	4	K	
+1942	Dobles_Parejas	10	10	4	4	Q	
+1943	Dobles_Parejas	10	10	4	4	J	
+1944	Dobles_Parejas	10	10	4	4	9	
+1945	Dobles_Parejas	10	10	4	4	8	
+1946	Dobles_Parejas	10	10	4	4	7	
+1947	Dobles_Parejas	10	10	4	4	6	
+1948	Dobles_Parejas	10	10	4	4	5	
+1949	Dobles_Parejas	10	10	4	4	3	
+1950	Dobles_Parejas	10	10	4	4	2	
+1951	Dobles_Parejas	10	10	3	3	AS	
+1952	Dobles_Parejas	10	10	3	3	K	
+1953	Dobles_Parejas	10	10	3	3	Q	
+1954	Dobles_Parejas	10	10	3	3	J	
+1955	Dobles_Parejas	10	10	3	3	9	
+1956	Dobles_Parejas	10	10	3	3	8	
+1957	Dobles_Parejas	10	10	3	3	7	
+1958	Dobles_Parejas	10	10	3	3	6	
+1959	Dobles_Parejas	10	10	3	3	5	
+1960	Dobles_Parejas	10	10	3	3	4	
+1961	Dobles_Parejas	10	10	3	3	2	
+1962	Dobles_Parejas	10	10	2	2	AS	
+1963	Dobles_Parejas	10	10	2	2	K	
+1964	Dobles_Parejas	10	10	2	2	Q	
+1965	Dobles_Parejas	10	10	2	2	J	
+1966	Dobles_Parejas	10	10	2	2	9	
+1967	Dobles_Parejas	10	10	2	2	8	
+1968	Dobles_Parejas	10	10	2	2	7	
+1969	Dobles_Parejas	10	10	2	2	6	
+1970	Dobles_Parejas	10	10	2	2	5	
+1971	Dobles_Parejas	10	10	2	2	4	
+1972	Dobles_Parejas	10	10	2	2	3	
+1973	Dobles_Parejas	9	9	8	8	AS	
+1974	Dobles_Parejas	9	9	8	8	K	
+1975	Dobles_Parejas	9	9	8	8	Q	
+1976	Dobles_Parejas	9	9	8	8	J	
+1977	Dobles_Parejas	9	9	8	8	10	
+1978	Dobles_Parejas	9	9	8	8	7	
+1979	Dobles_Parejas	9	9	8	8	6	
+1980	Dobles_Parejas	9	9	8	8	5	
+1981	Dobles_Parejas	9	9	8	8	4	
+1982	Dobles_Parejas	9	9	8	8	3	
+1983	Dobles_Parejas	9	9	8	8	2	
+1984	Dobles_Parejas	9	9	7	7	AS	
+1985	Dobles_Parejas	9	9	7	7	K	
+1986	Dobles_Parejas	9	9	7	7	Q	
+1987	Dobles_Parejas	9	9	7	7	J	
+1988	Dobles_Parejas	9	9	7	7	10	
+1989	Dobles_Parejas	9	9	7	7	8	
+1990	Dobles_Parejas	9	9	7	7	6	
+1991	Dobles_Parejas	9	9	7	7	5	
+1992	Dobles_Parejas	9	9	7	7	4	
+1993	Dobles_Parejas	9	9	7	7	3	
+1994	Dobles_Parejas	9	9	7	7	2	
+1995	Dobles_Parejas	9	9	6	6	AS	
+1996	Dobles_Parejas	9	9	6	6	K	
+1997	Dobles_Parejas	9	9	6	6	Q	
+1998	Dobles_Parejas	9	9	6	6	J	
+1999	Dobles_Parejas	9	9	6	6	10	
+2000	Dobles_Parejas	9	9	6	6	8	
+2001	Dobles_Parejas	9	9	6	6	7	
+2002	Dobles_Parejas	9	9	6	6	5	
+2003	Dobles_Parejas	9	9	6	6	4	
+2004	Dobles_Parejas	9	9	6	6	3	
+2005	Dobles_Parejas	9	9	6	6	2	
+2006	Dobles_Parejas	9	9	5	5	AS	
+2007	Dobles_Parejas	9	9	5	5	K	
+2008	Dobles_Parejas	9	9	5	5	Q	
+2009	Dobles_Parejas	9	9	5	5	J	
+2010	Dobles_Parejas	9	9	5	5	10	
+2011	Dobles_Parejas	9	9	5	5	8	
+2012	Dobles_Parejas	9	9	5	5	7	
+2013	Dobles_Parejas	9	9	5	5	6	
+2014	Dobles_Parejas	9	9	5	5	4	
+2015	Dobles_Parejas	9	9	5	5	3	
+2016	Dobles_Parejas	9	9	5	5	2	
+2017	Dobles_Parejas	9	9	4	4	AS	
+2018	Dobles_Parejas	9	9	4	4	K	
+2019	Dobles_Parejas	9	9	4	4	Q	
+2020	Dobles_Parejas	9	9	4	4	J	
+2021	Dobles_Parejas	9	9	4	4	10	
+2022	Dobles_Parejas	9	9	4	4	8	
+2023	Dobles_Parejas	9	9	4	4	7	
+2024	Dobles_Parejas	9	9	4	4	6	
+2025	Dobles_Parejas	9	9	4	4	5	
+2026	Dobles_Parejas	9	9	4	4	3	
+2027	Dobles_Parejas	9	9	4	4	2	
+2028	Dobles_Parejas	9	9	3	3	AS	
+2029	Dobles_Parejas	9	9	3	3	K	
+2030	Dobles_Parejas	9	9	3	3	Q	
+2031	Dobles_Parejas	9	9	3	3	J	
+2032	Dobles_Parejas	9	9	3	3	10	
+2033	Dobles_Parejas	9	9	3	3	8	
+2034	Dobles_Parejas	9	9	3	3	7	
+2035	Dobles_Parejas	9	9	3	3	6	
+2036	Dobles_Parejas	9	9	3	3	5	
+2037	Dobles_Parejas	9	9	3	3	4	
+2038	Dobles_Parejas	9	9	3	3	2	
+2039	Dobles_Parejas	9	9	2	2	AS	
+2040	Dobles_Parejas	9	9	2	2	K	
+2041	Dobles_Parejas	9	9	2	2	Q	
+2042	Dobles_Parejas	9	9	2	2	J	
+2043	Dobles_Parejas	9	9	2	2	10	
+2044	Dobles_Parejas	9	9	2	2	8	
+2045	Dobles_Parejas	9	9	2	2	7	
+2046	Dobles_Parejas	9	9	2	2	6	
+2047	Dobles_Parejas	9	9	2	2	5	
+2048	Dobles_Parejas	9	9	2	2	4	
+2049	Dobles_Parejas	9	9	2	2	3	
+2050	Dobles_Parejas	8	8	7	7	AS	
+2051	Dobles_Parejas	8	8	7	7	K	
+2052	Dobles_Parejas	8	8	7	7	Q	
+2053	Dobles_Parejas	8	8	7	7	J	
+2054	Dobles_Parejas	8	8	7	7	10	
+2055	Dobles_Parejas	8	8	7	7	9	
+2056	Dobles_Parejas	8	8	7	7	6	
+2057	Dobles_Parejas	8	8	7	7	5	
+2058	Dobles_Parejas	8	8	7	7	4	
+2059	Dobles_Parejas	8	8	7	7	3	
+2060	Dobles_Parejas	8	8	7	7	2	
+2061	Dobles_Parejas	8	8	6	6	AS	
+2062	Dobles_Parejas	8	8	6	6	K	
+2063	Dobles_Parejas	8	8	6	6	Q	
+2064	Dobles_Parejas	8	8	6	6	J	
+2065	Dobles_Parejas	8	8	6	6	10	
+2066	Dobles_Parejas	8	8	6	6	9	
+2067	Dobles_Parejas	8	8	6	6	7	
+2068	Dobles_Parejas	8	8	6	6	5	
+2069	Dobles_Parejas	8	8	6	6	4	
+2070	Dobles_Parejas	8	8	6	6	3	
+2071	Dobles_Parejas	8	8	6	6	2	
+2072	Dobles_Parejas	8	8	5	5	AS	
+2073	Dobles_Parejas	8	8	5	5	K	
+2074	Dobles_Parejas	8	8	5	5	Q	
+2075	Dobles_Parejas	8	8	5	5	J	
+2076	Dobles_Parejas	8	8	5	5	10	
+2077	Dobles_Parejas	8	8	5	5	9	
+2078	Dobles_Parejas	8	8	5	5	7	
+2079	Dobles_Parejas	8	8	5	5	6	
+2080	Dobles_Parejas	8	8	5	5	4	
+2081	Dobles_Parejas	8	8	5	5	3	
+2082	Dobles_Parejas	8	8	5	5	2	
+2083	Dobles_Parejas	8	8	4	4	AS	
+2084	Dobles_Parejas	8	8	4	4	K	
+2085	Dobles_Parejas	8	8	4	4	Q	
+2086	Dobles_Parejas	8	8	4	4	J	
+2087	Dobles_Parejas	8	8	4	4	10	
+2088	Dobles_Parejas	8	8	4	4	9	
+2089	Dobles_Parejas	8	8	4	4	7	
+2090	Dobles_Parejas	8	8	4	4	6	
+2091	Dobles_Parejas	8	8	4	4	5	
+2092	Dobles_Parejas	8	8	4	4	3	
+2093	Dobles_Parejas	8	8	4	4	2	
+2094	Dobles_Parejas	8	8	3	3	AS	
+2095	Dobles_Parejas	8	8	3	3	K	
+2096	Dobles_Parejas	8	8	3	3	Q	
+2097	Dobles_Parejas	8	8	3	3	J	
+2098	Dobles_Parejas	8	8	3	3	10	
+2099	Dobles_Parejas	8	8	3	3	9	
+2100	Dobles_Parejas	8	8	3	3	7	
+2101	Dobles_Parejas	8	8	3	3	6	
+2102	Dobles_Parejas	8	8	3	3	5	
+2103	Dobles_Parejas	8	8	3	3	4	
+2104	Dobles_Parejas	8	8	3	3	2	
+2105	Dobles_Parejas	8	8	2	2	AS	
+2106	Dobles_Parejas	8	8	2	2	K	
+2107	Dobles_Parejas	8	8	2	2	Q	
+2108	Dobles_Parejas	8	8	2	2	J	
+2109	Dobles_Parejas	8	8	2	2	10	
+2110	Dobles_Parejas	8	8	2	2	9	
+2111	Dobles_Parejas	8	8	2	2	7	
+2112	Dobles_Parejas	8	8	2	2	6	
+2113	Dobles_Parejas	8	8	2	2	5	
+2114	Dobles_Parejas	8	8	2	2	4	
+2115	Dobles_Parejas	8	8	2	2	3	
+2116	Dobles_Parejas	7	7	6	6	AS	
+2117	Dobles_Parejas	7	7	6	6	K	
+2118	Dobles_Parejas	7	7	6	6	Q	
+2119	Dobles_Parejas	7	7	6	6	J	
+2120	Dobles_Parejas	7	7	6	6	10	
+2121	Dobles_Parejas	7	7	6	6	9	
+2122	Dobles_Parejas	7	7	6	6	8	
+2123	Dobles_Parejas	7	7	6	6	5	
+2124	Dobles_Parejas	7	7	6	6	4	
+2125	Dobles_Parejas	7	7	6	6	3	
+2126	Dobles_Parejas	7	7	6	6	2	
+2127	Dobles_Parejas	7	7	5	5	AS	
+2128	Dobles_Parejas	7	7	5	5	K	
+2129	Dobles_Parejas	7	7	5	5	Q	
+2130	Dobles_Parejas	7	7	5	5	J	
+2131	Dobles_Parejas	7	7	5	5	10	
+2132	Dobles_Parejas	7	7	5	5	9	
+2133	Dobles_Parejas	7	7	5	5	8	
+2134	Dobles_Parejas	7	7	5	5	6	
+2135	Dobles_Parejas	7	7	5	5	4	
+2136	Dobles_Parejas	7	7	5	5	3	
+2137	Dobles_Parejas	7	7	5	5	2	
+2138	Dobles_Parejas	7	7	4	4	AS	
+2139	Dobles_Parejas	7	7	4	4	K	
+2140	Dobles_Parejas	7	7	4	4	Q	
+2141	Dobles_Parejas	7	7	4	4	J	
+2142	Dobles_Parejas	7	7	4	4	10	
+2143	Dobles_Parejas	7	7	4	4	9	
+2144	Dobles_Parejas	7	7	4	4	8	
+2145	Dobles_Parejas	7	7	4	4	6	
+2146	Dobles_Parejas	7	7	4	4	5	
+2147	Dobles_Parejas	7	7	4	4	3	
+2148	Dobles_Parejas	7	7	4	4	2	
+2149	Dobles_Parejas	7	7	3	3	AS	
+2150	Dobles_Parejas	7	7	3	3	K	
+2151	Dobles_Parejas	7	7	3	3	Q	
+2152	Dobles_Parejas	7	7	3	3	J	
+2153	Dobles_Parejas	7	7	3	3	10	
+2154	Dobles_Parejas	7	7	3	3	9	
+2155	Dobles_Parejas	7	7	3	3	8	
+2156	Dobles_Parejas	7	7	3	3	6	
+2157	Dobles_Parejas	7	7	3	3	5	
+2158	Dobles_Parejas	7	7	3	3	4	
+2159	Dobles_Parejas	7	7	3	3	2	
+2160	Dobles_Parejas	7	7	2	2	AS	
+2161	Dobles_Parejas	7	7	2	2	K	
+2162	Dobles_Parejas	7	7	2	2	Q	
+2163	Dobles_Parejas	7	7	2	2	J	
+2164	Dobles_Parejas	7	7	2	2	10	
+2165	Dobles_Parejas	7	7	2	2	9	
+2166	Dobles_Parejas	7	7	2	2	8	
+2167	Dobles_Parejas	7	7	2	2	6	
+2168	Dobles_Parejas	7	7	2	2	5	
+2169	Dobles_Parejas	7	7	2	2	4	
+2170	Dobles_Parejas	7	7	2	2	3	
+2171	Dobles_Parejas	6	6	5	5	AS	
+2172	Dobles_Parejas	6	6	5	5	K	
+2173	Dobles_Parejas	6	6	5	5	Q	
+2174	Dobles_Parejas	6	6	5	5	J	
+2175	Dobles_Parejas	6	6	5	5	10	
+2176	Dobles_Parejas	6	6	5	5	9	
+2177	Dobles_Parejas	6	6	5	5	8	
+2178	Dobles_Parejas	6	6	5	5	7	
+2179	Dobles_Parejas	6	6	5	5	4	
+2180	Dobles_Parejas	6	6	5	5	3	
+2181	Dobles_Parejas	6	6	5	5	2	
+2182	Dobles_Parejas	6	6	4	4	AS	
+2183	Dobles_Parejas	6	6	4	4	K	
+2184	Dobles_Parejas	6	6	4	4	Q	
+2185	Dobles_Parejas	6	6	4	4	J	
+2186	Dobles_Parejas	6	6	4	4	10	
+2187	Dobles_Parejas	6	6	4	4	9	
+2188	Dobles_Parejas	6	6	4	4	8	
+2189	Dobles_Parejas	6	6	4	4	7	
+2190	Dobles_Parejas	6	6	4	4	5	
+2191	Dobles_Parejas	6	6	4	4	3	
+2192	Dobles_Parejas	6	6	4	4	2	
+2193	Dobles_Parejas	6	6	3	3	AS	
+2194	Dobles_Parejas	6	6	3	3	K	
+2195	Dobles_Parejas	6	6	3	3	Q	
+2196	Dobles_Parejas	6	6	3	3	J	
+2197	Dobles_Parejas	6	6	3	3	10	
+2198	Dobles_Parejas	6	6	3	3	9	
+2199	Dobles_Parejas	6	6	3	3	8	
+2200	Dobles_Parejas	6	6	3	3	7	
+2201	Dobles_Parejas	6	6	3	3	5	
+2202	Dobles_Parejas	6	6	3	3	4	
+2203	Dobles_Parejas	6	6	3	3	2	
+2204	Dobles_Parejas	6	6	2	2	AS	
+2205	Dobles_Parejas	6	6	2	2	K	
+2206	Dobles_Parejas	6	6	2	2	Q	
+2207	Dobles_Parejas	6	6	2	2	J	
+2208	Dobles_Parejas	6	6	2	2	10	
+2209	Dobles_Parejas	6	6	2	2	9	
+2210	Dobles_Parejas	6	6	2	2	8	
+2211	Dobles_Parejas	6	6	2	2	7	
+2212	Dobles_Parejas	6	6	2	2	5	
+2213	Dobles_Parejas	6	6	2	2	4	
+2214	Dobles_Parejas	6	6	2	2	3	
+2215	Dobles_Parejas	5	5	4	4	AS	
+2216	Dobles_Parejas	5	5	4	4	K	
+2217	Dobles_Parejas	5	5	4	4	Q	
+2218	Dobles_Parejas	5	5	4	4	J	
+2219	Dobles_Parejas	5	5	4	4	10	
+2220	Dobles_Parejas	5	5	4	4	9	
+2221	Dobles_Parejas	5	5	4	4	8	
+2222	Dobles_Parejas	5	5	4	4	7	
+2223	Dobles_Parejas	5	5	4	4	6	
+2224	Dobles_Parejas	5	5	4	4	3	
+2225	Dobles_Parejas	5	5	4	4	2	
+2226	Dobles_Parejas	5	5	3	3	AS	
+2227	Dobles_Parejas	5	5	3	3	K	
+2228	Dobles_Parejas	5	5	3	3	Q	
+2229	Dobles_Parejas	5	5	3	3	J	
+2230	Dobles_Parejas	5	5	3	3	10	
+2231	Dobles_Parejas	5	5	3	3	9	
+2232	Dobles_Parejas	5	5	3	3	8	
+2233	Dobles_Parejas	5	5	3	3	7	
+2234	Dobles_Parejas	5	5	3	3	6	
+2235	Dobles_Parejas	5	5	3	3	4	
+2236	Dobles_Parejas	5	5	3	3	2	
+2237	Dobles_Parejas	5	5	2	2	AS	
+2238	Dobles_Parejas	5	5	2	2	K	
+2239	Dobles_Parejas	5	5	2	2	Q	
+2240	Dobles_Parejas	5	5	2	2	J	
+2241	Dobles_Parejas	5	5	2	2	10	
+2242	Dobles_Parejas	5	5	2	2	9	
+2243	Dobles_Parejas	5	5	2	2	8	
+2244	Dobles_Parejas	5	5	2	2	7	
+2245	Dobles_Parejas	5	5	2	2	6	
+2246	Dobles_Parejas	5	5	2	2	4	
+2247	Dobles_Parejas	5	5	2	2	3	
+2248	Dobles_Parejas	4	4	3	3	AS	
+2249	Dobles_Parejas	4	4	3	3	K	
+2250	Dobles_Parejas	4	4	3	3	Q	
+2251	Dobles_Parejas	4	4	3	3	J	
+2252	Dobles_Parejas	4	4	3	3	10	
+2253	Dobles_Parejas	4	4	3	3	9	
+2254	Dobles_Parejas	4	4	3	3	8	
+2255	Dobles_Parejas	4	4	3	3	7	
+2256	Dobles_Parejas	4	4	3	3	6	
+2257	Dobles_Parejas	4	4	3	3	5	
+2258	Dobles_Parejas	4	4	3	3	2	
+2259	Dobles_Parejas	4	4	2	2	AS	
+2260	Dobles_Parejas	4	4	2	2	K	
+2261	Dobles_Parejas	4	4	2	2	Q	
+2262	Dobles_Parejas	4	4	2	2	J	
+2263	Dobles_Parejas	4	4	2	2	10	
+2264	Dobles_Parejas	4	4	2	2	9	
+2265	Dobles_Parejas	4	4	2	2	8	
+2266	Dobles_Parejas	4	4	2	2	7	
+2267	Dobles_Parejas	4	4	2	2	6	
+2268	Dobles_Parejas	4	4	2	2	5	
+2269	Dobles_Parejas	4	4	2	2	3	
+2270	Dobles_Parejas	3	3	2	2	AS	
+2271	Dobles_Parejas	3	3	2	2	K	
+2272	Dobles_Parejas	3	3	2	2	Q	
+2273	Dobles_Parejas	3	3	2	2	J	
+2274	Dobles_Parejas	3	3	2	2	10	
+2275	Dobles_Parejas	3	3	2	2	9	
+2276	Dobles_Parejas	3	3	2	2	8	
+2277	Dobles_Parejas	3	3	2	2	7	
+2278	Dobles_Parejas	3	3	2	2	6	
+2279	Dobles_Parejas	3	3	2	2	5	
+2280	Dobles_Parejas	3	3	2	2	4	
+2281	Pareja	As	As	2	3	4	
+2282	Pareja	As	As	2	3	5	
+2283	Pareja	As	As	2	3	6	
+2284	Pareja	As	As	2	3	7	
+2285	Pareja	As	As	2	3	8	
+2286	Pareja	As	As	2	3	9	
+2287	Pareja	As	As	2	3	10	
+2288	Pareja	As	As	2	3	J	
+2289	Pareja	As	As	2	3	Q	
+2290	Pareja	As	As	2	3	K	
+2291	Pareja	As	As	2	4	5	
+2292	Pareja	As	As	2	4	6	
+2293	Pareja	As	As	2	4	7	
+2294	Pareja	As	As	2	4	8	
+2295	Pareja	As	As	2	4	9	
+2296	Pareja	As	As	2	4	10	
+2297	Pareja	As	As	2	4	J	
+2298	Pareja	As	As	2	4	Q	
+2299	Pareja	As	As	2	4	K	
+2300	Pareja	As	As	2	5	6	
+2301	Pareja	As	As	2	5	7	
+2302	Pareja	As	As	2	5	8	
+2303	Pareja	As	As	2	5	9	
+2304	Pareja	As	As	2	5	10	
+2305	Pareja	As	As	2	5	J	
+2306	Pareja	As	As	2	5	Q	
+2307	Pareja	As	As	2	5	K	
+2308	Pareja	As	As	2	6	7	
+2309	Pareja	As	As	2	6	8	
+2310	Pareja	As	As	2	6	9	
+2311	Pareja	As	As	2	6	10	
+2312	Pareja	As	As	2	6	J	
+2313	Pareja	As	As	2	6	Q	
+2314	Pareja	As	As	2	6	K	
+2315	Pareja	As	As	2	7	8	
+2316	Pareja	As	As	2	7	9	
+2317	Pareja	As	As	2	7	10	
+2318	Pareja	As	As	2	7	J	
+2319	Pareja	As	As	2	7	Q	
+2320	Pareja	As	As	2	7	K	
+2321	Pareja	As	As	2	8	9	
+2322	Pareja	As	As	2	8	10	
+2323	Pareja	As	As	2	8	J	
+2324	Pareja	As	As	2	8	Q	
+2325	Pareja	As	As	2	8	K	
+2326	Pareja	As	As	2	9	10	
+2327	Pareja	As	As	2	9	J	
+2328	Pareja	As	As	2	9	Q	
+2329	Pareja	As	As	2	9	K	
+2330	Pareja	As	As	2	10	J	
+2331	Pareja	As	As	2	10	Q	
+2332	Pareja	As	As	2	10	K	
+2333	Pareja	As	As	2	J	Q	
+2334	Pareja	As	As	2	J	K	
+2335	Pareja	As	As	2	Q	K	
+2336	Pareja	As	As	3	4	5	
+2337	Pareja	As	As	3	4	6	
+2338	Pareja	As	As	3	4	7	
+2339	Pareja	As	As	3	4	8	
+2340	Pareja	As	As	3	4	9	
+2341	Pareja	As	As	3	4	10	
+2342	Pareja	As	As	3	4	J	
+2343	Pareja	As	As	3	4	Q	
+2344	Pareja	As	As	3	4	K	
+2345	Pareja	As	As	3	5	6	
+2346	Pareja	As	As	3	5	7	
+2347	Pareja	As	As	3	5	8	
+2348	Pareja	As	As	3	5	9	
+2349	Pareja	As	As	3	5	10	
+2350	Pareja	As	As	3	5	J	
+2351	Pareja	As	As	3	5	Q	
+2352	Pareja	As	As	3	5	K	
+2353	Pareja	As	As	3	6	7	
+2354	Pareja	As	As	3	6	8	
+2355	Pareja	As	As	3	6	9	
+2356	Pareja	As	As	3	6	10	
+2357	Pareja	As	As	3	6	J	
+2358	Pareja	As	As	3	6	Q	
+2359	Pareja	As	As	3	6	K	
+2360	Pareja	As	As	3	7	8	
+2361	Pareja	As	As	3	7	9	
+2362	Pareja	As	As	3	7	10	
+2363	Pareja	As	As	3	7	J	
+2364	Pareja	As	As	3	7	Q	
+2365	Pareja	As	As	3	7	K	
+2366	Pareja	As	As	3	8	9	
+2367	Pareja	As	As	3	8	10	
+2368	Pareja	As	As	3	8	J	
+2369	Pareja	As	As	3	8	Q	
+2370	Pareja	As	As	3	8	K	
+2371	Pareja	As	As	3	9	10	
+2372	Pareja	As	As	3	9	J	
+2373	Pareja	As	As	3	9	Q	
+2374	Pareja	As	As	3	9	K	
+2375	Pareja	As	As	3	10	J	
+2376	Pareja	As	As	3	10	Q	
+2377	Pareja	As	As	3	10	K	
+2378	Pareja	As	As	3	J	Q	
+2379	Pareja	As	As	3	J	K	
+2380	Pareja	As	As	3	Q	K	
+2381	Pareja	As	As	4	5	6	
+2382	Pareja	As	As	4	5	7	
+2383	Pareja	As	As	4	5	8	
+2384	Pareja	As	As	4	5	9	
+2385	Pareja	As	As	4	5	10	
+2386	Pareja	As	As	4	5	J	
+2387	Pareja	As	As	4	5	Q	
+2388	Pareja	As	As	4	5	K	
+2389	Pareja	As	As	4	6	7	
+2390	Pareja	As	As	4	6	8	
+2391	Pareja	As	As	4	6	9	
+2392	Pareja	As	As	4	6	10	
+2393	Pareja	As	As	4	6	J	
+2394	Pareja	As	As	4	6	Q	
+2395	Pareja	As	As	4	6	K	
+2396	Pareja	As	As	4	7	8	
+2397	Pareja	As	As	4	7	9	
+2398	Pareja	As	As	4	7	10	
+2399	Pareja	As	As	4	7	J	
+2400	Pareja	As	As	4	7	Q	
+2401	Pareja	As	As	4	7	K	
+2402	Pareja	As	As	4	8	9	
+2403	Pareja	As	As	4	8	10	
+2404	Pareja	As	As	4	8	J	
+2405	Pareja	As	As	4	8	Q	
+2406	Pareja	As	As	4	8	K	
+2407	Pareja	As	As	4	9	10	
+2408	Pareja	As	As	4	9	J	
+2409	Pareja	As	As	4	9	Q	
+2410	Pareja	As	As	4	9	K	
+2411	Pareja	As	As	4	10	J	
+2412	Pareja	As	As	4	10	Q	
+2413	Pareja	As	As	4	10	K	
+2414	Pareja	As	As	4	J	Q	
+2415	Pareja	As	As	4	J	K	
+2416	Pareja	As	As	4	Q	K	
+2417	Pareja	As	As	5	6	7	
+2418	Pareja	As	As	5	6	8	
+2419	Pareja	As	As	5	6	9	
+2420	Pareja	As	As	5	6	10	
+2421	Pareja	As	As	5	6	J	
+2422	Pareja	As	As	5	6	Q	
+2423	Pareja	As	As	5	6	K	
+2424	Pareja	As	As	5	7	8	
+2425	Pareja	As	As	5	7	9	
+2426	Pareja	As	As	5	7	10	
+2427	Pareja	As	As	5	7	J	
+2428	Pareja	As	As	5	7	Q	
+2429	Pareja	As	As	5	7	K	
+2430	Pareja	As	As	5	8	9	
+2431	Pareja	As	As	5	8	10	
+2432	Pareja	As	As	5	8	J	
+2433	Pareja	As	As	5	8	Q	
+2434	Pareja	As	As	5	8	K	
+2435	Pareja	As	As	5	9	10	
+2436	Pareja	As	As	5	9	J	
+2437	Pareja	As	As	5	9	Q	
+2438	Pareja	As	As	5	9	K	
+2439	Pareja	As	As	5	10	J	
+2440	Pareja	As	As	5	10	Q	
+2441	Pareja	As	As	5	10	K	
+2442	Pareja	As	As	5	J	Q	
+2443	Pareja	As	As	5	J	K	
+2444	Pareja	As	As	5	Q	K	
+2445	Pareja	As	As	6	7	8	
+2446	Pareja	As	As	6	7	9	
+2447	Pareja	As	As	6	7	10	
+2448	Pareja	As	As	6	7	J	
+2449	Pareja	As	As	6	7	Q	
+2450	Pareja	As	As	6	7	K	
+2451	Pareja	As	As	6	8	9	
+2452	Pareja	As	As	6	8	10	
+2453	Pareja	As	As	6	8	J	
+2454	Pareja	As	As	6	8	Q	
+2455	Pareja	As	As	6	8	K	
+2456	Pareja	As	As	6	9	10	
+2457	Pareja	As	As	6	9	J	
+2458	Pareja	As	As	6	9	Q	
+2459	Pareja	As	As	6	9	K	
+2460	Pareja	As	As	6	10	J	
+2461	Pareja	As	As	6	10	Q	
+2462	Pareja	As	As	6	10	K	
+2463	Pareja	As	As	6	J	Q	
+2464	Pareja	As	As	6	J	K	
+2465	Pareja	As	As	6	Q	K	
+2466	Pareja	As	As	7	8	9	
+2467	Pareja	As	As	7	8	10	
+2468	Pareja	As	As	7	8	J	
+2469	Pareja	As	As	7	8	Q	
+2470	Pareja	As	As	7	8	K	
+2471	Pareja	As	As	7	9	10	
+2472	Pareja	As	As	7	9	J	
+2473	Pareja	As	As	7	9	Q	
+2474	Pareja	As	As	7	9	K	
+2475	Pareja	As	As	7	10	J	
+2476	Pareja	As	As	7	10	Q	
+2477	Pareja	As	As	7	10	K	
+2478	Pareja	As	As	7	J	Q	
+2479	Pareja	As	As	7	J	K	
+2480	Pareja	As	As	7	Q	K	
+2481	Pareja	As	As	8	9	10	
+2482	Pareja	As	As	8	9	J	
+2483	Pareja	As	As	8	9	Q	
+2484	Pareja	As	As	8	9	K	
+2485	Pareja	As	As	8	10	J	
+2486	Pareja	As	As	8	10	Q	
+2487	Pareja	As	As	8	10	K	
+2488	Pareja	As	As	8	J	Q	
+2489	Pareja	As	As	8	J	K	
+2490	Pareja	As	As	8	Q	K	
+2491	Pareja	As	As	9	10	J	
+2492	Pareja	As	As	9	10	Q	
+2493	Pareja	As	As	9	10	K	
+2494	Pareja	As	As	9	J	Q	
+2495	Pareja	As	As	9	J	K	
+2496	Pareja	As	As	9	Q	K	
+2497	Pareja	As	As	10	J	Q	
+2498	Pareja	As	As	10	J	K	
+2499	Pareja	As	As	10	Q	K	
+2500	Pareja	As	As	J	Q	K	
+2501	Pareja	K	K	2	3	4	
+2502	Pareja	K	K	2	3	5	
+2503	Pareja	K	K	2	3	6	
+2504	Pareja	K	K	2	3	7	
+2505	Pareja	K	K	2	3	8	
+2506	Pareja	K	K	2	3	9	
+2507	Pareja	K	K	2	3	10	
+2508	Pareja	K	K	2	3	J	
+2509	Pareja	K	K	2	3	Q	
+2510	Pareja	K	K	2	3	A	
+2511	Pareja	K	K	2	4	5	
+2512	Pareja	K	K	2	4	6	
+2513	Pareja	K	K	2	4	7	
+2514	Pareja	K	K	2	4	8	
+2515	Pareja	K	K	2	4	9	
+2516	Pareja	K	K	2	4	10	
+2517	Pareja	K	K	2	4	J	
+2518	Pareja	K	K	2	4	Q	
+2519	Pareja	K	K	2	4	A	
+2520	Pareja	K	K	2	5	6	
+2521	Pareja	K	K	2	5	7	
+2522	Pareja	K	K	2	5	8	
+2523	Pareja	K	K	2	5	9	
+2524	Pareja	K	K	2	5	10	
+2525	Pareja	K	K	2	5	J	
+2526	Pareja	K	K	2	5	Q	
+2527	Pareja	K	K	2	5	A	
+2528	Pareja	K	K	2	6	7	
+2529	Pareja	K	K	2	6	8	
+2530	Pareja	K	K	2	6	9	
+2531	Pareja	K	K	2	6	10	
+2532	Pareja	K	K	2	6	J	
+2533	Pareja	K	K	2	6	Q	
+2534	Pareja	K	K	2	6	A	
+2535	Pareja	K	K	2	7	8	
+2536	Pareja	K	K	2	7	9	
+2537	Pareja	K	K	2	7	10	
+2538	Pareja	K	K	2	7	J	
+2539	Pareja	K	K	2	7	Q	
+2540	Pareja	K	K	2	7	A	
+2541	Pareja	K	K	2	8	9	
+2542	Pareja	K	K	2	8	10	
+2543	Pareja	K	K	2	8	J	
+2544	Pareja	K	K	2	8	Q	
+2545	Pareja	K	K	2	8	A	
+2546	Pareja	K	K	2	9	10	
+2547	Pareja	K	K	2	9	J	
+2548	Pareja	K	K	2	9	Q	
+2549	Pareja	K	K	2	9	A	
+2550	Pareja	K	K	2	10	J	
+2551	Pareja	K	K	2	10	Q	
+2552	Pareja	K	K	2	10	A	
+2553	Pareja	K	K	2	J	Q	
+2554	Pareja	K	K	2	J	A	
+2555	Pareja	K	K	2	Q	A	
+2556	Pareja	K	K	3	4	5	
+2557	Pareja	K	K	3	4	6	
+2558	Pareja	K	K	3	4	7	
+2559	Pareja	K	K	3	4	8	
+2560	Pareja	K	K	3	4	9	
+2561	Pareja	K	K	3	4	10	
+2562	Pareja	K	K	3	4	J	
+2563	Pareja	K	K	3	4	Q	
+2564	Pareja	K	K	3	4	A	
+2565	Pareja	K	K	3	5	6	
+2566	Pareja	K	K	3	5	7	
+2567	Pareja	K	K	3	5	8	
+2568	Pareja	K	K	3	5	9	
+2569	Pareja	K	K	3	5	10	
+2570	Pareja	K	K	3	5	J	
+2571	Pareja	K	K	3	5	Q	
+2572	Pareja	K	K	3	5	A	
+2573	Pareja	K	K	3	6	7	
+2574	Pareja	K	K	3	6	8	
+2575	Pareja	K	K	3	6	9	
+2576	Pareja	K	K	3	6	10	
+2577	Pareja	K	K	3	6	J	
+2578	Pareja	K	K	3	6	Q	
+2579	Pareja	K	K	3	6	A	
+2580	Pareja	K	K	3	7	8	
+2581	Pareja	K	K	3	7	9	
+2582	Pareja	K	K	3	7	10	
+2583	Pareja	K	K	3	7	J	
+2584	Pareja	K	K	3	7	Q	
+2585	Pareja	K	K	3	7	A	
+2586	Pareja	K	K	3	8	9	
+2587	Pareja	K	K	3	8	10	
+2588	Pareja	K	K	3	8	J	
+2589	Pareja	K	K	3	8	Q	
+2590	Pareja	K	K	3	8	A	
+2591	Pareja	K	K	3	9	10	
+2592	Pareja	K	K	3	9	J	
+2593	Pareja	K	K	3	9	Q	
+2594	Pareja	K	K	3	9	A	
+2595	Pareja	K	K	3	10	J	
+2596	Pareja	K	K	3	10	Q	
+2597	Pareja	K	K	3	10	A	
+2598	Pareja	K	K	3	J	Q	
+2599	Pareja	K	K	3	J	A	
+2600	Pareja	K	K	3	Q	A	
+2601	Pareja	K	K	4	5	6	
+2602	Pareja	K	K	4	5	7	
+2603	Pareja	K	K	4	5	8	
+2604	Pareja	K	K	4	5	9	
+2605	Pareja	K	K	4	5	10	
+2606	Pareja	K	K	4	5	J	
+2607	Pareja	K	K	4	5	Q	
+2608	Pareja	K	K	4	5	A	
+2609	Pareja	K	K	4	6	7	
+2610	Pareja	K	K	4	6	8	
+2611	Pareja	K	K	4	6	9	
+2612	Pareja	K	K	4	6	10	
+2613	Pareja	K	K	4	6	J	
+2614	Pareja	K	K	4	6	Q	
+2615	Pareja	K	K	4	6	A	
+2616	Pareja	K	K	4	7	8	
+2617	Pareja	K	K	4	7	9	
+2618	Pareja	K	K	4	7	10	
+2619	Pareja	K	K	4	7	J	
+2620	Pareja	K	K	4	7	Q	
+2621	Pareja	K	K	4	7	A	
+2622	Pareja	K	K	4	8	9	
+2623	Pareja	K	K	4	8	10	
+2624	Pareja	K	K	4	8	J	
+2625	Pareja	K	K	4	8	Q	
+2626	Pareja	K	K	4	8	A	
+2627	Pareja	K	K	4	9	10	
+2628	Pareja	K	K	4	9	J	
+2629	Pareja	K	K	4	9	Q	
+2630	Pareja	K	K	4	9	A	
+2631	Pareja	K	K	4	10	J	
+2632	Pareja	K	K	4	10	Q	
+2633	Pareja	K	K	4	10	A	
+2634	Pareja	K	K	4	J	Q	
+2635	Pareja	K	K	4	J	A	
+2636	Pareja	K	K	4	Q	A	
+2637	Pareja	K	K	5	6	7	
+2638	Pareja	K	K	5	6	8	
+2639	Pareja	K	K	5	6	9	
+2640	Pareja	K	K	5	6	10	
+2641	Pareja	K	K	5	6	J	
+2642	Pareja	K	K	5	6	Q	
+2643	Pareja	K	K	5	6	A	
+2644	Pareja	K	K	5	7	8	
+2645	Pareja	K	K	5	7	9	
+2646	Pareja	K	K	5	7	10	
+2647	Pareja	K	K	5	7	J	
+2648	Pareja	K	K	5	7	Q	
+2649	Pareja	K	K	5	7	A	
+2650	Pareja	K	K	5	8	9	
+2651	Pareja	K	K	5	8	10	
+2652	Pareja	K	K	5	8	J	
+2653	Pareja	K	K	5	8	Q	
+2654	Pareja	K	K	5	8	A	
+2655	Pareja	K	K	5	9	10	
+2656	Pareja	K	K	5	9	J	
+2657	Pareja	K	K	5	9	Q	
+2658	Pareja	K	K	5	9	A	
+2659	Pareja	K	K	5	10	J	
+2660	Pareja	K	K	5	10	Q	
+2661	Pareja	K	K	5	10	A	
+2662	Pareja	K	K	5	J	Q	
+2663	Pareja	K	K	5	J	A	
+2664	Pareja	K	K	5	Q	A	
+2665	Pareja	K	K	6	7	8	
+2666	Pareja	K	K	6	7	9	
+2667	Pareja	K	K	6	7	10	
+2668	Pareja	K	K	6	7	J	
+2669	Pareja	K	K	6	7	Q	
+2670	Pareja	K	K	6	7	A	
+2671	Pareja	K	K	6	8	9	
+2672	Pareja	K	K	6	8	10	
+2673	Pareja	K	K	6	8	J	
+2674	Pareja	K	K	6	8	Q	
+2675	Pareja	K	K	6	8	A	
+2676	Pareja	K	K	6	9	10	
+2677	Pareja	K	K	6	9	J	
+2678	Pareja	K	K	6	9	Q	
+2679	Pareja	K	K	6	9	A	
+2680	Pareja	K	K	6	10	J	
+2681	Pareja	K	K	6	10	Q	
+2682	Pareja	K	K	6	10	A	
+2683	Pareja	K	K	6	J	Q	
+2684	Pareja	K	K	6	J	A	
+2685	Pareja	K	K	6	Q	A	
+2686	Pareja	K	K	7	8	9	
+2687	Pareja	K	K	7	8	10	
+2688	Pareja	K	K	7	8	J	
+2689	Pareja	K	K	7	8	Q	
+2690	Pareja	K	K	7	8	A	
+2691	Pareja	K	K	7	9	10	
+2692	Pareja	K	K	7	9	J	
+2693	Pareja	K	K	7	9	Q	
+2694	Pareja	K	K	7	9	A	
+2695	Pareja	K	K	7	10	J	
+2696	Pareja	K	K	7	10	Q	
+2697	Pareja	K	K	7	10	A	
+2698	Pareja	K	K	7	J	Q	
+2699	Pareja	K	K	7	J	A	
+2700	Pareja	K	K	7	Q	A	
+2701	Pareja	K	K	8	9	10	
+2702	Pareja	K	K	8	9	J	
+2703	Pareja	K	K	8	9	Q	
+2704	Pareja	K	K	8	9	A	
+2705	Pareja	K	K	8	10	J	
+2706	Pareja	K	K	8	10	Q	
+2707	Pareja	K	K	8	10	A	
+2708	Pareja	K	K	8	J	Q	
+2709	Pareja	K	K	8	J	A	
+2710	Pareja	K	K	8	Q	A	
+2711	Pareja	K	K	9	10	J	
+2712	Pareja	K	K	9	10	Q	
+2713	Pareja	K	K	9	10	A	
+2714	Pareja	K	K	9	J	Q	
+2715	Pareja	K	K	9	J	A	
+2716	Pareja	K	K	9	Q	A	
+2717	Pareja	K	K	10	J	Q	
+2718	Pareja	K	K	10	J	A	
+2719	Pareja	K	K	10	Q	A	
+2720	Pareja	K	K	J	Q	A	
+2721	Pareja	Q	Q	2	3	4	
+2722	Pareja	Q	Q	2	3	5	
+2723	Pareja	Q	Q	2	3	6	
+2724	Pareja	Q	Q	2	3	7	
+2725	Pareja	Q	Q	2	3	8	
+2726	Pareja	Q	Q	2	3	9	
+2727	Pareja	Q	Q	2	3	10	
+2728	Pareja	Q	Q	2	3	J	
+2729	Pareja	Q	Q	2	3	K	
+2730	Pareja	Q	Q	2	4	5	
+2731	Pareja	Q	Q	2	4	6	
+2732	Pareja	Q	Q	2	4	7	
+2733	Pareja	Q	Q	2	4	8	
+2734	Pareja	Q	Q	2	4	9	
+2735	Pareja	Q	Q	2	4	10	
+2736	Pareja	Q	Q	2	4	J	
+2737	Pareja	Q	Q	2	4	K	
+2738	Pareja	Q	Q	2	5	6	
+2739	Pareja	Q	Q	2	5	7	
+2740	Pareja	Q	Q	2	5	8	
+2741	Pareja	Q	Q	2	5	9	
+2742	Pareja	Q	Q	2	5	10	
+2743	Pareja	Q	Q	2	5	J	
+2744	Pareja	Q	Q	2	5	K	
+2745	Pareja	Q	Q	2	6	7	
+2746	Pareja	Q	Q	2	6	8	
+2747	Pareja	Q	Q	2	6	9	
+2748	Pareja	Q	Q	2	6	10	
+2749	Pareja	Q	Q	2	6	J	
+2750	Pareja	Q	Q	2	6	K	
+2751	Pareja	Q	Q	2	7	8	
+2752	Pareja	Q	Q	2	7	9	
+2753	Pareja	Q	Q	2	7	10	
+2754	Pareja	Q	Q	2	7	J	
+2755	Pareja	Q	Q	2	7	K	
+2756	Pareja	Q	Q	2	8	9	
+2757	Pareja	Q	Q	2	8	10	
+2758	Pareja	Q	Q	2	8	J	
+2759	Pareja	Q	Q	2	8	K	
+2760	Pareja	Q	Q	2	9	10	
+2761	Pareja	Q	Q	2	9	J	
+2762	Pareja	Q	Q	2	9	K	
+2763	Pareja	Q	Q	2	10	J	
+2764	Pareja	Q	Q	2	10	K	
+2765	Pareja	Q	Q	2	J	K	
+2766	Pareja	Q	Q	3	4	5	
+2767	Pareja	Q	Q	3	4	6	
+2768	Pareja	Q	Q	3	4	7	
+2769	Pareja	Q	Q	3	4	8	
+2770	Pareja	Q	Q	3	4	9	
+2771	Pareja	Q	Q	3	4	10	
+2772	Pareja	Q	Q	3	4	J	
+2773	Pareja	Q	Q	3	4	K	
+2774	Pareja	Q	Q	3	5	6	
+2775	Pareja	Q	Q	3	5	7	
+2776	Pareja	Q	Q	3	5	8	
+2777	Pareja	Q	Q	3	5	9	
+2778	Pareja	Q	Q	3	5	10	
+2779	Pareja	Q	Q	3	5	J	
+2780	Pareja	Q	Q	3	5	K	
+2781	Pareja	Q	Q	3	6	7	
+2782	Pareja	Q	Q	3	6	8	
+2783	Pareja	Q	Q	3	6	9	
+2784	Pareja	Q	Q	3	6	10	
+2785	Pareja	Q	Q	3	6	J	
+2786	Pareja	Q	Q	3	6	K	
+2787	Pareja	Q	Q	3	7	8	
+2788	Pareja	Q	Q	3	7	9	
+2789	Pareja	Q	Q	3	7	10	
+2790	Pareja	Q	Q	3	7	J	
+2791	Pareja	Q	Q	3	7	K	
+2792	Pareja	Q	Q	3	8	9	
+2793	Pareja	Q	Q	3	8	10	
+2794	Pareja	Q	Q	3	8	J	
+2795	Pareja	Q	Q	3	8	K	
+2796	Pareja	Q	Q	3	9	10	
+2797	Pareja	Q	Q	3	9	J	
+2798	Pareja	Q	Q	3	9	K	
+2799	Pareja	Q	Q	3	10	J	
+2800	Pareja	Q	Q	3	10	K	
+2801	Pareja	Q	Q	3	J	K	
+2802	Pareja	Q	Q	4	5	6	
+2803	Pareja	Q	Q	4	5	7	
+2804	Pareja	Q	Q	4	5	8	
+2805	Pareja	Q	Q	4	5	9	
+2806	Pareja	Q	Q	4	5	10	
+2807	Pareja	Q	Q	4	5	J	
+2808	Pareja	Q	Q	4	5	K	
+2809	Pareja	Q	Q	4	6	7	
+2810	Pareja	Q	Q	4	6	8	
+2811	Pareja	Q	Q	4	6	9	
+2812	Pareja	Q	Q	4	6	10	
+2813	Pareja	Q	Q	4	6	J	
+2814	Pareja	Q	Q	4	6	K	
+2815	Pareja	Q	Q	4	7	8	
+2816	Pareja	Q	Q	4	7	9	
+2817	Pareja	Q	Q	4	7	10	
+2818	Pareja	Q	Q	4	7	J	
+2819	Pareja	Q	Q	4	7	K	
+2820	Pareja	Q	Q	4	8	9	
+2821	Pareja	Q	Q	4	8	10	
+2822	Pareja	Q	Q	4	8	J	
+2823	Pareja	Q	Q	4	8	K	
+2824	Pareja	Q	Q	4	9	10	
+2825	Pareja	Q	Q	4	9	J	
+2826	Pareja	Q	Q	4	9	K	
+2827	Pareja	Q	Q	4	10	J	
+2828	Pareja	Q	Q	4	10	K	
+2829	Pareja	Q	Q	4	J	K	
+2830	Pareja	Q	Q	5	6	7	
+2831	Pareja	Q	Q	5	6	8	
+2832	Pareja	Q	Q	5	6	9	
+2833	Pareja	Q	Q	5	6	10	
+2834	Pareja	Q	Q	5	6	J	
+2835	Pareja	Q	Q	5	6	K	
+2836	Pareja	Q	Q	5	7	8	
+2837	Pareja	Q	Q	5	7	9	
+2838	Pareja	Q	Q	5	7	10	
+2839	Pareja	Q	Q	5	7	J	
+2840	Pareja	Q	Q	5	7	K	
+2841	Pareja	Q	Q	5	8	9	
+2842	Pareja	Q	Q	5	8	10	
+2843	Pareja	Q	Q	5	8	J	
+2844	Pareja	Q	Q	5	8	K	
+2845	Pareja	Q	Q	5	9	10	
+2846	Pareja	Q	Q	5	9	J	
+2847	Pareja	Q	Q	5	9	K	
+2848	Pareja	Q	Q	5	10	J	
+2849	Pareja	Q	Q	5	10	K	
+2850	Pareja	Q	Q	5	J	K	
+2851	Pareja	Q	Q	6	7	8	
+2852	Pareja	Q	Q	6	7	9	
+2853	Pareja	Q	Q	6	7	10	
+2854	Pareja	Q	Q	6	7	J	
+2855	Pareja	Q	Q	6	7	K	
+2856	Pareja	Q	Q	6	8	9	
+2857	Pareja	Q	Q	6	8	10	
+2858	Pareja	Q	Q	6	8	J	
+2859	Pareja	Q	Q	6	8	K	
+2860	Pareja	Q	Q	6	9	10	
+2861	Pareja	Q	Q	6	9	J	
+2862	Pareja	Q	Q	6	9	K	
+2863	Pareja	Q	Q	6	10	J	
+2864	Pareja	Q	Q	6	10	K	
+2865	Pareja	Q	Q	6	J	K	
+2866	Pareja	Q	Q	7	8	9	
+2867	Pareja	Q	Q	7	8	10	
+2868	Pareja	Q	Q	7	8	J	
+2869	Pareja	Q	Q	7	8	K	
+2870	Pareja	Q	Q	7	9	10	
+2871	Pareja	Q	Q	7	9	J	
+2872	Pareja	Q	Q	7	9	K	
+2873	Pareja	Q	Q	7	10	J	
+2874	Pareja	Q	Q	7	10	K	
+2875	Pareja	Q	Q	7	J	K	
+2876	Pareja	Q	Q	8	9	10	
+2877	Pareja	Q	Q	8	9	J	
+2878	Pareja	Q	Q	8	9	K	
+2879	Pareja	Q	Q	8	10	J	
+2880	Pareja	Q	Q	8	10	K	
+2881	Pareja	Q	Q	8	J	K	
+2882	Pareja	Q	Q	9	10	J	
+2883	Pareja	Q	Q	9	10	K	
+2884	Pareja	Q	Q	9	J	K	
+2885	Pareja	Q	Q	10	J	K	
+2886	Pareja	J	J	2	3	4	
+2887	Pareja	J	J	2	3	5	
+2888	Pareja	J	J	2	3	6	
+2889	Pareja	J	J	2	3	7	
+2890	Pareja	J	J	2	3	8	
+2891	Pareja	J	J	2	3	9	
+2892	Pareja	J	J	2	3	10	
+2893	Pareja	J	J	2	3	Q	
+2894	Pareja	J	J	2	3	K	
+2895	Pareja	J	J	2	4	5	
+2896	Pareja	J	J	2	4	6	
+2897	Pareja	J	J	2	4	7	
+2898	Pareja	J	J	2	4	8	
+2899	Pareja	J	J	2	4	9	
+2900	Pareja	J	J	2	4	10	
+2901	Pareja	J	J	2	4	Q	
+2902	Pareja	J	J	2	4	K	
+2903	Pareja	J	J	2	5	6	
+2904	Pareja	J	J	2	5	7	
+2905	Pareja	J	J	2	5	8	
+2906	Pareja	J	J	2	5	9	
+2907	Pareja	J	J	2	5	10	
+2908	Pareja	J	J	2	5	Q	
+2909	Pareja	J	J	2	5	K	
+2910	Pareja	J	J	2	6	7	
+2911	Pareja	J	J	2	6	8	
+2912	Pareja	J	J	2	6	9	
+2913	Pareja	J	J	2	6	10	
+2914	Pareja	J	J	2	6	Q	
+2915	Pareja	J	J	2	6	K	
+2916	Pareja	J	J	2	7	8	
+2917	Pareja	J	J	2	7	9	
+2918	Pareja	J	J	2	7	10	
+2919	Pareja	J	J	2	7	Q	
+2920	Pareja	J	J	2	7	K	
+2921	Pareja	J	J	2	8	9	
+2922	Pareja	J	J	2	8	10	
+2923	Pareja	J	J	2	8	Q	
+2924	Pareja	J	J	2	8	K	
+2925	Pareja	J	J	2	9	10	
+2926	Pareja	J	J	2	9	Q	
+2927	Pareja	J	J	2	9	K	
+2928	Pareja	J	J	2	10	Q	
+2929	Pareja	J	J	2	10	K	
+2930	Pareja	J	J	2	Q	K	
+2931	Pareja	J	J	3	4	5	
+2932	Pareja	J	J	3	4	6	
+2933	Pareja	J	J	3	4	7	
+2934	Pareja	J	J	3	4	8	
+2935	Pareja	J	J	3	4	9	
+2936	Pareja	J	J	3	4	10	
+2937	Pareja	J	J	3	4	Q	
+2938	Pareja	J	J	3	4	K	
+2939	Pareja	J	J	3	5	6	
+2940	Pareja	J	J	3	5	7	
+2941	Pareja	J	J	3	5	8	
+2942	Pareja	J	J	3	5	9	
+2943	Pareja	J	J	3	5	10	
+2944	Pareja	J	J	3	5	Q	
+2945	Pareja	J	J	3	5	K	
+2946	Pareja	J	J	3	6	7	
+2947	Pareja	J	J	3	6	8	
+2948	Pareja	J	J	3	6	9	
+2949	Pareja	J	J	3	6	10	
+2950	Pareja	J	J	3	6	Q	
+2951	Pareja	J	J	3	6	K	
+2952	Pareja	J	J	3	7	8	
+2953	Pareja	J	J	3	7	9	
+2954	Pareja	J	J	3	7	10	
+2955	Pareja	J	J	3	7	Q	
+2956	Pareja	J	J	3	7	K	
+2957	Pareja	J	J	3	8	9	
+2958	Pareja	J	J	3	8	10	
+2959	Pareja	J	J	3	8	Q	
+2960	Pareja	J	J	3	8	K	
+2961	Pareja	J	J	3	9	10	
+2962	Pareja	J	J	3	9	Q	
+2963	Pareja	J	J	3	9	K	
+2964	Pareja	J	J	3	10	Q	
+2965	Pareja	J	J	3	10	K	
+2966	Pareja	J	J	3	Q	K	
+2967	Pareja	J	J	4	5	6	
+2968	Pareja	J	J	4	5	7	
+2969	Pareja	J	J	4	5	8	
+2970	Pareja	J	J	4	5	9	
+2971	Pareja	J	J	4	5	10	
+2972	Pareja	J	J	4	5	Q	
+2973	Pareja	J	J	4	5	K	
+2974	Pareja	J	J	4	6	7	
+2975	Pareja	J	J	4	6	8	
+2976	Pareja	J	J	4	6	9	
+2977	Pareja	J	J	4	6	10	
+2978	Pareja	J	J	4	6	Q	
+2979	Pareja	J	J	4	6	K	
+2980	Pareja	J	J	4	7	8	
+2981	Pareja	J	J	4	7	9	
+2982	Pareja	J	J	4	7	10	
+2983	Pareja	J	J	4	7	Q	
+2984	Pareja	J	J	4	7	K	
+2985	Pareja	J	J	4	8	9	
+2986	Pareja	J	J	4	8	10	
+2987	Pareja	J	J	4	8	Q	
+2988	Pareja	J	J	4	8	K	
+2989	Pareja	J	J	4	9	10	
+2990	Pareja	J	J	4	9	Q	
+2991	Pareja	J	J	4	9	K	
+2992	Pareja	J	J	4	10	Q	
+2993	Pareja	J	J	4	10	K	
+2994	Pareja	J	J	4	Q	K	
+2995	Pareja	J	J	5	6	7	
+2996	Pareja	J	J	5	6	8	
+2997	Pareja	J	J	5	6	9	
+2998	Pareja	J	J	5	6	10	
+2999	Pareja	J	J	5	6	Q	
+3000	Pareja	J	J	5	6	K	
+3001	Pareja	J	J	5	7	8	
+3002	Pareja	J	J	5	7	9	
+3003	Pareja	J	J	5	7	10	
+3004	Pareja	J	J	5	7	Q	
+3005	Pareja	J	J	5	7	K	
+3006	Pareja	J	J	5	8	9	
+3007	Pareja	J	J	5	8	10	
+3008	Pareja	J	J	5	8	Q	
+3009	Pareja	J	J	5	8	K	
+3010	Pareja	J	J	5	9	10	
+3011	Pareja	J	J	5	9	Q	
+3012	Pareja	J	J	5	9	K	
+3013	Pareja	J	J	5	10	Q	
+3014	Pareja	J	J	5	10	K	
+3015	Pareja	J	J	5	Q	K	
+3016	Pareja	J	J	6	7	8	
+3017	Pareja	J	J	6	7	9	
+3018	Pareja	J	J	6	7	10	
+3019	Pareja	J	J	6	7	Q	
+3020	Pareja	J	J	6	7	K	
+3021	Pareja	J	J	6	8	9	
+3022	Pareja	J	J	6	8	10	
+3023	Pareja	J	J	6	8	Q	
+3024	Pareja	J	J	6	8	K	
+3025	Pareja	J	J	6	9	10	
+3026	Pareja	J	J	6	9	Q	
+3027	Pareja	J	J	6	9	K	
+3028	Pareja	J	J	6	10	Q	
+3029	Pareja	J	J	6	10	K	
+3030	Pareja	J	J	6	Q	K	
+3031	Pareja	J	J	7	8	9	
+3032	Pareja	J	J	7	8	10	
+3033	Pareja	J	J	7	8	Q	
+3034	Pareja	J	J	7	8	K	
+3035	Pareja	J	J	7	9	10	
+3036	Pareja	J	J	7	9	Q	
+3037	Pareja	J	J	7	9	K	
+3038	Pareja	J	J	7	10	Q	
+3039	Pareja	J	J	7	10	K	
+3040	Pareja	J	J	7	Q	K	
+3041	Pareja	J	J	8	9	10	
+3042	Pareja	J	J	8	9	Q	
+3043	Pareja	J	J	8	9	K	
+3044	Pareja	J	J	8	10	Q	
+3045	Pareja	J	J	8	10	K	
+3046	Pareja	J	J	8	Q	K	
+3047	Pareja	J	J	9	10	Q	
+3048	Pareja	J	J	9	10	K	
+3049	Pareja	J	J	9	Q	K	
+3050	Pareja	J	J	10	Q	K	
+3051	Pareja	10	10	2	3	4	
+3052	Pareja	10	10	2	3	5	
+3053	Pareja	10	10	2	3	6	
+3054	Pareja	10	10	2	3	7	
+3055	Pareja	10	10	2	3	8	
+3056	Pareja	10	10	2	3	9	
+3057	Pareja	10	10	2	3	J	
+3058	Pareja	10	10	2	3	Q	
+3059	Pareja	10	10	2	3	K	
+3060	Pareja	10	10	2	4	5	
+3061	Pareja	10	10	2	4	6	
+3062	Pareja	10	10	2	4	7	
+3063	Pareja	10	10	2	4	8	
+3064	Pareja	10	10	2	4	9	
+3065	Pareja	10	10	2	4	J	
+3066	Pareja	10	10	2	4	Q	
+3067	Pareja	10	10	2	4	K	
+3068	Pareja	10	10	2	5	6	
+3069	Pareja	10	10	2	5	7	
+3070	Pareja	10	10	2	5	8	
+3071	Pareja	10	10	2	5	9	
+3072	Pareja	10	10	2	5	J	
+3073	Pareja	10	10	2	5	Q	
+3074	Pareja	10	10	2	5	K	
+3075	Pareja	10	10	2	6	7	
+3076	Pareja	10	10	2	6	8	
+3077	Pareja	10	10	2	6	9	
+3078	Pareja	10	10	2	6	J	
+3079	Pareja	10	10	2	6	Q	
+3080	Pareja	10	10	2	6	K	
+3081	Pareja	10	10	2	7	8	
+3082	Pareja	10	10	2	7	9	
+3083	Pareja	10	10	2	7	J	
+3084	Pareja	10	10	2	7	Q	
+3085	Pareja	10	10	2	7	K	
+3086	Pareja	10	10	2	8	9	
+3087	Pareja	10	10	2	8	J	
+3088	Pareja	10	10	2	8	Q	
+3089	Pareja	10	10	2	8	K	
+3090	Pareja	10	10	2	9	J	
+3091	Pareja	10	10	2	9	Q	
+3092	Pareja	10	10	2	9	K	
+3093	Pareja	10	10	2	J	Q	
+3094	Pareja	10	10	2	J	K	
+3095	Pareja	10	10	2	Q	K	
+3096	Pareja	10	10	3	4	5	
+3097	Pareja	10	10	3	4	6	
+3098	Pareja	10	10	3	4	7	
+3099	Pareja	10	10	3	4	8	
+3100	Pareja	10	10	3	4	9	
+3101	Pareja	10	10	3	4	J	
+3102	Pareja	10	10	3	4	Q	
+3103	Pareja	10	10	3	4	K	
+3104	Pareja	10	10	3	5	6	
+3105	Pareja	10	10	3	5	7	
+3106	Pareja	10	10	3	5	8	
+3107	Pareja	10	10	3	5	9	
+3108	Pareja	10	10	3	5	J	
+3109	Pareja	10	10	3	5	Q	
+3110	Pareja	10	10	3	5	K	
+3111	Pareja	10	10	3	6	7	
+3112	Pareja	10	10	3	6	8	
+3113	Pareja	10	10	3	6	9	
+3114	Pareja	10	10	3	6	J	
+3115	Pareja	10	10	3	6	Q	
+3116	Pareja	10	10	3	6	K	
+3117	Pareja	10	10	3	7	8	
+3118	Pareja	10	10	3	7	9	
+3119	Pareja	10	10	3	7	J	
+3120	Pareja	10	10	3	7	Q	
+3121	Pareja	10	10	3	7	K	
+3122	Pareja	10	10	3	8	9	
+3123	Pareja	10	10	3	8	J	
+3124	Pareja	10	10	3	8	Q	
+3125	Pareja	10	10	3	8	K	
+3126	Pareja	10	10	3	9	J	
+3127	Pareja	10	10	3	9	Q	
+3128	Pareja	10	10	3	9	K	
+3129	Pareja	10	10	3	J	Q	
+3130	Pareja	10	10	3	J	K	
+3131	Pareja	10	10	3	Q	K	
+3132	Pareja	10	10	4	5	6	
+3133	Pareja	10	10	4	5	7	
+3134	Pareja	10	10	4	5	8	
+3135	Pareja	10	10	4	5	9	
+3136	Pareja	10	10	4	5	J	
+3137	Pareja	10	10	4	5	Q	
+3138	Pareja	10	10	4	5	K	
+3139	Pareja	10	10	4	6	7	
+3140	Pareja	10	10	4	6	8	
+3141	Pareja	10	10	4	6	9	
+3142	Pareja	10	10	4	6	J	
+3143	Pareja	10	10	4	6	Q	
+3144	Pareja	10	10	4	6	K	
+3145	Pareja	10	10	4	7	8	
+3146	Pareja	10	10	4	7	9	
+3147	Pareja	10	10	4	7	J	
+3148	Pareja	10	10	4	7	Q	
+3149	Pareja	10	10	4	7	K	
+3150	Pareja	10	10	4	8	9	
+3151	Pareja	10	10	4	8	J	
+3152	Pareja	10	10	4	8	Q	
+3153	Pareja	10	10	4	8	K	
+3154	Pareja	10	10	4	9	J	
+3155	Pareja	10	10	4	9	Q	
+3156	Pareja	10	10	4	9	K	
+3157	Pareja	10	10	4	J	Q	
+3158	Pareja	10	10	4	J	K	
+3159	Pareja	10	10	4	Q	K	
+3160	Pareja	10	10	5	6	7	
+3161	Pareja	10	10	5	6	8	
+3162	Pareja	10	10	5	6	9	
+3163	Pareja	10	10	5	6	J	
+3164	Pareja	10	10	5	6	Q	
+3165	Pareja	10	10	5	6	K	
+3166	Pareja	10	10	5	7	8	
+3167	Pareja	10	10	5	7	9	
+3168	Pareja	10	10	5	7	J	
+3169	Pareja	10	10	5	7	Q	
+3170	Pareja	10	10	5	7	K	
+3171	Pareja	10	10	5	8	9	
+3172	Pareja	10	10	5	8	J	
+3173	Pareja	10	10	5	8	Q	
+3174	Pareja	10	10	5	8	K	
+3175	Pareja	10	10	5	9	J	
+3176	Pareja	10	10	5	9	Q	
+3177	Pareja	10	10	5	9	K	
+3178	Pareja	10	10	5	J	Q	
+3179	Pareja	10	10	5	J	K	
+3180	Pareja	10	10	5	Q	K	
+3181	Pareja	10	10	6	7	8	
+3182	Pareja	10	10	6	7	9	
+3183	Pareja	10	10	6	7	J	
+3184	Pareja	10	10	6	7	Q	
+3185	Pareja	10	10	6	7	K	
+3186	Pareja	10	10	6	8	9	
+3187	Pareja	10	10	6	8	J	
+3188	Pareja	10	10	6	8	Q	
+3189	Pareja	10	10	6	8	K	
+3190	Pareja	10	10	6	9	J	
+3191	Pareja	10	10	6	9	Q	
+3192	Pareja	10	10	6	9	K	
+3193	Pareja	10	10	6	J	Q	
+3194	Pareja	10	10	6	J	K	
+3195	Pareja	10	10	6	Q	K	
+3196	Pareja	10	10	7	8	9	
+3197	Pareja	10	10	7	8	J	
+3198	Pareja	10	10	7	8	Q	
+3199	Pareja	10	10	7	8	K	
+3200	Pareja	10	10	7	9	J	
+3201	Pareja	10	10	7	9	Q	
+3202	Pareja	10	10	7	9	K	
+3203	Pareja	10	10	7	J	Q	
+3204	Pareja	10	10	7	J	K	
+3205	Pareja	10	10	7	Q	K	
+3206	Pareja	10	10	8	9	J	
+3207	Pareja	10	10	8	9	Q	
+3208	Pareja	10	10	8	9	K	
+3209	Pareja	10	10	8	J	Q	
+3210	Pareja	10	10	8	J	K	
+3211	Pareja	10	10	8	Q	K	
+3212	Pareja	10	10	9	J	Q	
+3213	Pareja	10	10	9	J	K	
+3214	Pareja	10	10	9	Q	K	
+3215	Pareja	10	10	J	Q	K	
+3216	Pareja	9	9	2	3	4	
+3217	Pareja	9	9	2	3	5	
+3218	Pareja	9	9	2	3	6	
+3219	Pareja	9	9	2	3	7	
+3220	Pareja	9	9	2	3	8	
+3221	Pareja	9	9	2	3	10	
+3222	Pareja	9	9	2	3	J	
+3223	Pareja	9	9	2	3	Q	
+3224	Pareja	9	9	2	3	K	
+3225	Pareja	9	9	2	4	5	
+3226	Pareja	9	9	2	4	6	
+3227	Pareja	9	9	2	4	7	
+3228	Pareja	9	9	2	4	8	
+3229	Pareja	9	9	2	4	10	
+3230	Pareja	9	9	2	4	J	
+3231	Pareja	9	9	2	4	Q	
+3232	Pareja	9	9	2	4	K	
+3233	Pareja	9	9	2	5	6	
+3234	Pareja	9	9	2	5	7	
+3235	Pareja	9	9	2	5	8	
+3236	Pareja	9	9	2	5	10	
+3237	Pareja	9	9	2	5	J	
+3238	Pareja	9	9	2	5	Q	
+3239	Pareja	9	9	2	5	K	
+3240	Pareja	9	9	2	6	7	
+3241	Pareja	9	9	2	6	8	
+3242	Pareja	9	9	2	6	10	
+3243	Pareja	9	9	2	6	J	
+3244	Pareja	9	9	2	6	Q	
+3245	Pareja	9	9	2	6	K	
+3246	Pareja	9	9	2	7	8	
+3247	Pareja	9	9	2	7	10	
+3248	Pareja	9	9	2	7	J	
+3249	Pareja	9	9	2	7	Q	
+3250	Pareja	9	9	2	7	K	
+3251	Pareja	9	9	2	8	10	
+3252	Pareja	9	9	2	8	J	
+3253	Pareja	9	9	2	8	Q	
+3254	Pareja	9	9	2	8	K	
+3255	Pareja	9	9	2	10	J	
+3256	Pareja	9	9	2	10	Q	
+3257	Pareja	9	9	2	10	K	
+3258	Pareja	9	9	2	J	Q	
+3259	Pareja	9	9	2	J	K	
+3260	Pareja	9	9	2	Q	K	
+3261	Pareja	9	9	3	4	5	
+3262	Pareja	9	9	3	4	6	
+3263	Pareja	9	9	3	4	7	
+3264	Pareja	9	9	3	4	8	
+3265	Pareja	9	9	3	4	10	
+3266	Pareja	9	9	3	4	J	
+3267	Pareja	9	9	3	4	Q	
+3268	Pareja	9	9	3	4	K	
+3269	Pareja	9	9	3	5	6	
+3270	Pareja	9	9	3	5	7	
+3271	Pareja	9	9	3	5	8	
+3272	Pareja	9	9	3	5	10	
+3273	Pareja	9	9	3	5	J	
+3274	Pareja	9	9	3	5	Q	
+3275	Pareja	9	9	3	5	K	
+3276	Pareja	9	9	3	6	7	
+3277	Pareja	9	9	3	6	8	
+3278	Pareja	9	9	3	6	10	
+3279	Pareja	9	9	3	6	J	
+3280	Pareja	9	9	3	6	Q	
+3281	Pareja	9	9	3	6	K	
+3282	Pareja	9	9	3	7	8	
+3283	Pareja	9	9	3	7	10	
+3284	Pareja	9	9	3	7	J	
+3285	Pareja	9	9	3	7	Q	
+3286	Pareja	9	9	3	7	K	
+3287	Pareja	9	9	3	8	10	
+3288	Pareja	9	9	3	8	J	
+3289	Pareja	9	9	3	8	Q	
+3290	Pareja	9	9	3	8	K	
+3291	Pareja	9	9	3	10	J	
+3292	Pareja	9	9	3	10	Q	
+3293	Pareja	9	9	3	10	K	
+3294	Pareja	9	9	3	J	Q	
+3295	Pareja	9	9	3	J	K	
+3296	Pareja	9	9	3	Q	K	
+3297	Pareja	9	9	4	5	6	
+3298	Pareja	9	9	4	5	7	
+3299	Pareja	9	9	4	5	8	
+3300	Pareja	9	9	4	5	10	
+3301	Pareja	9	9	4	5	J	
+3302	Pareja	9	9	4	5	Q	
+3303	Pareja	9	9	4	5	K	
+3304	Pareja	9	9	4	6	7	
+3305	Pareja	9	9	4	6	8	
+3306	Pareja	9	9	4	6	10	
+3307	Pareja	9	9	4	6	J	
+3308	Pareja	9	9	4	6	Q	
+3309	Pareja	9	9	4	6	K	
+3310	Pareja	9	9	4	7	8	
+3311	Pareja	9	9	4	7	10	
+3312	Pareja	9	9	4	7	J	
+3313	Pareja	9	9	4	7	Q	
+3314	Pareja	9	9	4	7	K	
+3315	Pareja	9	9	4	8	10	
+3316	Pareja	9	9	4	8	J	
+3317	Pareja	9	9	4	8	Q	
+3318	Pareja	9	9	4	8	K	
+3319	Pareja	9	9	4	10	J	
+3320	Pareja	9	9	4	10	Q	
+3321	Pareja	9	9	4	10	K	
+3322	Pareja	9	9	4	J	Q	
+3323	Pareja	9	9	4	J	K	
+3324	Pareja	9	9	4	Q	K	
+3325	Pareja	9	9	5	6	7	
+3326	Pareja	9	9	5	6	8	
+3327	Pareja	9	9	5	6	10	
+3328	Pareja	9	9	5	6	J	
+3329	Pareja	9	9	5	6	Q	
+3330	Pareja	9	9	5	6	K	
+3331	Pareja	9	9	5	7	8	
+3332	Pareja	9	9	5	7	10	
+3333	Pareja	9	9	5	7	J	
+3334	Pareja	9	9	5	7	Q	
+3335	Pareja	9	9	5	7	K	
+3336	Pareja	9	9	5	8	10	
+3337	Pareja	9	9	5	8	J	
+3338	Pareja	9	9	5	8	Q	
+3339	Pareja	9	9	5	8	K	
+3340	Pareja	9	9	5	10	J	
+3341	Pareja	9	9	5	10	Q	
+3342	Pareja	9	9	5	10	K	
+3343	Pareja	9	9	5	J	Q	
+3344	Pareja	9	9	5	J	K	
+3345	Pareja	9	9	5	Q	K	
+3346	Pareja	9	9	6	7	8	
+3347	Pareja	9	9	6	7	10	
+3348	Pareja	9	9	6	7	J	
+3349	Pareja	9	9	6	7	Q	
+3350	Pareja	9	9	6	7	K	
+3351	Pareja	9	9	6	8	10	
+3352	Pareja	9	9	6	8	J	
+3353	Pareja	9	9	6	8	Q	
+3354	Pareja	9	9	6	8	K	
+3355	Pareja	9	9	6	10	J	
+3356	Pareja	9	9	6	10	Q	
+3357	Pareja	9	9	6	10	K	
+3358	Pareja	9	9	6	J	Q	
+3359	Pareja	9	9	6	J	K	
+3360	Pareja	9	9	6	Q	K	
+3361	Pareja	9	9	7	8	10	
+3362	Pareja	9	9	7	8	J	
+3363	Pareja	9	9	7	8	Q	
+3364	Pareja	9	9	7	8	K	
+3365	Pareja	9	9	7	10	J	
+3366	Pareja	9	9	7	10	Q	
+3367	Pareja	9	9	7	10	K	
+3368	Pareja	9	9	7	J	Q	
+3369	Pareja	9	9	7	J	K	
+3370	Pareja	9	9	7	Q	K	
+3371	Pareja	9	9	8	10	J	
+3372	Pareja	9	9	8	10	Q	
+3373	Pareja	9	9	8	10	K	
+3374	Pareja	9	9	8	J	Q	
+3375	Pareja	9	9	8	J	K	
+3376	Pareja	9	9	8	Q	K	
+3377	Pareja	9	9	10	J	Q	
+3378	Pareja	9	9	10	J	K	
+3379	Pareja	9	9	10	Q	K	
+3380	Pareja	9	9	J	Q	K	
+3381	Pareja	8	8	2	3	4	
+3382	Pareja	8	8	2	3	5	
+3383	Pareja	8	8	2	3	6	
+3384	Pareja	8	8	2	3	7	
+3385	Pareja	8	8	2	3	9	
+3386	Pareja	8	8	2	3	10	
+3387	Pareja	8	8	2	3	J	
+3388	Pareja	8	8	2	3	Q	
+3389	Pareja	8	8	2	3	K	
+3390	Pareja	8	8	2	4	5	
+3391	Pareja	8	8	2	4	6	
+3392	Pareja	8	8	2	4	7	
+3393	Pareja	8	8	2	4	9	
+3394	Pareja	8	8	2	4	10	
+3395	Pareja	8	8	2	4	J	
+3396	Pareja	8	8	2	4	Q	
+3397	Pareja	8	8	2	4	K	
+3398	Pareja	8	8	2	5	6	
+3399	Pareja	8	8	2	5	7	
+3400	Pareja	8	8	2	5	9	
+3401	Pareja	8	8	2	5	10	
+3402	Pareja	8	8	2	5	J	
+3403	Pareja	8	8	2	5	Q	
+3404	Pareja	8	8	2	5	K	
+3405	Pareja	8	8	2	6	7	
+3406	Pareja	8	8	2	6	9	
+3407	Pareja	8	8	2	6	10	
+3408	Pareja	8	8	2	6	J	
+3409	Pareja	8	8	2	6	Q	
+3410	Pareja	8	8	2	6	K	
+3411	Pareja	8	8	2	7	9	
+3412	Pareja	8	8	2	7	10	
+3413	Pareja	8	8	2	7	J	
+3414	Pareja	8	8	2	7	Q	
+3415	Pareja	8	8	2	7	K	
+3416	Pareja	8	8	2	9	10	
+3417	Pareja	8	8	2	9	J	
+3418	Pareja	8	8	2	9	Q	
+3419	Pareja	8	8	2	9	K	
+3420	Pareja	8	8	2	10	J	
+3421	Pareja	8	8	2	10	Q	
+3422	Pareja	8	8	2	10	K	
+3423	Pareja	8	8	2	J	Q	
+3424	Pareja	8	8	2	J	K	
+3425	Pareja	8	8	2	Q	K	
+3426	Pareja	8	8	3	4	5	
+3427	Pareja	8	8	3	4	6	
+3428	Pareja	8	8	3	4	7	
+3429	Pareja	8	8	3	4	9	
+3430	Pareja	8	8	3	4	10	
+3431	Pareja	8	8	3	4	J	
+3432	Pareja	8	8	3	4	Q	
+3433	Pareja	8	8	3	4	K	
+3434	Pareja	8	8	3	5	6	
+3435	Pareja	8	8	3	5	7	
+3436	Pareja	8	8	3	5	9	
+3437	Pareja	8	8	3	5	10	
+3438	Pareja	8	8	3	5	J	
+3439	Pareja	8	8	3	5	Q	
+3440	Pareja	8	8	3	5	K	
+3441	Pareja	8	8	3	6	7	
+3442	Pareja	8	8	3	6	9	
+3443	Pareja	8	8	3	6	10	
+3444	Pareja	8	8	3	6	J	
+3445	Pareja	8	8	3	6	Q	
+3446	Pareja	8	8	3	6	K	
+3447	Pareja	8	8	3	7	9	
+3448	Pareja	8	8	3	7	10	
+3449	Pareja	8	8	3	7	J	
+3450	Pareja	8	8	3	7	Q	
+3451	Pareja	8	8	3	7	K	
+3452	Pareja	8	8	3	9	10	
+3453	Pareja	8	8	3	9	J	
+3454	Pareja	8	8	3	9	Q	
+3455	Pareja	8	8	3	9	K	
+3456	Pareja	8	8	3	10	J	
+3457	Pareja	8	8	3	10	Q	
+3458	Pareja	8	8	3	10	K	
+3459	Pareja	8	8	3	J	Q	
+3460	Pareja	8	8	3	J	K	
+3461	Pareja	8	8	3	Q	K	
+3462	Pareja	8	8	4	5	6	
+3463	Pareja	8	8	4	5	7	
+3464	Pareja	8	8	4	5	9	
+3465	Pareja	8	8	4	5	10	
+3466	Pareja	8	8	4	5	J	
+3467	Pareja	8	8	4	5	Q	
+3468	Pareja	8	8	4	5	K	
+3469	Pareja	8	8	4	6	7	
+3470	Pareja	8	8	4	6	9	
+3471	Pareja	8	8	4	6	10	
+3472	Pareja	8	8	4	6	J	
+3473	Pareja	8	8	4	6	Q	
+3474	Pareja	8	8	4	6	K	
+3475	Pareja	8	8	4	7	9	
+3476	Pareja	8	8	4	7	10	
+3477	Pareja	8	8	4	7	J	
+3478	Pareja	8	8	4	7	Q	
+3479	Pareja	8	8	4	7	K	
+3480	Pareja	8	8	4	9	10	
+3481	Pareja	8	8	4	9	J	
+3482	Pareja	8	8	4	9	Q	
+3483	Pareja	8	8	4	9	K	
+3484	Pareja	8	8	4	10	J	
+3485	Pareja	8	8	4	10	Q	
+3486	Pareja	8	8	4	10	K	
+3487	Pareja	8	8	4	J	Q	
+3488	Pareja	8	8	4	J	K	
+3489	Pareja	8	8	4	Q	K	
+3490	Pareja	8	8	5	6	7	
+3491	Pareja	8	8	5	6	9	
+3492	Pareja	8	8	5	6	10	
+3493	Pareja	8	8	5	6	J	
+3494	Pareja	8	8	5	6	Q	
+3495	Pareja	8	8	5	6	K	
+3496	Pareja	8	8	5	7	9	
+3497	Pareja	8	8	5	7	10	
+3498	Pareja	8	8	5	7	J	
+3499	Pareja	8	8	5	7	Q	
+3500	Pareja	8	8	5	7	K	
+3501	Pareja	8	8	5	9	10	
+3502	Pareja	8	8	5	9	J	
+3503	Pareja	8	8	5	9	Q	
+3504	Pareja	8	8	5	9	K	
+3505	Pareja	8	8	5	10	J	
+3506	Pareja	8	8	5	10	Q	
+3507	Pareja	8	8	5	10	K	
+3508	Pareja	8	8	5	J	Q	
+3509	Pareja	8	8	5	J	K	
+3510	Pareja	8	8	5	Q	K	
+3511	Pareja	8	8	6	7	9	
+3512	Pareja	8	8	6	7	10	
+3513	Pareja	8	8	6	7	J	
+3514	Pareja	8	8	6	7	Q	
+3515	Pareja	8	8	6	7	K	
+3516	Pareja	8	8	6	9	10	
+3517	Pareja	8	8	6	9	J	
+3518	Pareja	8	8	6	9	Q	
+3519	Pareja	8	8	6	9	K	
+3520	Pareja	8	8	6	10	J	
+3521	Pareja	8	8	6	10	Q	
+3522	Pareja	8	8	6	10	K	
+3523	Pareja	8	8	6	J	Q	
+3524	Pareja	8	8	6	J	K	
+3525	Pareja	8	8	6	Q	K	
+3526	Pareja	8	8	7	9	10	
+3527	Pareja	8	8	7	9	J	
+3528	Pareja	8	8	7	9	Q	
+3529	Pareja	8	8	7	9	K	
+3530	Pareja	8	8	7	10	J	
+3531	Pareja	8	8	7	10	Q	
+3532	Pareja	8	8	7	10	K	
+3533	Pareja	8	8	7	J	Q	
+3534	Pareja	8	8	7	J	K	
+3535	Pareja	8	8	7	Q	K	
+3536	Pareja	8	8	9	10	J	
+3537	Pareja	8	8	9	10	Q	
+3538	Pareja	8	8	9	10	K	
+3539	Pareja	8	8	9	J	Q	
+3540	Pareja	8	8	9	J	K	
+3541	Pareja	8	8	9	Q	K	
+3542	Pareja	8	8	10	J	Q	
+3543	Pareja	8	8	10	J	K	
+3544	Pareja	8	8	10	Q	K	
+3545	Pareja	8	8	J	Q	K	
+3546	Pareja	7	7	2	3	4	
+3547	Pareja	7	7	2	3	5	
+3548	Pareja	7	7	2	3	6	
+3549	Pareja	7	7	2	3	8	
+3550	Pareja	7	7	2	3	9	
+3551	Pareja	7	7	2	3	10	
+3552	Pareja	7	7	2	3	J	
+3553	Pareja	7	7	2	3	Q	
+3554	Pareja	7	7	2	3	K	
+3555	Pareja	7	7	2	4	5	
+3556	Pareja	7	7	2	4	6	
+3557	Pareja	7	7	2	4	8	
+3558	Pareja	7	7	2	4	9	
+3559	Pareja	7	7	2	4	10	
+3560	Pareja	7	7	2	4	J	
+3561	Pareja	7	7	2	4	Q	
+3562	Pareja	7	7	2	4	K	
+3563	Pareja	7	7	2	5	6	
+3564	Pareja	7	7	2	5	8	
+3565	Pareja	7	7	2	5	9	
+3566	Pareja	7	7	2	5	10	
+3567	Pareja	7	7	2	5	J	
+3568	Pareja	7	7	2	5	Q	
+3569	Pareja	7	7	2	5	K	
+3570	Pareja	7	7	2	6	8	
+3571	Pareja	7	7	2	6	9	
+3572	Pareja	7	7	2	6	10	
+3573	Pareja	7	7	2	6	J	
+3574	Pareja	7	7	2	6	Q	
+3575	Pareja	7	7	2	6	K	
+3576	Pareja	7	7	2	8	9	
+3577	Pareja	7	7	2	8	10	
+3578	Pareja	7	7	2	8	J	
+3579	Pareja	7	7	2	8	Q	
+3580	Pareja	7	7	2	8	K	
+3581	Pareja	7	7	2	9	10	
+3582	Pareja	7	7	2	9	J	
+3583	Pareja	7	7	2	9	Q	
+3584	Pareja	7	7	2	9	K	
+3585	Pareja	7	7	2	10	J	
+3586	Pareja	7	7	2	10	Q	
+3587	Pareja	7	7	2	10	K	
+3588	Pareja	7	7	2	J	Q	
+3589	Pareja	7	7	2	J	K	
+3590	Pareja	7	7	2	Q	K	
+3591	Pareja	7	7	3	4	5	
+3592	Pareja	7	7	3	4	6	
+3593	Pareja	7	7	3	4	8	
+3594	Pareja	7	7	3	4	9	
+3595	Pareja	7	7	3	4	10	
+3596	Pareja	7	7	3	4	J	
+3597	Pareja	7	7	3	4	Q	
+3598	Pareja	7	7	3	4	K	
+3599	Pareja	7	7	3	5	6	
+3600	Pareja	7	7	3	5	8	
+3601	Pareja	7	7	3	5	9	
+3602	Pareja	7	7	3	5	10	
+3603	Pareja	7	7	3	5	J	
+3604	Pareja	7	7	3	5	Q	
+3605	Pareja	7	7	3	5	K	
+3606	Pareja	7	7	3	6	8	
+3607	Pareja	7	7	3	6	9	
+3608	Pareja	7	7	3	6	10	
+3609	Pareja	7	7	3	6	J	
+3610	Pareja	7	7	3	6	Q	
+3611	Pareja	7	7	3	6	K	
+3612	Pareja	7	7	3	8	9	
+3613	Pareja	7	7	3	8	10	
+3614	Pareja	7	7	3	8	J	
+3615	Pareja	7	7	3	8	Q	
+3616	Pareja	7	7	3	8	K	
+3617	Pareja	7	7	3	9	10	
+3618	Pareja	7	7	3	9	J	
+3619	Pareja	7	7	3	9	Q	
+3620	Pareja	7	7	3	9	K	
+3621	Pareja	7	7	3	10	J	
+3622	Pareja	7	7	3	10	Q	
+3623	Pareja	7	7	3	10	K	
+3624	Pareja	7	7	3	J	Q	
+3625	Pareja	7	7	3	J	K	
+3626	Pareja	7	7	3	Q	K	
+3627	Pareja	7	7	4	5	6	
+3628	Pareja	7	7	4	5	8	
+3629	Pareja	7	7	4	5	9	
+3630	Pareja	7	7	4	5	10	
+3631	Pareja	7	7	4	5	J	
+3632	Pareja	7	7	4	5	Q	
+3633	Pareja	7	7	4	5	K	
+3634	Pareja	7	7	4	6	8	
+3635	Pareja	7	7	4	6	9	
+3636	Pareja	7	7	4	6	10	
+3637	Pareja	7	7	4	6	J	
+3638	Pareja	7	7	4	6	Q	
+3639	Pareja	7	7	4	6	K	
+3640	Pareja	7	7	4	8	9	
+3641	Pareja	7	7	4	8	10	
+3642	Pareja	7	7	4	8	J	
+3643	Pareja	7	7	4	8	Q	
+3644	Pareja	7	7	4	8	K	
+3645	Pareja	7	7	4	9	10	
+3646	Pareja	7	7	4	9	J	
+3647	Pareja	7	7	4	9	Q	
+3648	Pareja	7	7	4	9	K	
+3649	Pareja	7	7	4	10	J	
+3650	Pareja	7	7	4	10	Q	
+3651	Pareja	7	7	4	10	K	
+3652	Pareja	7	7	4	J	Q	
+3653	Pareja	7	7	4	J	K	
+3654	Pareja	7	7	4	Q	K	
+3655	Pareja	7	7	5	6	8	
+3656	Pareja	7	7	5	6	9	
+3657	Pareja	7	7	5	6	10	
+3658	Pareja	7	7	5	6	J	
+3659	Pareja	7	7	5	6	Q	
+3660	Pareja	7	7	5	6	K	
+3661	Pareja	7	7	5	8	9	
+3662	Pareja	7	7	5	8	10	
+3663	Pareja	7	7	5	8	J	
+3664	Pareja	7	7	5	8	Q	
+3665	Pareja	7	7	5	8	K	
+3666	Pareja	7	7	5	9	10	
+3667	Pareja	7	7	5	9	J	
+3668	Pareja	7	7	5	9	Q	
+3669	Pareja	7	7	5	9	K	
+3670	Pareja	7	7	5	10	J	
+3671	Pareja	7	7	5	10	Q	
+3672	Pareja	7	7	5	10	K	
+3673	Pareja	7	7	5	J	Q	
+3674	Pareja	7	7	5	J	K	
+3675	Pareja	7	7	5	Q	K	
+3676	Pareja	7	7	6	8	9	
+3677	Pareja	7	7	6	8	10	
+3678	Pareja	7	7	6	8	J	
+3679	Pareja	7	7	6	8	Q	
+3680	Pareja	7	7	6	8	K	
+3681	Pareja	7	7	6	9	10	
+3682	Pareja	7	7	6	9	J	
+3683	Pareja	7	7	6	9	Q	
+3684	Pareja	7	7	6	9	K	
+3685	Pareja	7	7	6	10	J	
+3686	Pareja	7	7	6	10	Q	
+3687	Pareja	7	7	6	10	K	
+3688	Pareja	7	7	6	J	Q	
+3689	Pareja	7	7	6	J	K	
+3690	Pareja	7	7	6	Q	K	
+3691	Pareja	7	7	8	9	10	
+3692	Pareja	7	7	8	9	J	
+3693	Pareja	7	7	8	9	Q	
+3694	Pareja	7	7	8	9	K	
+3695	Pareja	7	7	8	10	J	
+3696	Pareja	7	7	8	10	Q	
+3697	Pareja	7	7	8	10	K	
+3698	Pareja	7	7	8	J	Q	
+3699	Pareja	7	7	8	J	K	
+3700	Pareja	7	7	8	Q	K	
+3701	Pareja	7	7	9	10	J	
+3702	Pareja	7	7	9	10	Q	
+3703	Pareja	7	7	9	10	K	
+3704	Pareja	7	7	9	J	Q	
+3705	Pareja	7	7	9	J	K	
+3706	Pareja	7	7	9	Q	K	
+3707	Pareja	7	7	10	J	Q	
+3708	Pareja	7	7	10	J	K	
+3709	Pareja	7	7	10	Q	K	
+3710	Pareja	7	7	J	Q	K	
+3711	Pareja	6	6	2	3	4	
+3712	Pareja	6	6	2	3	5	
+3713	Pareja	6	6	2	3	7	
+3714	Pareja	6	6	2	3	8	
+3715	Pareja	6	6	2	3	9	
+3716	Pareja	6	6	2	3	10	
+3717	Pareja	6	6	2	3	J	
+3718	Pareja	6	6	2	3	Q	
+3719	Pareja	6	6	2	3	K	
+3720	Pareja	6	6	2	4	5	
+3721	Pareja	6	6	2	4	7	
+3722	Pareja	6	6	2	4	8	
+3723	Pareja	6	6	2	4	9	
+3724	Pareja	6	6	2	4	10	
+3725	Pareja	6	6	2	4	J	
+3726	Pareja	6	6	2	4	Q	
+3727	Pareja	6	6	2	4	K	
+3728	Pareja	6	6	2	5	7	
+3729	Pareja	6	6	2	5	8	
+3730	Pareja	6	6	2	5	9	
+3731	Pareja	6	6	2	5	10	
+3732	Pareja	6	6	2	5	J	
+3733	Pareja	6	6	2	5	Q	
+3734	Pareja	6	6	2	5	K	
+3735	Pareja	6	6	2	7	8	
+3736	Pareja	6	6	2	7	9	
+3737	Pareja	6	6	2	7	10	
+3738	Pareja	6	6	2	7	J	
+3739	Pareja	6	6	2	7	Q	
+3740	Pareja	6	6	2	7	K	
+3741	Pareja	6	6	2	8	9	
+3742	Pareja	6	6	2	8	10	
+3743	Pareja	6	6	2	8	J	
+3744	Pareja	6	6	2	8	Q	
+3745	Pareja	6	6	2	8	K	
+3746	Pareja	6	6	2	9	10	
+3747	Pareja	6	6	2	9	J	
+3748	Pareja	6	6	2	9	Q	
+3749	Pareja	6	6	2	9	K	
+3750	Pareja	6	6	2	10	J	
+3751	Pareja	6	6	2	10	Q	
+3752	Pareja	6	6	2	10	K	
+3753	Pareja	6	6	2	J	Q	
+3754	Pareja	6	6	2	J	K	
+3755	Pareja	6	6	2	Q	K	
+3756	Pareja	6	6	3	4	5	
+3757	Pareja	6	6	3	4	7	
+3758	Pareja	6	6	3	4	8	
+3759	Pareja	6	6	3	4	9	
+3760	Pareja	6	6	3	4	10	
+3761	Pareja	6	6	3	4	J	
+3762	Pareja	6	6	3	4	Q	
+3763	Pareja	6	6	3	4	K	
+3764	Pareja	6	6	3	5	7	
+3765	Pareja	6	6	3	5	8	
+3766	Pareja	6	6	3	5	9	
+3767	Pareja	6	6	3	5	10	
+3768	Pareja	6	6	3	5	J	
+3769	Pareja	6	6	3	5	Q	
+3770	Pareja	6	6	3	5	K	
+3771	Pareja	6	6	3	7	8	
+3772	Pareja	6	6	3	7	9	
+3773	Pareja	6	6	3	7	10	
+3774	Pareja	6	6	3	7	J	
+3775	Pareja	6	6	3	7	Q	
+3776	Pareja	6	6	3	7	K	
+3777	Pareja	6	6	3	8	9	
+3778	Pareja	6	6	3	8	10	
+3779	Pareja	6	6	3	8	J	
+3780	Pareja	6	6	3	8	Q	
+3781	Pareja	6	6	3	8	K	
+3782	Pareja	6	6	3	9	10	
+3783	Pareja	6	6	3	9	J	
+3784	Pareja	6	6	3	9	Q	
+3785	Pareja	6	6	3	9	K	
+3786	Pareja	6	6	3	10	J	
+3787	Pareja	6	6	3	10	Q	
+3788	Pareja	6	6	3	10	K	
+3789	Pareja	6	6	3	J	Q	
+3790	Pareja	6	6	3	J	K	
+3791	Pareja	6	6	3	Q	K	
+3792	Pareja	6	6	4	5	7	
+3793	Pareja	6	6	4	5	8	
+3794	Pareja	6	6	4	5	9	
+3795	Pareja	6	6	4	5	10	
+3796	Pareja	6	6	4	5	J	
+3797	Pareja	6	6	4	5	Q	
+3798	Pareja	6	6	4	5	K	
+3799	Pareja	6	6	4	7	8	
+3800	Pareja	6	6	4	7	9	
+3801	Pareja	6	6	4	7	10	
+3802	Pareja	6	6	4	7	J	
+3803	Pareja	6	6	4	7	Q	
+3804	Pareja	6	6	4	7	K	
+3805	Pareja	6	6	4	8	9	
+3806	Pareja	6	6	4	8	10	
+3807	Pareja	6	6	4	8	J	
+3808	Pareja	6	6	4	8	Q	
+3809	Pareja	6	6	4	8	K	
+3810	Pareja	6	6	4	9	10	
+3811	Pareja	6	6	4	9	J	
+3812	Pareja	6	6	4	9	Q	
+3813	Pareja	6	6	4	9	K	
+3814	Pareja	6	6	4	10	J	
+3815	Pareja	6	6	4	10	Q	
+3816	Pareja	6	6	4	10	K	
+3817	Pareja	6	6	4	J	Q	
+3818	Pareja	6	6	4	J	K	
+3819	Pareja	6	6	4	Q	K	
+3820	Pareja	6	6	5	7	8	
+3821	Pareja	6	6	5	7	9	
+3822	Pareja	6	6	5	7	10	
+3823	Pareja	6	6	5	7	J	
+3824	Pareja	6	6	5	7	Q	
+3825	Pareja	6	6	5	7	K	
+3826	Pareja	6	6	5	8	9	
+3827	Pareja	6	6	5	8	10	
+3828	Pareja	6	6	5	8	J	
+3829	Pareja	6	6	5	8	Q	
+3830	Pareja	6	6	5	8	K	
+3831	Pareja	6	6	5	9	10	
+3832	Pareja	6	6	5	9	J	
+3833	Pareja	6	6	5	9	Q	
+3834	Pareja	6	6	5	9	K	
+3835	Pareja	6	6	5	10	J	
+3836	Pareja	6	6	5	10	Q	
+3837	Pareja	6	6	5	10	K	
+3838	Pareja	6	6	5	J	Q	
+3839	Pareja	6	6	5	J	K	
+3840	Pareja	6	6	5	Q	K	
+3841	Pareja	6	6	7	8	9	
+3842	Pareja	6	6	7	8	10	
+3843	Pareja	6	6	7	8	J	
+3844	Pareja	6	6	7	8	Q	
+3845	Pareja	6	6	7	8	K	
+3846	Pareja	6	6	7	9	10	
+3847	Pareja	6	6	7	9	J	
+3848	Pareja	6	6	7	9	Q	
+3849	Pareja	6	6	7	9	K	
+3850	Pareja	6	6	7	10	J	
+3851	Pareja	6	6	7	10	Q	
+3852	Pareja	6	6	7	10	K	
+3853	Pareja	6	6	7	J	Q	
+3854	Pareja	6	6	7	J	K	
+3855	Pareja	6	6	7	Q	K	
+3856	Pareja	6	6	8	9	10	
+3857	Pareja	6	6	8	9	J	
+3858	Pareja	6	6	8	9	Q	
+3859	Pareja	6	6	8	9	K	
+3860	Pareja	6	6	8	10	J	
+3861	Pareja	6	6	8	10	Q	
+3862	Pareja	6	6	8	10	K	
+3863	Pareja	6	6	8	J	Q	
+3864	Pareja	6	6	8	J	K	
+3865	Pareja	6	6	8	Q	K	
+3866	Pareja	6	6	9	10	J	
+3867	Pareja	6	6	9	10	Q	
+3868	Pareja	6	6	9	10	K	
+3869	Pareja	6	6	9	J	Q	
+3870	Pareja	6	6	9	J	K	
+3871	Pareja	6	6	9	Q	K	
+3872	Pareja	6	6	10	J	Q	
+3873	Pareja	6	6	10	J	K	
+3874	Pareja	6	6	10	Q	K	
+3875	Pareja	6	6	J	Q	K	
+3876	Pareja	5	5	A	2	3	
+3877	Pareja	5	5	A	2	4	
+3878	Pareja	5	5	A	2	6	
+3879	Pareja	5	5	A	2	7	
+3880	Pareja	5	5	A	2	8	
+3881	Pareja	5	5	A	2	9	
+3882	Pareja	5	5	A	2	10	
+3883	Pareja	5	5	A	2	J	
+3884	Pareja	5	5	A	2	Q	
+3885	Pareja	5	5	A	2	K	
+3886	Pareja	5	5	A	3	4	
+3887	Pareja	5	5	A	3	6	
+3888	Pareja	5	5	A	3	7	
+3889	Pareja	5	5	A	3	8	
+3890	Pareja	5	5	A	3	9	
+3891	Pareja	5	5	A	3	10	
+3892	Pareja	5	5	A	3	J	
+3893	Pareja	5	5	A	3	Q	
+3894	Pareja	5	5	A	3	K	
+3895	Pareja	5	5	A	4	6	
+3896	Pareja	5	5	A	4	7	
+3897	Pareja	5	5	A	4	8	
+3898	Pareja	5	5	A	4	9	
+3899	Pareja	5	5	A	4	10	
+3900	Pareja	5	5	A	4	J	
+3901	Pareja	5	5	A	4	Q	
+3902	Pareja	5	5	A	4	K	
+3903	Pareja	5	5	A	6	7	
+3904	Pareja	5	5	A	6	8	
+3905	Pareja	5	5	A	6	9	
+3906	Pareja	5	5	A	6	10	
+3907	Pareja	5	5	A	6	J	
+3908	Pareja	5	5	A	6	Q	
+3909	Pareja	5	5	A	6	K	
+3910	Pareja	5	5	A	7	8	
+3911	Pareja	5	5	A	7	9	
+3912	Pareja	5	5	A	7	10	
+3913	Pareja	5	5	A	7	J	
+3914	Pareja	5	5	A	7	Q	
+3915	Pareja	5	5	A	7	K	
+3916	Pareja	5	5	A	8	9	
+3917	Pareja	5	5	A	8	10	
+3918	Pareja	5	5	A	8	J	
+3919	Pareja	5	5	A	8	Q	
+3920	Pareja	5	5	A	8	K	
+3921	Pareja	5	5	A	9	10	
+3922	Pareja	5	5	A	9	J	
+3923	Pareja	5	5	A	9	Q	
+3924	Pareja	5	5	A	9	K	
+3925	Pareja	5	5	A	10	J	
+3926	Pareja	5	5	A	10	Q	
+3927	Pareja	5	5	A	10	K	
+3928	Pareja	5	5	A	J	Q	
+3929	Pareja	5	5	A	J	K	
+3930	Pareja	5	5	A	Q	K	
+3931	Pareja	5	5	2	3	4	
+3932	Pareja	5	5	2	3	6	
+3933	Pareja	5	5	2	3	7	
+3934	Pareja	5	5	2	3	8	
+3935	Pareja	5	5	2	3	9	
+3936	Pareja	5	5	2	3	10	
+3937	Pareja	5	5	2	3	J	
+3938	Pareja	5	5	2	3	Q	
+3939	Pareja	5	5	2	3	K	
+3940	Pareja	5	5	2	4	6	
+3941	Pareja	5	5	2	4	7	
+3942	Pareja	5	5	2	4	8	
+3943	Pareja	5	5	2	4	9	
+3944	Pareja	5	5	2	4	10	
+3945	Pareja	5	5	2	4	J	
+3946	Pareja	5	5	2	4	Q	
+3947	Pareja	5	5	2	4	K	
+3948	Pareja	5	5	2	6	7	
+3949	Pareja	5	5	2	6	8	
+3950	Pareja	5	5	2	6	9	
+3951	Pareja	5	5	2	6	10	
+3952	Pareja	5	5	2	6	J	
+3953	Pareja	5	5	2	6	Q	
+3954	Pareja	5	5	2	6	K	
+3955	Pareja	5	5	2	7	8	
+3956	Pareja	5	5	2	7	9	
+3957	Pareja	5	5	2	7	10	
+3958	Pareja	5	5	2	7	J	
+3959	Pareja	5	5	2	7	Q	
+3960	Pareja	5	5	2	7	K	
+3961	Pareja	5	5	2	8	9	
+3962	Pareja	5	5	2	8	10	
+3963	Pareja	5	5	2	8	J	
+3964	Pareja	5	5	2	8	Q	
+3965	Pareja	5	5	2	8	K	
+3966	Pareja	5	5	2	9	10	
+3967	Pareja	5	5	2	9	J	
+3968	Pareja	5	5	2	9	Q	
+3969	Pareja	5	5	2	9	K	
+3970	Pareja	5	5	2	10	J	
+3971	Pareja	5	5	2	10	Q	
+3972	Pareja	5	5	2	10	K	
+3973	Pareja	5	5	2	J	Q	
+3974	Pareja	5	5	2	J	K	
+3975	Pareja	5	5	2	Q	K	
+3976	Pareja	5	5	3	4	6	
+3977	Pareja	5	5	3	4	7	
+3978	Pareja	5	5	3	4	8	
+3979	Pareja	5	5	3	4	9	
+3980	Pareja	5	5	3	4	10	
+3981	Pareja	5	5	3	4	J	
+3982	Pareja	5	5	3	4	Q	
+3983	Pareja	5	5	3	4	K	
+3984	Pareja	5	5	3	6	7	
+3985	Pareja	5	5	3	6	8	
+3986	Pareja	5	5	3	6	9	
+3987	Pareja	5	5	3	6	10	
+3988	Pareja	5	5	3	6	J	
+3989	Pareja	5	5	3	6	Q	
+3990	Pareja	5	5	3	6	K	
+3991	Pareja	5	5	3	7	8	
+3992	Pareja	5	5	3	7	9	
+3993	Pareja	5	5	3	7	10	
+3994	Pareja	5	5	3	7	J	
+3995	Pareja	5	5	3	7	Q	
+3996	Pareja	5	5	3	7	K	
+3997	Pareja	5	5	3	8	9	
+3998	Pareja	5	5	3	8	10	
+3999	Pareja	5	5	3	8	J	
+4000	Pareja	5	5	3	8	Q	
+4001	Pareja	5	5	3	8	K	
+4002	Pareja	5	5	3	9	10	
+4003	Pareja	5	5	3	9	J	
+4004	Pareja	5	5	3	9	Q	
+4005	Pareja	5	5	3	9	K	
+4006	Pareja	5	5	3	10	J	
+4007	Pareja	5	5	3	10	Q	
+4008	Pareja	5	5	3	10	K	
+4009	Pareja	5	5	3	J	Q	
+4010	Pareja	5	5	3	J	K	
+4011	Pareja	5	5	3	Q	K	
+4012	Pareja	5	5	4	6	7	
+4013	Pareja	5	5	4	6	8	
+4014	Pareja	5	5	4	6	9	
+4015	Pareja	5	5	4	6	10	
+4016	Pareja	5	5	4	6	J	
+4017	Pareja	5	5	4	6	Q	
+4018	Pareja	5	5	4	6	K	
+4019	Pareja	5	5	4	7	8	
+4020	Pareja	5	5	4	7	9	
+4021	Pareja	5	5	4	7	10	
+4022	Pareja	5	5	4	7	J	
+4023	Pareja	5	5	4	7	Q	
+4024	Pareja	5	5	4	7	K	
+4025	Pareja	5	5	4	8	9	
+4026	Pareja	5	5	4	8	10	
+4027	Pareja	5	5	4	8	J	
+4028	Pareja	5	5	4	8	Q	
+4029	Pareja	5	5	4	8	K	
+4030	Pareja	5	5	4	9	10	
+4031	Pareja	5	5	4	9	J	
+4032	Pareja	5	5	4	9	Q	
+4033	Pareja	5	5	4	9	K	
+4034	Pareja	5	5	4	10	J	
+4035	Pareja	5	5	4	10	Q	
+4036	Pareja	5	5	4	10	K	
+4037	Pareja	5	5	4	J	Q	
+4038	Pareja	5	5	4	J	K	
+4039	Pareja	5	5	4	Q	K	
+4040	Pareja	5	5	6	7	8	
+4041	Pareja	5	5	6	7	9	
+4042	Pareja	5	5	6	7	10	
+4043	Pareja	5	5	6	7	J	
+4044	Pareja	5	5	6	7	Q	
+4045	Pareja	5	5	6	7	K	
+4046	Pareja	5	5	6	8	9	
+4047	Pareja	5	5	6	8	10	
+4048	Pareja	5	5	6	8	J	
+4049	Pareja	5	5	6	8	Q	
+4050	Pareja	5	5	6	8	K	
+4051	Pareja	5	5	6	9	10	
+4052	Pareja	5	5	6	9	J	
+4053	Pareja	5	5	6	9	Q	
+4054	Pareja	5	5	6	9	K	
+4055	Pareja	5	5	6	10	J	
+4056	Pareja	5	5	6	10	Q	
+4057	Pareja	5	5	6	10	K	
+4058	Pareja	5	5	6	J	Q	
+4059	Pareja	5	5	6	J	K	
+4060	Pareja	5	5	6	Q	K	
+4061	Pareja	5	5	7	8	9	
+4062	Pareja	5	5	7	8	10	
+4063	Pareja	5	5	7	8	J	
+4064	Pareja	5	5	7	8	Q	
+4065	Pareja	5	5	7	8	K	
+4066	Pareja	5	5	7	9	10	
+4067	Pareja	5	5	7	9	J	
+4068	Pareja	5	5	7	9	Q	
+4069	Pareja	5	5	7	9	K	
+4070	Pareja	5	5	7	10	J	
+4071	Pareja	5	5	7	10	Q	
+4072	Pareja	5	5	7	10	K	
+4073	Pareja	5	5	7	J	Q	
+4074	Pareja	5	5	7	J	K	
+4075	Pareja	5	5	7	Q	K	
+4076	Pareja	5	5	8	9	10	
+4077	Pareja	5	5	8	9	J	
+4078	Pareja	5	5	8	9	Q	
+4079	Pareja	5	5	8	9	K	
+4080	Pareja	5	5	8	10	J	
+4081	Pareja	5	5	8	10	Q	
+4082	Pareja	5	5	8	10	K	
+4083	Pareja	5	5	8	J	Q	
+4084	Pareja	5	5	8	J	K	
+4085	Pareja	5	5	8	Q	K	
+4086	Pareja	5	5	9	10	J	
+4087	Pareja	5	5	9	10	Q	
+4088	Pareja	5	5	9	10	K	
+4089	Pareja	5	5	9	J	Q	
+4090	Pareja	5	5	9	J	K	
+4091	Pareja	5	5	9	Q	K	
+4092	Pareja	5	5	10	J	Q	
+4093	Pareja	5	5	10	J	K	
+4094	Pareja	5	5	10	Q	K	
+4095	Pareja	5	5	J	Q	K	
+4096	Pareja	4	4	A	2	3	
+4097	Pareja	4	4	A	2	5	
+4098	Pareja	4	4	A	2	6	
+4099	Pareja	4	4	A	2	7	
+4100	Pareja	4	4	A	2	8	
+4101	Pareja	4	4	A	2	9	
+4102	Pareja	4	4	A	2	10	
+4103	Pareja	4	4	A	2	J	
+4104	Pareja	4	4	A	2	Q	
+4105	Pareja	4	4	A	2	K	
+4106	Pareja	4	4	A	3	5	
+4107	Pareja	4	4	A	3	6	
+4108	Pareja	4	4	A	3	7	
+4109	Pareja	4	4	A	3	8	
+4110	Pareja	4	4	A	3	9	
+4111	Pareja	4	4	A	3	10	
+4112	Pareja	4	4	A	3	J	
+4113	Pareja	4	4	A	3	Q	
+4114	Pareja	4	4	A	3	K	
+4115	Pareja	4	4	A	5	6	
+4116	Pareja	4	4	A	5	7	
+4117	Pareja	4	4	A	5	8	
+4118	Pareja	4	4	A	5	9	
+4119	Pareja	4	4	A	5	10	
+4120	Pareja	4	4	A	5	J	
+4121	Pareja	4	4	A	5	Q	
+4122	Pareja	4	4	A	5	K	
+4123	Pareja	4	4	A	6	7	
+4124	Pareja	4	4	A	6	8	
+4125	Pareja	4	4	A	6	9	
+4126	Pareja	4	4	A	6	10	
+4127	Pareja	4	4	A	6	J	
+4128	Pareja	4	4	A	6	Q	
+4129	Pareja	4	4	A	6	K	
+4130	Pareja	4	4	A	7	8	
+4131	Pareja	4	4	A	7	9	
+4132	Pareja	4	4	A	7	10	
+4133	Pareja	4	4	A	7	J	
+4134	Pareja	4	4	A	7	Q	
+4135	Pareja	4	4	A	7	K	
+4136	Pareja	4	4	A	8	9	
+4137	Pareja	4	4	A	8	10	
+4138	Pareja	4	4	A	8	J	
+4139	Pareja	4	4	A	8	Q	
+4140	Pareja	4	4	A	8	K	
+4141	Pareja	4	4	A	9	10	
+4142	Pareja	4	4	A	9	J	
+4143	Pareja	4	4	A	9	Q	
+4144	Pareja	4	4	A	9	K	
+4145	Pareja	4	4	A	10	J	
+4146	Pareja	4	4	A	10	Q	
+4147	Pareja	4	4	A	10	K	
+4148	Pareja	4	4	A	J	Q	
+4149	Pareja	4	4	A	J	K	
+4150	Pareja	4	4	A	Q	K	
+4151	Pareja	4	4	2	3	5	
+4152	Pareja	4	4	2	3	6	
+4153	Pareja	4	4	2	3	7	
+4154	Pareja	4	4	2	3	8	
+4155	Pareja	4	4	2	3	9	
+4156	Pareja	4	4	2	3	10	
+4157	Pareja	4	4	2	3	J	
+4158	Pareja	4	4	2	3	Q	
+4159	Pareja	4	4	2	3	K	
+4160	Pareja	4	4	2	5	6	
+4161	Pareja	4	4	2	5	7	
+4162	Pareja	4	4	2	5	8	
+4163	Pareja	4	4	2	5	9	
+4164	Pareja	4	4	2	5	10	
+4165	Pareja	4	4	2	5	J	
+4166	Pareja	4	4	2	5	Q	
+4167	Pareja	4	4	2	5	K	
+4168	Pareja	4	4	2	6	7	
+4169	Pareja	4	4	2	6	8	
+4170	Pareja	4	4	2	6	9	
+4171	Pareja	4	4	2	6	10	
+4172	Pareja	4	4	2	6	J	
+4173	Pareja	4	4	2	6	Q	
+4174	Pareja	4	4	2	6	K	
+4175	Pareja	4	4	2	7	8	
+4176	Pareja	4	4	2	7	9	
+4177	Pareja	4	4	2	7	10	
+4178	Pareja	4	4	2	7	J	
+4179	Pareja	4	4	2	7	Q	
+4180	Pareja	4	4	2	7	K	
+4181	Pareja	4	4	2	8	9	
+4182	Pareja	4	4	2	8	10	
+4183	Pareja	4	4	2	8	J	
+4184	Pareja	4	4	2	8	Q	
+4185	Pareja	4	4	2	8	K	
+4186	Pareja	4	4	2	9	10	
+4187	Pareja	4	4	2	9	J	
+4188	Pareja	4	4	2	9	Q	
+4189	Pareja	4	4	2	9	K	
+4190	Pareja	4	4	2	10	J	
+4191	Pareja	4	4	2	10	Q	
+4192	Pareja	4	4	2	10	K	
+4193	Pareja	4	4	2	J	Q	
+4194	Pareja	4	4	2	J	K	
+4195	Pareja	4	4	2	Q	K	
+4196	Pareja	4	4	3	5	6	
+4197	Pareja	4	4	3	5	7	
+4198	Pareja	4	4	3	5	8	
+4199	Pareja	4	4	3	5	9	
+4200	Pareja	4	4	3	5	10	
+4201	Pareja	4	4	3	5	J	
+4202	Pareja	4	4	3	5	Q	
+4203	Pareja	4	4	3	5	K	
+4204	Pareja	4	4	3	6	7	
+4205	Pareja	4	4	3	6	8	
+4206	Pareja	4	4	3	6	9	
+4207	Pareja	4	4	3	6	10	
+4208	Pareja	4	4	3	6	J	
+4209	Pareja	4	4	3	6	Q	
+4210	Pareja	4	4	3	6	K	
+4211	Pareja	4	4	3	7	8	
+4212	Pareja	4	4	3	7	9	
+4213	Pareja	4	4	3	7	10	
+4214	Pareja	4	4	3	7	J	
+4215	Pareja	4	4	3	7	Q	
+4216	Pareja	4	4	3	7	K	
+4217	Pareja	4	4	3	8	9	
+4218	Pareja	4	4	3	8	10	
+4219	Pareja	4	4	3	8	J	
+4220	Pareja	4	4	3	8	Q	
+4221	Pareja	4	4	3	8	K	
+4222	Pareja	4	4	3	9	10	
+4223	Pareja	4	4	3	9	J	
+4224	Pareja	4	4	3	9	Q	
+4225	Pareja	4	4	3	9	K	
+4226	Pareja	4	4	3	10	J	
+4227	Pareja	4	4	3	10	Q	
+4228	Pareja	4	4	3	10	K	
+4229	Pareja	4	4	3	J	Q	
+4230	Pareja	4	4	3	J	K	
+4231	Pareja	4	4	3	Q	K	
+4232	Pareja	4	4	5	6	7	
+4233	Pareja	4	4	5	6	8	
+4234	Pareja	4	4	5	6	9	
+4235	Pareja	4	4	5	6	10	
+4236	Pareja	4	4	5	6	J	
+4237	Pareja	4	4	5	6	Q	
+4238	Pareja	4	4	5	6	K	
+4239	Pareja	4	4	5	7	8	
+4240	Pareja	4	4	5	7	9	
+4241	Pareja	4	4	5	7	10	
+4242	Pareja	4	4	5	7	J	
+4243	Pareja	4	4	5	7	Q	
+4244	Pareja	4	4	5	7	K	
+4245	Pareja	4	4	5	8	9	
+4246	Pareja	4	4	5	8	10	
+4247	Pareja	4	4	5	8	J	
+4248	Pareja	4	4	5	8	Q	
+4249	Pareja	4	4	5	8	K	
+4250	Pareja	4	4	5	9	10	
+4251	Pareja	4	4	5	9	J	
+4252	Pareja	4	4	5	9	Q	
+4253	Pareja	4	4	5	9	K	
+4254	Pareja	4	4	5	10	J	
+4255	Pareja	4	4	5	10	Q	
+4256	Pareja	4	4	5	10	K	
+4257	Pareja	4	4	5	J	Q	
+4258	Pareja	4	4	5	J	K	
+4259	Pareja	4	4	5	Q	K	
+4260	Pareja	4	4	6	7	8	
+4261	Pareja	4	4	6	7	9	
+4262	Pareja	4	4	6	7	10	
+4263	Pareja	4	4	6	7	J	
+4264	Pareja	4	4	6	7	Q	
+4265	Pareja	4	4	6	7	K	
+4266	Pareja	4	4	6	8	9	
+4267	Pareja	4	4	6	8	10	
+4268	Pareja	4	4	6	8	J	
+4269	Pareja	4	4	6	8	Q	
+4270	Pareja	4	4	6	8	K	
+4271	Pareja	4	4	6	9	10	
+4272	Pareja	4	4	6	9	J	
+4273	Pareja	4	4	6	9	Q	
+4274	Pareja	4	4	6	9	K	
+4275	Pareja	4	4	6	10	J	
+4276	Pareja	4	4	6	10	Q	
+4277	Pareja	4	4	6	10	K	
+4278	Pareja	4	4	6	J	Q	
+4279	Pareja	4	4	6	J	K	
+4280	Pareja	4	4	6	Q	K	
+4281	Pareja	4	4	7	8	9	
+4282	Pareja	4	4	7	8	10	
+4283	Pareja	4	4	7	8	J	
+4284	Pareja	4	4	7	8	Q	
+4285	Pareja	4	4	7	8	K	
+4286	Pareja	4	4	7	9	10	
+4287	Pareja	4	4	7	9	J	
+4288	Pareja	4	4	7	9	Q	
+4289	Pareja	4	4	7	9	K	
+4290	Pareja	4	4	7	10	J	
+4291	Pareja	4	4	7	10	Q	
+4292	Pareja	4	4	7	10	K	
+4293	Pareja	4	4	7	J	Q	
+4294	Pareja	4	4	7	J	K	
+4295	Pareja	4	4	7	Q	K	
+4296	Pareja	4	4	8	9	10	
+4297	Pareja	4	4	8	9	J	
+4298	Pareja	4	4	8	9	Q	
+4299	Pareja	4	4	8	9	K	
+4300	Pareja	4	4	8	10	J	
+4301	Pareja	4	4	8	10	Q	
+4302	Pareja	4	4	8	10	K	
+4303	Pareja	4	4	8	J	Q	
+4304	Pareja	4	4	8	J	K	
+4305	Pareja	4	4	8	Q	K	
+4306	Pareja	4	4	9	10	J	
+4307	Pareja	4	4	9	10	Q	
+4308	Pareja	4	4	9	10	K	
+4309	Pareja	4	4	9	J	Q	
+4310	Pareja	4	4	9	J	K	
+4311	Pareja	4	4	9	Q	K	
+4312	Pareja	4	4	10	J	Q	
+4313	Pareja	4	4	10	J	K	
+4314	Pareja	4	4	10	Q	K	
+4315	Pareja	4	4	J	Q	K	
+4316	Pareja	3	3	A	2	4	
+4317	Pareja	3	3	A	2	5	
+4318	Pareja	3	3	A	2	6	
+4319	Pareja	3	3	A	2	7	
+4320	Pareja	3	3	A	2	8	
+4321	Pareja	3	3	A	2	9	
+4322	Pareja	3	3	A	2	10	
+4323	Pareja	3	3	A	2	J	
+4324	Pareja	3	3	A	2	Q	
+4325	Pareja	3	3	A	2	K	
+4326	Pareja	3	3	A	4	5	
+4327	Pareja	3	3	A	4	6	
+4328	Pareja	3	3	A	4	7	
+4329	Pareja	3	3	A	4	8	
+4330	Pareja	3	3	A	4	9	
+4331	Pareja	3	3	A	4	10	
+4332	Pareja	3	3	A	4	J	
+4333	Pareja	3	3	A	4	Q	
+4334	Pareja	3	3	A	4	K	
+4335	Pareja	3	3	A	5	6	
+4336	Pareja	3	3	A	5	7	
+4337	Pareja	3	3	A	5	8	
+4338	Pareja	3	3	A	5	9	
+4339	Pareja	3	3	A	5	10	
+4340	Pareja	3	3	A	5	J	
+4341	Pareja	3	3	A	5	Q	
+4342	Pareja	3	3	A	5	K	
+4343	Pareja	3	3	A	6	7	
+4344	Pareja	3	3	A	6	8	
+4345	Pareja	3	3	A	6	9	
+4346	Pareja	3	3	A	6	10	
+4347	Pareja	3	3	A	6	J	
+4348	Pareja	3	3	A	6	Q	
+4349	Pareja	3	3	A	6	K	
+4350	Pareja	3	3	A	7	8	
+4351	Pareja	3	3	A	7	9	
+4352	Pareja	3	3	A	7	10	
+4353	Pareja	3	3	A	7	J	
+4354	Pareja	3	3	A	7	Q	
+4355	Pareja	3	3	A	7	K	
+4356	Pareja	3	3	A	8	9	
+4357	Pareja	3	3	A	8	10	
+4358	Pareja	3	3	A	8	J	
+4359	Pareja	3	3	A	8	Q	
+4360	Pareja	3	3	A	8	K	
+4361	Pareja	3	3	A	9	10	
+4362	Pareja	3	3	A	9	J	
+4363	Pareja	3	3	A	9	Q	
+4364	Pareja	3	3	A	9	K	
+4365	Pareja	3	3	A	10	J	
+4366	Pareja	3	3	A	10	Q	
+4367	Pareja	3	3	A	10	K	
+4368	Pareja	3	3	A	J	Q	
+4369	Pareja	3	3	A	J	K	
+4370	Pareja	3	3	A	Q	K	
+4371	Pareja	3	3	2	4	5	
+4372	Pareja	3	3	2	4	6	
+4373	Pareja	3	3	2	4	7	
+4374	Pareja	3	3	2	4	8	
+4375	Pareja	3	3	2	4	9	
+4376	Pareja	3	3	2	4	10	
+4377	Pareja	3	3	2	4	J	
+4378	Pareja	3	3	2	4	Q	
+4379	Pareja	3	3	2	4	K	
+4380	Pareja	3	3	2	5	6	
+4381	Pareja	3	3	2	5	7	
+4382	Pareja	3	3	2	5	8	
+4383	Pareja	3	3	2	5	9	
+4384	Pareja	3	3	2	5	10	
+4385	Pareja	3	3	2	5	J	
+4386	Pareja	3	3	2	5	Q	
+4387	Pareja	3	3	2	5	K	
+4388	Pareja	3	3	2	6	7	
+4389	Pareja	3	3	2	6	8	
+4390	Pareja	3	3	2	6	9	
+4391	Pareja	3	3	2	6	10	
+4392	Pareja	3	3	2	6	J	
+4393	Pareja	3	3	2	6	Q	
+4394	Pareja	3	3	2	6	K	
+4395	Pareja	3	3	2	7	8	
+4396	Pareja	3	3	2	7	9	
+4397	Pareja	3	3	2	7	10	
+4398	Pareja	3	3	2	7	J	
+4399	Pareja	3	3	2	7	Q	
+4400	Pareja	3	3	2	7	K	
+4401	Pareja	3	3	2	8	9	
+4402	Pareja	3	3	2	8	10	
+4403	Pareja	3	3	2	8	J	
+4404	Pareja	3	3	2	8	Q	
+4405	Pareja	3	3	2	8	K	
+4406	Pareja	3	3	2	9	10	
+4407	Pareja	3	3	2	9	J	
+4408	Pareja	3	3	2	9	Q	
+4409	Pareja	3	3	2	9	K	
+4410	Pareja	3	3	2	10	J	
+4411	Pareja	3	3	2	10	Q	
+4412	Pareja	3	3	2	10	K	
+4413	Pareja	3	3	2	J	Q	
+4414	Pareja	3	3	2	J	K	
+4415	Pareja	3	3	2	Q	K	
+4416	Pareja	3	3	4	5	6	
+4417	Pareja	3	3	4	5	7	
+4418	Pareja	3	3	4	5	8	
+4419	Pareja	3	3	4	5	9	
+4420	Pareja	3	3	4	5	10	
+4421	Pareja	3	3	4	5	J	
+4422	Pareja	3	3	4	5	Q	
+4423	Pareja	3	3	4	5	K	
+4424	Pareja	3	3	4	6	7	
+4425	Pareja	3	3	4	6	8	
+4426	Pareja	3	3	4	6	9	
+4427	Pareja	3	3	4	6	10	
+4428	Pareja	3	3	4	6	J	
+4429	Pareja	3	3	4	6	Q	
+4430	Pareja	3	3	4	6	K	
+4431	Pareja	3	3	4	7	8	
+4432	Pareja	3	3	4	7	9	
+4433	Pareja	3	3	4	7	10	
+4434	Pareja	3	3	4	7	J	
+4435	Pareja	3	3	4	7	Q	
+4436	Pareja	3	3	4	7	K	
+4437	Pareja	3	3	4	8	9	
+4438	Pareja	3	3	4	8	10	
+4439	Pareja	3	3	4	8	J	
+4440	Pareja	3	3	4	8	Q	
+4441	Pareja	3	3	4	8	K	
+4442	Pareja	3	3	4	9	10	
+4443	Pareja	3	3	4	9	J	
+4444	Pareja	3	3	4	9	Q	
+4445	Pareja	3	3	4	9	K	
+4446	Pareja	3	3	4	10	J	
+4447	Pareja	3	3	4	10	Q	
+4448	Pareja	3	3	4	10	K	
+4449	Pareja	3	3	4	J	Q	
+4450	Pareja	3	3	4	J	K	
+4451	Pareja	3	3	4	Q	K	
+4452	Pareja	3	3	5	6	7	
+4453	Pareja	3	3	5	6	8	
+4454	Pareja	3	3	5	6	9	
+4455	Pareja	3	3	5	6	10	
+4456	Pareja	3	3	5	6	J	
+4457	Pareja	3	3	5	6	Q	
+4458	Pareja	3	3	5	6	K	
+4459	Pareja	3	3	5	7	8	
+4460	Pareja	3	3	5	7	9	
+4461	Pareja	3	3	5	7	10	
+4462	Pareja	3	3	5	7	J	
+4463	Pareja	3	3	5	7	Q	
+4464	Pareja	3	3	5	7	K	
+4465	Pareja	3	3	5	8	9	
+4466	Pareja	3	3	5	8	10	
+4467	Pareja	3	3	5	8	J	
+4468	Pareja	3	3	5	8	Q	
+4469	Pareja	3	3	5	8	K	
+4470	Pareja	3	3	5	9	10	
+4471	Pareja	3	3	5	9	J	
+4472	Pareja	3	3	5	9	Q	
+4473	Pareja	3	3	5	9	K	
+4474	Pareja	3	3	5	10	J	
+4475	Pareja	3	3	5	10	Q	
+4476	Pareja	3	3	5	10	K	
+4477	Pareja	3	3	5	J	Q	
+4478	Pareja	3	3	5	J	K	
+4479	Pareja	3	3	5	Q	K	
+4480	Pareja	3	3	6	7	8	
+4481	Pareja	3	3	6	7	9	
+4482	Pareja	3	3	6	7	10	
+4483	Pareja	3	3	6	7	J	
+4484	Pareja	3	3	6	7	Q	
+4485	Pareja	3	3	6	7	K	
+4486	Pareja	3	3	6	8	9	
+4487	Pareja	3	3	6	8	10	
+4488	Pareja	3	3	6	8	J	
+4489	Pareja	3	3	6	8	Q	
+4490	Pareja	3	3	6	8	K	
+4491	Pareja	3	3	6	9	10	
+4492	Pareja	3	3	6	9	J	
+4493	Pareja	3	3	6	9	Q	
+4494	Pareja	3	3	6	9	K	
+4495	Pareja	3	3	6	10	J	
+4496	Pareja	3	3	6	10	Q	
+4497	Pareja	3	3	6	10	K	
+4498	Pareja	3	3	6	J	Q	
+4499	Pareja	3	3	6	J	K	
+4500	Pareja	3	3	6	Q	K	
+4501	Pareja	3	3	7	8	9	
+4502	Pareja	3	3	7	8	10	
+4503	Pareja	3	3	7	8	J	
+4504	Pareja	3	3	7	8	Q	
+4505	Pareja	3	3	7	8	K	
+4506	Pareja	3	3	7	9	10	
+4507	Pareja	3	3	7	9	J	
+4508	Pareja	3	3	7	9	Q	
+4509	Pareja	3	3	7	9	K	
+4510	Pareja	3	3	7	10	J	
+4511	Pareja	3	3	7	10	Q	
+4512	Pareja	3	3	7	10	K	
+4513	Pareja	3	3	7	J	Q	
+4514	Pareja	3	3	7	J	K	
+4515	Pareja	3	3	7	Q	K	
+4516	Pareja	3	3	8	9	10	
+4517	Pareja	3	3	8	9	J	
+4518	Pareja	3	3	8	9	Q	
+4519	Pareja	3	3	8	9	K	
+4520	Pareja	3	3	8	10	J	
+4521	Pareja	3	3	8	10	Q	
+4522	Pareja	3	3	8	10	K	
+4523	Pareja	3	3	8	J	Q	
+4524	Pareja	3	3	8	J	K	
+4525	Pareja	3	3	8	Q	K	
+4526	Pareja	3	3	9	10	J	
+4527	Pareja	3	3	9	10	Q	
+4528	Pareja	3	3	9	10	K	
+4529	Pareja	3	3	9	J	Q	
+4530	Pareja	3	3	9	J	K	
+4531	Pareja	3	3	9	Q	K	
+4532	Pareja	3	3	10	J	Q	
+4533	Pareja	3	3	10	J	K	
+4534	Pareja	3	3	10	Q	K	
+4535	Pareja	3	3	J	Q	K	
+4536	Pareja	2	2	A	3	4	
+4537	Pareja	2	2	A	3	5	
+4538	Pareja	2	2	A	3	6	
+4539	Pareja	2	2	A	3	7	
+4540	Pareja	2	2	A	3	8	
+4541	Pareja	2	2	A	3	9	
+4542	Pareja	2	2	A	3	10	
+4543	Pareja	2	2	A	3	J	
+4544	Pareja	2	2	A	3	Q	
+4545	Pareja	2	2	A	3	K	
+4546	Pareja	2	2	A	4	5	
+4547	Pareja	2	2	A	4	6	
+4548	Pareja	2	2	A	4	7	
+4549	Pareja	2	2	A	4	8	
+4550	Pareja	2	2	A	4	9	
+4551	Pareja	2	2	A	4	10	
+4552	Pareja	2	2	A	4	J	
+4553	Pareja	2	2	A	4	Q	
+4554	Pareja	2	2	A	4	K	
+4555	Pareja	2	2	A	5	6	
+4556	Pareja	2	2	A	5	7	
+4557	Pareja	2	2	A	5	8	
+4558	Pareja	2	2	A	5	9	
+4559	Pareja	2	2	A	5	10	
+4560	Pareja	2	2	A	5	J	
+4561	Pareja	2	2	A	5	Q	
+4562	Pareja	2	2	A	5	K	
+4563	Pareja	2	2	A	6	7	
+4564	Pareja	2	2	A	6	8	
+4565	Pareja	2	2	A	6	9	
+4566	Pareja	2	2	A	6	10	
+4567	Pareja	2	2	A	6	J	
+4568	Pareja	2	2	A	6	Q	
+4569	Pareja	2	2	A	6	K	
+4570	Pareja	2	2	A	7	8	
+4571	Pareja	2	2	A	7	9	
+4572	Pareja	2	2	A	7	10	
+4573	Pareja	2	2	A	7	J	
+4574	Pareja	2	2	A	7	Q	
+4575	Pareja	2	2	A	7	K	
+4576	Pareja	2	2	A	8	9	
+4577	Pareja	2	2	A	8	10	
+4578	Pareja	2	2	A	8	J	
+4579	Pareja	2	2	A	8	Q	
+4580	Pareja	2	2	A	8	K	
+4581	Pareja	2	2	A	9	10	
+4582	Pareja	2	2	A	9	J	
+4583	Pareja	2	2	A	9	Q	
+4584	Pareja	2	2	A	9	K	
+4585	Pareja	2	2	A	10	J	
+4586	Pareja	2	2	A	10	Q	
+4587	Pareja	2	2	A	10	K	
+4588	Pareja	2	2	A	J	Q	
+4589	Pareja	2	2	A	J	K	
+4590	Pareja	2	2	A	Q	K	
+4591	Pareja	2	2	3	4	5	
+4592	Pareja	2	2	3	4	6	
+4593	Pareja	2	2	3	4	7	
+4594	Pareja	2	2	3	4	8	
+4595	Pareja	2	2	3	4	9	
+4596	Pareja	2	2	3	4	10	
+4597	Pareja	2	2	3	4	J	
+4598	Pareja	2	2	3	4	Q	
+4599	Pareja	2	2	3	4	K	
+4600	Pareja	2	2	3	5	6	
+4601	Pareja	2	2	3	5	7	
+4602	Pareja	2	2	3	5	8	
+4603	Pareja	2	2	3	5	9	
+4604	Pareja	2	2	3	5	10	
+4605	Pareja	2	2	3	5	J	
+4606	Pareja	2	2	3	5	Q	
+4607	Pareja	2	2	3	5	K	
+4608	Pareja	2	2	3	6	7	
+4609	Pareja	2	2	3	6	8	
+4610	Pareja	2	2	3	6	9	
+4611	Pareja	2	2	3	6	10	
+4612	Pareja	2	2	3	6	J	
+4613	Pareja	2	2	3	6	Q	
+4614	Pareja	2	2	3	6	K	
+4615	Pareja	2	2	3	7	8	
+4616	Pareja	2	2	3	7	9	
+4617	Pareja	2	2	3	7	10	
+4618	Pareja	2	2	3	7	J	
+4619	Pareja	2	2	3	7	Q	
+4620	Pareja	2	2	3	7	K	
+4621	Pareja	2	2	3	8	9	
+4622	Pareja	2	2	3	8	10	
+4623	Pareja	2	2	3	8	J	
+4624	Pareja	2	2	3	8	Q	
+4625	Pareja	2	2	3	8	K	
+4626	Pareja	2	2	3	9	10	
+4627	Pareja	2	2	3	9	J	
+4628	Pareja	2	2	3	9	Q	
+4629	Pareja	2	2	3	9	K	
+4630	Pareja	2	2	3	10	J	
+4631	Pareja	2	2	3	10	Q	
+4632	Pareja	2	2	3	10	K	
+4633	Pareja	2	2	3	J	Q	
+4634	Pareja	2	2	3	J	K	
+4635	Pareja	2	2	3	Q	K	
+4636	Pareja	2	2	4	5	6	
+4637	Pareja	2	2	4	5	7	
+4638	Pareja	2	2	4	5	8	
+4639	Pareja	2	2	4	5	9	
+4640	Pareja	2	2	4	5	10	
+4641	Pareja	2	2	4	5	J	
+4642	Pareja	2	2	4	5	Q	
+4643	Pareja	2	2	4	5	K	
+4644	Pareja	2	2	4	6	7	
+4645	Pareja	2	2	4	6	8	
+4646	Pareja	2	2	4	6	9	
+4647	Pareja	2	2	4	6	10	
+4648	Pareja	2	2	4	6	J	
+4649	Pareja	2	2	4	6	Q	
+4650	Pareja	2	2	4	6	K	
+4651	Pareja	2	2	4	7	8	
+4652	Pareja	2	2	4	7	9	
+4653	Pareja	2	2	4	7	10	
+4654	Pareja	2	2	4	7	J	
+4655	Pareja	2	2	4	7	Q	
+4656	Pareja	2	2	4	7	K	
+4657	Pareja	2	2	4	8	9	
+4658	Pareja	2	2	4	8	10	
+4659	Pareja	2	2	4	8	J	
+4660	Pareja	2	2	4	8	Q	
+4661	Pareja	2	2	4	8	K	
+4662	Pareja	2	2	4	9	10	
+4663	Pareja	2	2	4	9	J	
+4664	Pareja	2	2	4	9	Q	
+4665	Pareja	2	2	4	9	K	
+4666	Pareja	2	2	4	10	J	
+4667	Pareja	2	2	4	10	Q	
+4668	Pareja	2	2	4	10	K	
+4669	Pareja	2	2	4	J	Q	
+4670	Pareja	2	2	4	J	K	
+4671	Pareja	2	2	4	Q	K	
+4672	Pareja	2	2	5	6	7	
+4673	Pareja	2	2	5	6	8	
+4674	Pareja	2	2	5	6	9	
+4675	Pareja	2	2	5	6	10	
+4676	Pareja	2	2	5	6	J	
+4677	Pareja	2	2	5	6	Q	
+4678	Pareja	2	2	5	6	K	
+4679	Pareja	2	2	5	7	8	
+4680	Pareja	2	2	5	7	9	
+4681	Pareja	2	2	5	7	10	
+4682	Pareja	2	2	5	7	J	
+4683	Pareja	2	2	5	7	Q	
+4684	Pareja	2	2	5	7	K	
+4685	Pareja	2	2	5	8	9	
+4686	Pareja	2	2	5	8	10	
+4687	Pareja	2	2	5	8	J	
+4688	Pareja	2	2	5	8	Q	
+4689	Pareja	2	2	5	8	K	
+4690	Pareja	2	2	5	9	10	
+4691	Pareja	2	2	5	9	J	
+4692	Pareja	2	2	5	9	Q	
+4693	Pareja	2	2	5	9	K	
+4694	Pareja	2	2	5	10	J	
+4695	Pareja	2	2	5	10	Q	
+4696	Pareja	2	2	5	10	K	
+4697	Pareja	2	2	5	J	Q	
+4698	Pareja	2	2	5	J	K	
+4699	Pareja	2	2	5	Q	K	
+4700	Pareja	2	2	6	7	8	
+4701	Pareja	2	2	6	7	9	
+4702	Pareja	2	2	6	7	10	
+4703	Pareja	2	2	6	7	J	
+4704	Pareja	2	2	6	7	Q	
+4705	Pareja	2	2	6	7	K	
+4706	Pareja	2	2	6	8	9	
+4707	Pareja	2	2	6	8	10	
+4708	Pareja	2	2	6	8	J	
+4709	Pareja	2	2	6	8	Q	
+4710	Pareja	2	2	6	8	K	
+4711	Pareja	2	2	6	9	10	
+4712	Pareja	2	2	6	9	J	
+4713	Pareja	2	2	6	9	Q	
+4714	Pareja	2	2	6	9	K	
+4715	Pareja	2	2	6	10	J	
+4716	Pareja	2	2	6	10	Q	
+4717	Pareja	2	2	6	10	K	
+4718	Pareja	2	2	6	J	Q	
+4719	Pareja	2	2	6	J	K	
+4720	Pareja	2	2	6	Q	K	
+4721	Pareja	2	2	7	8	9	
+4722	Pareja	2	2	7	8	10	
+4723	Pareja	2	2	7	8	J	
+4724	Pareja	2	2	7	8	Q	
+4725	Pareja	2	2	7	8	K	
+4726	Pareja	2	2	7	9	10	
+4727	Pareja	2	2	7	9	J	
+4728	Pareja	2	2	7	9	Q	
+4729	Pareja	2	2	7	9	K	
+4730	Pareja	2	2	7	10	J	
+4731	Pareja	2	2	7	10	Q	
+4732	Pareja	2	2	7	10	K	
+4733	Pareja	2	2	7	J	Q	
+4734	Pareja	2	2	7	J	K	
+4735	Pareja	2	2	7	Q	K	
+4736	Pareja	2	2	8	9	10	
+4737	Pareja	2	2	8	9	J	
+4738	Pareja	2	2	8	9	Q	
+4739	Pareja	2	2	8	9	K	
+4740	Pareja	2	2	8	10	J	
+4741	Pareja	2	2	8	10	Q	
+4742	Pareja	2	2	8	10	K	
+4743	Pareja	2	2	8	J	Q	
+4744	Pareja	2	2	8	J	K	
+4745	Pareja	2	2	8	Q	K	
+4746	Pareja	2	2	9	10	J	
+4747	Pareja	2	2	9	10	Q	
+4748	Pareja	2	2	9	10	K	
+4749	Pareja	2	2	9	J	Q	
+4750	Pareja	2	2	9	J	K	
+4751	Pareja	2	2	9	Q	K	
+4752	Pareja	2	2	10	J	Q	
+4753	Pareja	2	2	10	J	K	
+4754	Pareja	2	2	10	Q	K	
+4755	Pareja	2	2	J	Q	K	
+4756	Carta_Alta						
