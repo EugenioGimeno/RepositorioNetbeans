@@ -22,9 +22,9 @@ public class Jugador {
 
     public Jugador(String nombre, String primerApellido, int edad, String dni) {
         if (nombre == null || " ".equals(nombre) || primerApellido == null || " ".equals(primerApellido) || !esDniValido(dni)) {
-            throw new IllegalArgumentException("Alguno de los parametros introducidos no son correctos.");
+            throw new IllegalArgumentException("Alguno de los parámetros introducidos no son correctos.");
         } else if (edad < 18) {
-            throw new IllegalArgumentException("Imposible crar la partida, no se permiten menores de edad.");
+            throw new IllegalArgumentException("Imposible crear la partida, no se permiten menores de edad.");
         } else {
             this.nombre = nombre;
             this.primerApellido = primerApellido;
