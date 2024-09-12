@@ -47,7 +47,7 @@ public class TestApp {
             int posicion = Integer.parseInt(lectura.nextLine());
             nuevaPartida.cortarBaraja(posicion);
         }
-        nuevaPartida.listarBarajaBarajada();
+        //nuevaPartida.listarBarajaBarajada();
         nuevaPartida.repartirCartas();
 
         for (int i = 0; i < participantes.length; i++) {
@@ -79,12 +79,11 @@ public class TestApp {
         }
 
         nuevaPartida.completarDescartes();
-
-        for (int i = 0; i < participantes.length; i++) {
-            System.out.println("La mano de: " + participantes[i].getNombre() + " es: \n");
-            System.out.println(participantes[i].getMano().toString());
-            System.out.println();
-        }
+        System.out.println("Lista antes de ordenar las manos");
+        nuevaPartida.listarManosJugadores();
+        nuevaPartida.ordenarManosJugadores();
+        nuevaPartida.listarManosJugadores();
+        nuevaPartida.manosJugadores();
 
         System.out.println("Continuará....");
     }

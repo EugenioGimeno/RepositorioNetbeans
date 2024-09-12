@@ -10,7 +10,7 @@ package poker;
  * @author eugid
  */
 public enum Numeros {
-    UNO, DOS, TRES, CUATRO, CINCO, SEIS, SIETE, OCHO, NUEVE, DIEZ, J, Q, K;
+    DOS, TRES, CUATRO, CINCO, SEIS, SIETE, OCHO, NUEVE, DIEZ, J, Q, K, AS;
 
     public static Numeros seleccionarCarta(int nombreCarta) {
         if (nombreCarta < 0) {
@@ -18,31 +18,31 @@ public enum Numeros {
         }
         switch (nombreCarta) {
             case 0:
-                return UNO;
-            case 1:
                 return DOS;
-            case 2:
+            case 1:
                 return TRES;
-            case 3:
+            case 2:
                 return CUATRO;
-            case 4:
+            case 3:
                 return CINCO;
-            case 5:
+            case 4:
                 return SEIS;
-            case 6:
+            case 5:
                 return SIETE;
-            case 7:
+            case 6:
                 return OCHO;
-            case 8:
+            case 7:
                 return NUEVE;
-            case 9:
+            case 8:
                 return DIEZ;
-            case 10:
+            case 9:
                 return J;
-            case 11:
+            case 10:
                 return Q;
-            case 12:
+            case 11:
                 return K;
+            case 12:
+                return AS;
             default:
                 throw new IllegalArgumentException("Esta carta no se encuentra en la baraja: " + nombreCarta);
         }
